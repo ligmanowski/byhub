@@ -1,0 +1,11 @@
+C:\Users\rapha\DependencyListing\bin\Debug\netcoreapp2.2\DependencyListing.deps.json
+C:\Users\rapha\DependencyListing\bin\Debug\netcoreapp2.2\DependencyListing.runtimeconfig.json
+C:\Users\rapha\DependencyListing\bin\Debug\netcoreapp2.2\DependencyListing.runtimeconfig.dev.json
+C:\Users\rapha\DependencyListing\bin\Debug\netcoreapp2.2\DependencyListing.dll
+C:\Users\rapha\DependencyListing\bin\Debug\netcoreapp2.2\DependencyListing.pdb
+C:\Users\rapha\DependencyListing\obj\Debug\netcoreapp2.2\DependencyListing.csprojAssemblyReference.cache
+C:\Users\rapha\DependencyListing\obj\Debug\netcoreapp2.2\DependencyListing.csproj.CoreCompileInputs.cache
+C:\Users\rapha\DependencyListing\obj\Debug\netcoreapp2.2\DependencyListing.AssemblyInfoInputs.cache
+C:\Users\rapha\DependencyListing\obj\Debug\netcoreapp2.2\DependencyListing.AssemblyInfo.cs
+C:\Users\rapha\DependencyListing\obj\Debug\netcoreapp2.2\DependencyListing.dll
+C:\Users\rapha\DependencyListing\obj\Debug\netcoreapp2.2\DependencyListing.pdb

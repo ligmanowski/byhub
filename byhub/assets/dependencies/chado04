@@ -1,0 +1,64 @@
+liblog-log4perl-perl
+  Depends: perl
+perl
+  Depends: libperl5.26 (= 5.26.1-6ubuntu0.3)
+  Depends: perl-base (= 5.26.1-6ubuntu0.3)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  PreDepends: dpkg (>= 1.17.17)
+libperl5.26
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.23)
+  Depends: libdb5.3
+  Depends: libgdbm-compat4
+  Depends: libgdbm5 (>= 1.12)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  Depends: zlib1g (>= 1:1.2.2.3)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libdb5.3
+  Depends: libc6 (>= 2.17)
+libgdbm-compat4
+  Depends: libc6 (>= 2.14)
+  Depends: libgdbm5 (>= 1.14)
+libgdbm5
+  Depends: libc6 (>= 2.14)
+perl-modules-5.26
+  Depends: perl-base (>= 5.26.1-1)
+  PreDepends: dpkg (>= 1.17.17)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)

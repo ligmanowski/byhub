@@ -1,0 +1,228 @@
+libxml-simple-perl
+  Depends: libxml-libxml-perl
+  Depends: libxml-namespacesupport-perl
+  Depends: libxml-sax-expat-perl
+  Depends: libxml-sax-perl
+  Depends: perl
+libxml-libxml-perl
+  Depends: libc6 (>= 2.14)
+  Depends: libxml-namespacesupport-perl
+  Depends: libxml-sax-perl
+  Depends: libxml2 (>= 2.7.4)
+  Depends: perl (>= 5.26.1-2ubuntu1)
+  Depends: perlapi-5.26.1
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libxml-namespacesupport-perl
+  Depends: perl
+perl
+  Depends: libperl5.26 (= 5.26.1-6ubuntu0.3)
+  Depends: perl-base (= 5.26.1-6ubuntu0.3)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  PreDepends: dpkg (>= 1.17.17)
+libperl5.26
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.23)
+  Depends: libdb5.3
+  Depends: libgdbm-compat4
+  Depends: libgdbm5 (>= 1.12)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  Depends: zlib1g (>= 1:1.2.2.3)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+libdb5.3
+  Depends: libc6 (>= 2.17)
+libgdbm-compat4
+  Depends: libc6 (>= 2.14)
+  Depends: libgdbm5 (>= 1.14)
+libgdbm5
+  Depends: libc6 (>= 2.14)
+perl-modules-5.26
+  Depends: perl-base (>= 5.26.1-1)
+  PreDepends: dpkg (>= 1.17.17)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)
+libxml-sax-perl
+  Depends: libxml-namespacesupport-perl
+  Depends: libxml-sax-base-perl
+  Depends: perl
+  Depends: ucf (>= 0.28)
+libxml-sax-base-perl
+  Depends: perl
+ucf
+  Depends: coreutils (>= 5.91)
+  Depends: debconf (>= 1.5.19)
+  Depends: sensible-utils
+coreutils
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libattr1 (>= 1:2.4.46-8)
+  PreDepends: libc6 (>= 2.25)
+  PreDepends: libselinux1 (>= 2.1.13)
+debconf
+  PreDepends: perl-base (>= 5.20.1-3~)
+sensible-utils
+libxml2
+  Depends: libc6 (>= 2.15)
+  Depends: libicu60 (>= 60.1-1~)
+  Depends: liblzma5 (>= 5.1.1alpha+20120614)
+  Depends: zlib1g (>= 1:1.2.3.3)
+libicu60
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: libstdc++6 (>= 5.2)
+libstdc++6
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.18)
+  Depends: libgcc1 (>= 1:4.2)
+perlapi-5.26.1
+libxml-sax-expat-perl
+  Depends: libxml-namespacesupport-perl (>= 0.03)
+  Depends: libxml-parser-perl (>= 2.27)
+  Depends: libxml-sax-perl (>= 0.03)
+  Depends: perl
+libxml-parser-perl
+  Depends: libc6 (>= 2.14)
+  Depends: libexpat1 (>= 2.0.1)
+  Depends: liburi-perl
+  Depends: libwww-perl
+  Depends: perl (>= 5.26.0-4)
+  Depends: perlapi-5.26.0
+libexpat1
+  Depends: libc6 (>= 2.25)
+liburi-perl
+  Depends: perl:any
+perl:any
+libwww-perl
+  Depends: ca-certificates
+  Depends: libencode-locale-perl
+  Depends: libfile-listing-perl
+  Depends: libhtml-parser-perl
+  Depends: libhtml-tagset-perl
+  Depends: libhtml-tree-perl
+  Depends: libhttp-cookies-perl
+  Depends: libhttp-date-perl
+  Depends: libhttp-message-perl
+  Depends: libhttp-negotiate-perl
+  Depends: liblwp-mediatypes-perl
+  Depends: liblwp-protocol-https-perl
+  Depends: libnet-http-perl (>= 6.07)
+  Depends: libtry-tiny-perl
+  Depends: liburi-perl
+  Depends: libwww-robotrules-perl
+  Depends: netbase
+  Depends: perl
+ca-certificates
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: openssl (>= 1.1.0)
+debconf-2.0
+openssl
+  Depends: libc6 (>= 2.15)
+  Depends: libssl1.1 (>= 1.1.0)
+libssl1.1
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libc6 (>= 2.14)
+libencode-locale-perl
+  Depends: perl
+libfile-listing-perl
+  Depends: libhttp-date-perl
+  Depends: perl
+libhttp-date-perl
+  Depends: libtimedate-perl
+  Depends: perl
+libtimedate-perl
+  Depends: perl
+libhtml-parser-perl
+  Depends: libc6 (>= 2.4)
+  Depends: libhtml-tagset-perl
+  Depends: liburi-perl
+  Depends: perl (>= 5.26.0-4)
+  Depends: perlapi-5.26.0
+libhtml-tagset-perl
+  Depends: perl
+perlapi-5.26.0
+libhtml-tree-perl
+  Depends: libhtml-parser-perl
+  Depends: libhtml-tagset-perl
+  Depends: perl
+libhttp-cookies-perl
+  Depends: libhttp-date-perl
+  Depends: libhttp-message-perl
+  Depends: perl
+libhttp-message-perl
+  Depends: libencode-locale-perl
+  Depends: libhttp-date-perl
+  Depends: libio-html-perl
+  Depends: liblwp-mediatypes-perl
+  Depends: liburi-perl
+  Depends: perl
+libio-html-perl
+  Depends: perl
+liblwp-mediatypes-perl
+  Depends: perl
+libhttp-negotiate-perl
+  Depends: libhttp-message-perl
+  Depends: perl
+liblwp-protocol-https-perl
+  Depends: ca-certificates
+  Depends: libio-socket-ssl-perl
+  Depends: libnet-http-perl
+  Depends: libwww-perl (>= 6.05-2)
+  Depends: perl
+libio-socket-ssl-perl
+  Depends: libnet-ssleay-perl (>= 1.59)
+  Depends: netbase
+  Depends: perl
+libnet-ssleay-perl
+  Depends: libc6 (>= 2.14)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: perl (>= 5.26.1-4build1)
+  Depends: perl-openssl-abi-1.1
+  Depends: perlapi-5.26.1
+perl-openssl-abi-1.1
+netbase
+libnet-http-perl
+  Depends: libio-socket-ip-perl
+  Depends: liburi-perl
+  Depends: perl (>= 5.19.8)
+libio-socket-ip-perl
+  Depends: netbase
+libtry-tiny-perl
+  Depends: perl
+libwww-robotrules-perl
+  Depends: liburi-perl
+  Depends: perl

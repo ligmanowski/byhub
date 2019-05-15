@@ -1,0 +1,118 @@
+bioperl
+  Depends: libbio-perl-perl (= 1.7.2-2)
+  Depends: libtest-most-perl
+  Depends: perl:any
+libbio-perl-perl
+  Depends: libdata-stag-perl
+  Depends: libio-string-perl
+  Depends: perl
+libdata-stag-perl
+  Depends: libio-string-perl
+  Depends: perl
+libio-string-perl
+  Depends: perl
+perl
+  Depends: libperl5.26 (= 5.26.1-6ubuntu0.3)
+  Depends: perl-base (= 5.26.1-6ubuntu0.3)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  PreDepends: dpkg (>= 1.17.17)
+libperl5.26
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.23)
+  Depends: libdb5.3
+  Depends: libgdbm-compat4
+  Depends: libgdbm5 (>= 1.12)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  Depends: zlib1g (>= 1:1.2.2.3)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libdb5.3
+  Depends: libc6 (>= 2.17)
+libgdbm-compat4
+  Depends: libc6 (>= 2.14)
+  Depends: libgdbm5 (>= 1.14)
+libgdbm5
+  Depends: libc6 (>= 2.14)
+perl-modules-5.26
+  Depends: perl-base (>= 5.26.1-1)
+  PreDepends: dpkg (>= 1.17.17)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)
+libtest-most-perl
+  Depends: libexception-class-perl
+  Depends: libtest-deep-perl (>= 0.119)
+  Depends: libtest-differences-perl (>= 0.64)
+  Depends: libtest-exception-perl (>= 0.43)
+  Depends: libtest-harness-perl (>= 3.35)
+  Depends: libtest-simple-perl (>= 1.302047)
+  Depends: libtest-warn-perl (>= 0.30)
+  Depends: perl (>= 5.21.8)
+libexception-class-perl
+  Depends: libclass-data-inheritable-perl
+  Depends: libdevel-stacktrace-perl (>= 2.00)
+  Depends: perl
+libclass-data-inheritable-perl
+  Depends: perl
+libdevel-stacktrace-perl
+  Depends: perl
+libtest-deep-perl
+  Depends: perl
+libtest-differences-perl
+  Depends: libcapture-tiny-perl (>= 0.24)
+  Depends: libtext-diff-perl (>= 1.43)
+  Depends: perl (>= 5.13.0)
+libcapture-tiny-perl
+  Depends: perl
+libtext-diff-perl
+  Depends: libalgorithm-diff-perl
+  Depends: perl
+libalgorithm-diff-perl
+  Depends: perl
+libtest-exception-perl
+  Depends: libsub-uplevel-perl
+  Depends: perl
+libsub-uplevel-perl
+  Depends: perl
+libtest-harness-perl
+  Depends: perl
+libtest-simple-perl
+  Depends: perl
+libtest-warn-perl
+  Depends: libsub-uplevel-perl
+  Depends: perl
+perl:any

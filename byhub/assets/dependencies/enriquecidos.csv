@@ -1,0 +1,2051 @@
+Aplicação,Dependência,Pacote,Versão,Peso
+APACHE,apache2,apache2-bin ,= 2.4.29-1ubuntu4.5,8
+APACHE,apache2,apache2-data ,= 2.4.29-1ubuntu4.5,8
+APACHE,apache2,apache2-utils ,= 2.4.29-1ubuntu4.5,8
+APACHE,apache2,lsb-base,any,8
+APACHE,apache2,mime-support,any,8
+APACHE,apache2,perl,any,8
+APACHE,apache2,perl:any,any,8
+APACHE,apache2,procps,any,8
+APACHE,apache2-bin,libapr1 ,>= 1.6.2,17
+APACHE,apache2-bin,libaprutil1 ,>= 1.6.0,17
+APACHE,apache2-bin,libaprutil1-dbd-freetds,any,17
+APACHE,apache2-bin,libaprutil1-dbd-mysql,any,17
+APACHE,apache2-bin,libaprutil1-dbd-odbc,any,17
+APACHE,apache2-bin,libaprutil1-dbd-pgsql,any,17
+APACHE,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+APACHE,apache2-bin,libaprutil1-ldap,any,17
+APACHE,apache2-bin,libc6 ,>= 2.14,17
+APACHE,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+APACHE,apache2-bin,liblua5.2-0,any,17
+APACHE,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+APACHE,apache2-bin,libpcre3,any,17
+APACHE,apache2-bin,libssl1.1 ,>= 1.1.0,17
+APACHE,apache2-bin,libxml2 ,>= 2.7.4,17
+APACHE,apache2-bin,perl:any,any,17
+APACHE,apache2-bin,zlib1g ,>= 1:1.1.4,17
+APACHE,libapr1,libc6 ,>= 2.15,2
+APACHE,libapr1,libuuid1 ,>= 2.16,2
+APACHE,libc6,libgcc1,any,1
+APACHE,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+APACHE,libgcc1,libc6 ,>= 2.14,2
+APACHE,libuuid1,libc6 ,>= 2.25,1
+APACHE,libaprutil1,libapr1 ,>= 1.6.2,6
+APACHE,libaprutil1,libc6 ,>= 2.25,6
+APACHE,libaprutil1,libdb5.3,any,6
+APACHE,libaprutil1,libexpat1 ,>= 2.0.1,6
+APACHE,libaprutil1,libgdbm5 ,>= 1.14,6
+APACHE,libaprutil1,libssl1.1 ,>= 1.1.0,6
+APACHE,libdb5.3,libc6 ,>= 2.17,1
+APACHE,libexpat1,libc6 ,>= 2.25,1
+APACHE,libgdbm5,libc6 ,>= 2.14,1
+APACHE,libssl1.1,debconf ,>= 0.5,3
+APACHE,libssl1.1,debconf-2.0,any,3
+APACHE,libssl1.1,libc6 ,>= 2.14,3
+APACHE,dpkg,tar ,>= 1.28-1,1
+APACHE,libacl1,libattr1 ,>= 1:2.4.46-8,2
+APACHE,libacl1,libc6 ,>= 2.14,2
+APACHE,libattr1,libc6 ,>= 2.4,1
+APACHE,libselinux1,libc6 ,>= 2.14,2
+APACHE,libselinux1,libpcre3,any,2
+APACHE,libpcre3,libc6 ,>= 2.14,1
+APACHE,libbz2-1.0,libc6 ,>= 2.4,1
+APACHE,liblzma5,libc6 ,>= 2.17,1
+APACHE,libzstd1,libc6 ,>= 2.14,1
+APACHE,zlib1g,libc6 ,>= 2.14,1
+APACHE,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+APACHE,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+APACHE,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+APACHE,libmysqlclient20,libc6 ,>= 2.14,5
+APACHE,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+APACHE,libmysqlclient20,libstdc++6 ,>= 5.2,5
+APACHE,libmysqlclient20,mysql-common ,>= 5.5,5
+APACHE,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+APACHE,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+APACHE,libstdc++6,libc6 ,>= 2.18,3
+APACHE,libstdc++6,libgcc1 ,>= 1:4.2,3
+APACHE,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+APACHE,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+APACHE,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+APACHE,libodbc1,libc6 ,>= 2.14,2
+APACHE,libodbc1,libltdl7 ,>= 2.4.6,2
+APACHE,libltdl7,libc6 ,>= 2.14,1
+APACHE,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+APACHE,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+APACHE,libaprutil1-dbd-pgsql,libpq5,any,3
+APACHE,libpq5,libc6 ,>= 2.14,4
+APACHE,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+APACHE,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+APACHE,libpq5,libssl1.1 ,>= 1.1.0,4
+APACHE,libgssapi-krb5-2,libc6 ,>= 2.27,5
+APACHE,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+APACHE,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+APACHE,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+APACHE,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+APACHE,libcom-err2,libc6 ,>= 2.17,1
+APACHE,libk5crypto3,libc6 ,>= 2.14,2
+APACHE,libk5crypto3,libkrb5support0 ,>= 1.16,2
+APACHE,libkrb5support0,libc6 ,>= 2.14,1
+APACHE,libkrb5-3,libc6 ,>= 2.16,5
+APACHE,libkrb5-3,libcom-err2 ,>= 1.34,5
+APACHE,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+APACHE,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+APACHE,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+APACHE,libkeyutils1,libc6 ,>= 2.14,1
+APACHE,libldap-2.4-2,libc6 ,>= 2.14,5
+APACHE,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+APACHE,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+APACHE,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+APACHE,libldap-2.4-2,libsasl2-2,any,5
+APACHE,libgnutls30,libc6 ,>= 2.25,9
+APACHE,libgnutls30,libgmp10 ,>= 2:6,9
+APACHE,libgnutls30,libhogweed4,any,9
+APACHE,libgnutls30,libidn2-0 ,>= 0.6,9
+APACHE,libgnutls30,libnettle6,any,9
+APACHE,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+APACHE,libgnutls30,libtasn1-6 ,>= 4.12,9
+APACHE,libgnutls30,libunistring2 ,>= 0.9.7,9
+APACHE,libgnutls30,zlib1g ,>= 1:1.1.4,9
+APACHE,libgmp10,libc6 ,>= 2.14,1
+APACHE,libhogweed4,libc6 ,>= 2.14,3
+APACHE,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+APACHE,libhogweed4,libnettle6 ,2.4,3
+APACHE,libnettle6,libc6 ,>= 2.14,1
+APACHE,libidn2-0,libc6 ,>= 2.14,2
+APACHE,libidn2-0,libunistring2 ,>= 0.9.7,2
+APACHE,libunistring2,libc6 ,>= 2.14,1
+APACHE,libp11-kit0,libc6 ,>= 2.26,2
+APACHE,libp11-kit0,libffi6 ,>= 3.0.4,2
+APACHE,libffi6,libc6 ,>= 2.14,1
+APACHE,libtasn1-6,libc6 ,>= 2.14,1
+APACHE,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libgssapi3-heimdal,libc6 ,>= 2.14,7
+APACHE,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+APACHE,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+APACHE,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libasn1-8-heimdal,libc6 ,>= 2.14,3
+APACHE,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+APACHE,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+APACHE,libcomerr2,libcom-err2,any,1
+APACHE,libroken18-heimdal,libc6 ,>= 2.16,1
+APACHE,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+APACHE,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+APACHE,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+APACHE,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+APACHE,libheimbase1-heimdal,libc6 ,>= 2.14,1
+APACHE,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+APACHE,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+APACHE,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+APACHE,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+APACHE,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+APACHE,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+APACHE,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+APACHE,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+APACHE,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+APACHE,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+APACHE,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+APACHE,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+APACHE,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+APACHE,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+APACHE,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libhx509-5-heimdal,libc6 ,>= 2.14,7
+APACHE,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+APACHE,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+APACHE,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+APACHE,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+APACHE,libwind0-heimdal,libc6 ,>= 2.14,3
+APACHE,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+APACHE,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+APACHE,libsqlite3-0,libc6 ,>= 2.14,1
+APACHE,libsasl2-2,libc6 ,>= 2.15,2
+APACHE,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+APACHE,libsasl2-modules-db,libc6 ,>= 2.14,2
+APACHE,libsasl2-modules-db,libdb5.3,any,2
+APACHE,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+APACHE,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+APACHE,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+APACHE,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+APACHE,libaprutil1-ldap,libc6 ,>= 2.4,3
+APACHE,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+APACHE,liblua5.2-0,libc6 ,>= 2.14,2
+APACHE,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+APACHE,libnghttp2-14,libc6 ,>= 2.14,1
+APACHE,libxml2,libc6 ,>= 2.15,4
+APACHE,libxml2,libicu60 ,>= 60.1-1~,4
+APACHE,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+APACHE,libxml2,zlib1g ,>= 1:1.2.3.3,4
+APACHE,libicu60,libc6 ,>= 2.14,3
+APACHE,libicu60,libgcc1 ,>= 1:3.0,3
+APACHE,libicu60,libstdc++6 ,>= 5.2,3
+APACHE,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+APACHE,apache2-utils,libaprutil1 ,>= 1.5.0,4
+APACHE,apache2-utils,libc6 ,>= 2.14,4
+APACHE,apache2-utils,libssl1.1 ,>= 1.1.0,4
+APACHE,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+APACHE,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+APACHE,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+APACHE,libperl5.26,libbz2-1.0,any,7
+APACHE,libperl5.26,libc6 ,>= 2.23,7
+APACHE,libperl5.26,libdb5.3,any,7
+APACHE,libperl5.26,libgdbm-compat4,any,7
+APACHE,libperl5.26,libgdbm5 ,>= 1.12,7
+APACHE,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+APACHE,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+APACHE,libgdbm-compat4,libc6 ,>= 2.14,2
+APACHE,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+APACHE,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+APACHE,procps,init-system-helpers ,>= 1.29~,7
+APACHE,procps,libc6 ,>= 2.27,7
+APACHE,procps,libncurses5 ,>= 6,7
+APACHE,procps,libncursesw5 ,>= 6,7
+APACHE,procps,libprocps6,any,7
+APACHE,procps,libtinfo5 ,>= 6,7
+APACHE,procps,lsb-base ,>= 3.0-10,7
+APACHE,init-system-helpers,perl-base ,>= 5.20.1-3,1
+APACHE,libncurses5,libc6 ,>= 2.14,2
+APACHE,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+APACHE,libtinfo5,libc6 ,>= 2.16,1
+APACHE,libncursesw5,libc6 ,>= 2.14,2
+APACHE,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+APACHE,libprocps6,libc6 ,>= 2.14,2
+APACHE,libprocps6,libsystemd0 ,>= 209,2
+APACHE,libgcrypt20,libc6 ,>= 2.15,2
+APACHE,libgcrypt20,libgpg-error0 ,>= 1.25,2
+APACHE,libgpg-error0,libc6 ,>= 2.15,1
+APACHE,liblz4-1,libc6 ,>= 2.14,1
+APACHE,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+APACHE,apache2-utils,libaprutil1 ,>= 1.5.0,4
+APACHE,apache2-utils,libc6 ,>= 2.14,4
+APACHE,apache2-utils,libssl1.1 ,>= 1.1.0,4
+APACHE,libapr1,libc6 ,>= 2.15,2
+APACHE,libapr1,libuuid1 ,>= 2.16,2
+APACHE,libc6,libgcc1,any,1
+APACHE,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+APACHE,libgcc1,libc6 ,>= 2.14,2
+APACHE,libuuid1,libc6 ,>= 2.25,1
+APACHE,libaprutil1,libapr1 ,>= 1.6.2,6
+APACHE,libaprutil1,libc6 ,>= 2.25,6
+APACHE,libaprutil1,libdb5.3,any,6
+APACHE,libaprutil1,libexpat1 ,>= 2.0.1,6
+APACHE,libaprutil1,libgdbm5 ,>= 1.14,6
+APACHE,libaprutil1,libssl1.1 ,>= 1.1.0,6
+APACHE,libdb5.3,libc6 ,>= 2.17,1
+APACHE,libexpat1,libc6 ,>= 2.25,1
+APACHE,libgdbm5,libc6 ,>= 2.14,1
+APACHE,libssl1.1,debconf ,>= 0.5,3
+APACHE,libssl1.1,debconf-2.0,any,3
+APACHE,libssl1.1,libc6 ,>= 2.14,3
+APACHE,dpkg,tar ,>= 1.28-1,1
+APACHE,libacl1,libattr1 ,>= 1:2.4.46-8,2
+APACHE,libacl1,libc6 ,>= 2.14,2
+APACHE,libattr1,libc6 ,>= 2.4,1
+APACHE,libselinux1,libc6 ,>= 2.14,2
+APACHE,libselinux1,libpcre3,any,2
+APACHE,libpcre3,libc6 ,>= 2.14,1
+APACHE,libbz2-1.0,libc6 ,>= 2.4,1
+APACHE,liblzma5,libc6 ,>= 2.17,1
+APACHE,libzstd1,libc6 ,>= 2.14,1
+APACHE,zlib1g,libc6 ,>= 2.14,1
+CHADO,libpq-dev,libpq5 ,= 10.6-0ubuntu0.18.04.1,1
+CHADO,libpq5,libc6 ,>= 2.14,4
+CHADO,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+CHADO,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+CHADO,libpq5,libssl1.1 ,>= 1.1.0,4
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libgssapi-krb5-2,libc6 ,>= 2.27,5
+CHADO,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+CHADO,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+CHADO,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+CHADO,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+CHADO,libcom-err2,libc6 ,>= 2.17,1
+CHADO,libk5crypto3,libc6 ,>= 2.14,2
+CHADO,libk5crypto3,libkrb5support0 ,>= 1.16,2
+CHADO,libkrb5support0,libc6 ,>= 2.14,1
+CHADO,libkrb5-3,libc6 ,>= 2.16,5
+CHADO,libkrb5-3,libcom-err2 ,>= 1.34,5
+CHADO,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+CHADO,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+CHADO,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+CHADO,libkeyutils1,libc6 ,>= 2.14,1
+CHADO,libldap-2.4-2,libc6 ,>= 2.14,5
+CHADO,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+CHADO,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+CHADO,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+CHADO,libldap-2.4-2,libsasl2-2,any,5
+CHADO,libgnutls30,libc6 ,>= 2.25,9
+CHADO,libgnutls30,libgmp10 ,>= 2:6,9
+CHADO,libgnutls30,libhogweed4,any,9
+CHADO,libgnutls30,libidn2-0 ,>= 0.6,9
+CHADO,libgnutls30,libnettle6,any,9
+CHADO,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+CHADO,libgnutls30,libtasn1-6 ,>= 4.12,9
+CHADO,libgnutls30,libunistring2 ,>= 0.9.7,9
+CHADO,libgnutls30,zlib1g ,>= 1:1.1.4,9
+CHADO,libgmp10,libc6 ,>= 2.14,1
+CHADO,libhogweed4,libc6 ,>= 2.14,3
+CHADO,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+CHADO,libhogweed4,libnettle6 ,2.4,3
+CHADO,libnettle6,libc6 ,>= 2.14,1
+CHADO,libidn2-0,libc6 ,>= 2.14,2
+CHADO,libidn2-0,libunistring2 ,>= 0.9.7,2
+CHADO,libunistring2,libc6 ,>= 2.14,1
+CHADO,libp11-kit0,libc6 ,>= 2.26,2
+CHADO,libp11-kit0,libffi6 ,>= 3.0.4,2
+CHADO,libffi6,libc6 ,>= 2.14,1
+CHADO,libtasn1-6,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libgssapi3-heimdal,libc6 ,>= 2.14,7
+CHADO,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+CHADO,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+CHADO,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libasn1-8-heimdal,libc6 ,>= 2.14,3
+CHADO,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+CHADO,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+CHADO,libcomerr2,libcom-err2,any,1
+CHADO,libroken18-heimdal,libc6 ,>= 2.16,1
+CHADO,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+CHADO,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+CHADO,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+CHADO,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+CHADO,libheimbase1-heimdal,libc6 ,>= 2.14,1
+CHADO,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+CHADO,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+CHADO,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+CHADO,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+CHADO,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+CHADO,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+CHADO,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+CHADO,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+CHADO,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+CHADO,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+CHADO,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+CHADO,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+CHADO,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+CHADO,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+CHADO,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libhx509-5-heimdal,libc6 ,>= 2.14,7
+CHADO,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+CHADO,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+CHADO,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+CHADO,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+CHADO,libwind0-heimdal,libc6 ,>= 2.14,3
+CHADO,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+CHADO,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+CHADO,libsqlite3-0,libc6 ,>= 2.14,1
+CHADO,libsasl2-2,libc6 ,>= 2.15,2
+CHADO,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+CHADO,libsasl2-modules-db,libc6 ,>= 2.14,2
+CHADO,libsasl2-modules-db,libdb5.3,any,2
+CHADO,libdb5.3,libc6 ,>= 2.17,1
+CHADO,libssl1.1,debconf ,>= 0.5,3
+CHADO,libssl1.1,debconf-2.0,any,3
+CHADO,libssl1.1,libc6 ,>= 2.14,3
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,libtemplate-perl,libappconfig-perl ,>= 1.56,4
+CHADO,libtemplate-perl,libc6 ,>= 2.4,4
+CHADO,libtemplate-perl,perl ,>= 5.26.1-5,4
+CHADO,libtemplate-perl,perlapi-5.26.1,any,4
+CHADO,libappconfig-perl,perl,any,1
+CHADO,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+CHADO,libperl5.26,libbz2-1.0,any,7
+CHADO,libperl5.26,libc6 ,>= 2.23,7
+CHADO,libperl5.26,libdb5.3,any,7
+CHADO,libperl5.26,libgdbm-compat4,any,7
+CHADO,libperl5.26,libgdbm5 ,>= 1.12,7
+CHADO,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+CHADO,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libdb5.3,libc6 ,>= 2.17,1
+CHADO,libgdbm-compat4,libc6 ,>= 2.14,2
+CHADO,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+CHADO,libgdbm5,libc6 ,>= 2.14,1
+CHADO,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,libxml-simple-perl,libxml-libxml-perl,any,5
+CHADO,libxml-simple-perl,libxml-namespacesupport-perl,any,5
+CHADO,libxml-simple-perl,libxml-sax-expat-perl,any,5
+CHADO,libxml-simple-perl,libxml-sax-perl,any,5
+CHADO,libxml-simple-perl,perl,any,5
+CHADO,libxml-libxml-perl,libc6 ,>= 2.14,6
+CHADO,libxml-libxml-perl,libxml-namespacesupport-perl,any,6
+CHADO,libxml-libxml-perl,libxml-sax-perl,any,6
+CHADO,libxml-libxml-perl,libxml2 ,>= 2.7.4,6
+CHADO,libxml-libxml-perl,perl ,>= 5.26.1-2ubuntu1,6
+CHADO,libxml-libxml-perl,perlapi-5.26.1,any,6
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libxml-namespacesupport-perl,perl,any,1
+CHADO,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+CHADO,libperl5.26,libbz2-1.0,any,7
+CHADO,libperl5.26,libc6 ,>= 2.23,7
+CHADO,libperl5.26,libdb5.3,any,7
+CHADO,libperl5.26,libgdbm-compat4,any,7
+CHADO,libperl5.26,libgdbm5 ,>= 1.12,7
+CHADO,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+CHADO,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,libdb5.3,libc6 ,>= 2.17,1
+CHADO,libgdbm-compat4,libc6 ,>= 2.14,2
+CHADO,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+CHADO,libgdbm5,libc6 ,>= 2.14,1
+CHADO,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,libxml-sax-perl,libxml-namespacesupport-perl,any,4
+CHADO,libxml-sax-perl,libxml-sax-base-perl,any,4
+CHADO,libxml-sax-perl,perl,any,4
+CHADO,libxml-sax-perl,ucf ,>= 0.28,4
+CHADO,libxml-sax-base-perl,perl,any,1
+CHADO,ucf,coreutils ,>= 5.91,3
+CHADO,ucf,debconf ,>= 1.5.19,3
+CHADO,ucf,sensible-utils,any,3
+CHADO,libxml2,libc6 ,>= 2.15,4
+CHADO,libxml2,libicu60 ,>= 60.1-1~,4
+CHADO,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+CHADO,libxml2,zlib1g ,>= 1:1.2.3.3,4
+CHADO,libicu60,libc6 ,>= 2.14,3
+CHADO,libicu60,libgcc1 ,>= 1:3.0,3
+CHADO,libicu60,libstdc++6 ,>= 5.2,3
+CHADO,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+CHADO,libstdc++6,libc6 ,>= 2.18,3
+CHADO,libstdc++6,libgcc1 ,>= 1:4.2,3
+CHADO,libxml-sax-expat-perl,libxml-namespacesupport-perl ,>= 0.03,4
+CHADO,libxml-sax-expat-perl,libxml-parser-perl ,>= 2.27,4
+CHADO,libxml-sax-expat-perl,libxml-sax-perl ,>= 0.03,4
+CHADO,libxml-sax-expat-perl,perl,any,4
+CHADO,libxml-parser-perl,libc6 ,>= 2.14,6
+CHADO,libxml-parser-perl,libexpat1 ,>= 2.0.1,6
+CHADO,libxml-parser-perl,liburi-perl,any,6
+CHADO,libxml-parser-perl,libwww-perl,any,6
+CHADO,libxml-parser-perl,perl ,>= 5.26.0-4,6
+CHADO,libxml-parser-perl,perlapi-5.26.0,any,6
+CHADO,libexpat1,libc6 ,>= 2.25,1
+CHADO,liburi-perl,perl:any,any,1
+CHADO,libwww-perl,ca-certificates,any,18
+CHADO,libwww-perl,libencode-locale-perl,any,18
+CHADO,libwww-perl,libfile-listing-perl,any,18
+CHADO,libwww-perl,libhtml-parser-perl,any,18
+CHADO,libwww-perl,libhtml-tagset-perl,any,18
+CHADO,libwww-perl,libhtml-tree-perl,any,18
+CHADO,libwww-perl,libhttp-cookies-perl,any,18
+CHADO,libwww-perl,libhttp-date-perl,any,18
+CHADO,libwww-perl,libhttp-message-perl,any,18
+CHADO,libwww-perl,libhttp-negotiate-perl,any,18
+CHADO,libwww-perl,liblwp-mediatypes-perl,any,18
+CHADO,libwww-perl,liblwp-protocol-https-perl,any,18
+CHADO,libwww-perl,libnet-http-perl ,>= 6.07,18
+CHADO,libwww-perl,libtry-tiny-perl,any,18
+CHADO,libwww-perl,liburi-perl,any,18
+CHADO,libwww-perl,libwww-robotrules-perl,any,18
+CHADO,libwww-perl,netbase,any,18
+CHADO,libwww-perl,perl,any,18
+CHADO,ca-certificates,debconf ,>= 0.5,3
+CHADO,ca-certificates,debconf-2.0,any,3
+CHADO,ca-certificates,openssl ,>= 1.1.0,3
+CHADO,openssl,libc6 ,>= 2.15,2
+CHADO,openssl,libssl1.1 ,>= 1.1.0,2
+CHADO,libssl1.1,debconf ,>= 0.5,3
+CHADO,libssl1.1,debconf-2.0,any,3
+CHADO,libssl1.1,libc6 ,>= 2.14,3
+CHADO,libencode-locale-perl,perl,any,1
+CHADO,libfile-listing-perl,libhttp-date-perl,any,2
+CHADO,libfile-listing-perl,perl,any,2
+CHADO,libhttp-date-perl,libtimedate-perl,any,2
+CHADO,libhttp-date-perl,perl,any,2
+CHADO,libtimedate-perl,perl,any,1
+CHADO,libhtml-parser-perl,libc6 ,>= 2.4,5
+CHADO,libhtml-parser-perl,libhtml-tagset-perl,any,5
+CHADO,libhtml-parser-perl,liburi-perl,any,5
+CHADO,libhtml-parser-perl,perl ,>= 5.26.0-4,5
+CHADO,libhtml-parser-perl,perlapi-5.26.0,any,5
+CHADO,libhtml-tagset-perl,perl,any,1
+CHADO,libhtml-tree-perl,libhtml-parser-perl,any,3
+CHADO,libhtml-tree-perl,libhtml-tagset-perl,any,3
+CHADO,libhtml-tree-perl,perl,any,3
+CHADO,libhttp-cookies-perl,libhttp-date-perl,any,3
+CHADO,libhttp-cookies-perl,libhttp-message-perl,any,3
+CHADO,libhttp-cookies-perl,perl,any,3
+CHADO,libhttp-message-perl,libencode-locale-perl,any,6
+CHADO,libhttp-message-perl,libhttp-date-perl,any,6
+CHADO,libhttp-message-perl,libio-html-perl,any,6
+CHADO,libhttp-message-perl,liblwp-mediatypes-perl,any,6
+CHADO,libhttp-message-perl,liburi-perl,any,6
+CHADO,libhttp-message-perl,perl,any,6
+CHADO,libio-html-perl,perl,any,1
+CHADO,liblwp-mediatypes-perl,perl,any,1
+CHADO,libhttp-negotiate-perl,libhttp-message-perl,any,2
+CHADO,libhttp-negotiate-perl,perl,any,2
+CHADO,liblwp-protocol-https-perl,ca-certificates,any,5
+CHADO,liblwp-protocol-https-perl,libio-socket-ssl-perl,any,5
+CHADO,liblwp-protocol-https-perl,libnet-http-perl,any,5
+CHADO,liblwp-protocol-https-perl,libwww-perl ,>= 6.05-2,5
+CHADO,liblwp-protocol-https-perl,perl,any,5
+CHADO,libio-socket-ssl-perl,libnet-ssleay-perl ,>= 1.59,3
+CHADO,libio-socket-ssl-perl,netbase,any,3
+CHADO,libio-socket-ssl-perl,perl,any,3
+CHADO,libnet-ssleay-perl,libc6 ,>= 2.14,5
+CHADO,libnet-ssleay-perl,libssl1.1 ,>= 1.1.0,5
+CHADO,libnet-ssleay-perl,perl ,>= 5.26.1-4build1,5
+CHADO,libnet-ssleay-perl,perl-openssl-abi-1.1,any,5
+CHADO,libnet-ssleay-perl,perlapi-5.26.1,any,5
+CHADO,libnet-http-perl,libio-socket-ip-perl,any,3
+CHADO,libnet-http-perl,liburi-perl,any,3
+CHADO,libnet-http-perl,perl ,>= 5.19.8,3
+CHADO,libio-socket-ip-perl,netbase,any,1
+CHADO,libtry-tiny-perl,perl,any,1
+CHADO,libwww-robotrules-perl,liburi-perl,any,2
+CHADO,libwww-robotrules-perl,perl,any,2
+CHADO,liblog-log4perl-perl,perl,any,1
+CHADO,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+CHADO,libperl5.26,libbz2-1.0,any,7
+CHADO,libperl5.26,libc6 ,>= 2.23,7
+CHADO,libperl5.26,libdb5.3,any,7
+CHADO,libperl5.26,libgdbm-compat4,any,7
+CHADO,libperl5.26,libgdbm5 ,>= 1.12,7
+CHADO,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+CHADO,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libdb5.3,libc6 ,>= 2.17,1
+CHADO,libgdbm-compat4,libc6 ,>= 2.14,2
+CHADO,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+CHADO,libgdbm5,libc6 ,>= 2.14,1
+CHADO,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,bioperl,libbio-perl-perl ,= 1.7.2-2,3
+CHADO,bioperl,libtest-most-perl,any,3
+CHADO,bioperl,perl:any,any,3
+CHADO,libbio-perl-perl,libdata-stag-perl,any,3
+CHADO,libbio-perl-perl,libio-string-perl,any,3
+CHADO,libbio-perl-perl,perl,any,3
+CHADO,libdata-stag-perl,libio-string-perl,any,2
+CHADO,libdata-stag-perl,perl,any,2
+CHADO,libio-string-perl,perl,any,1
+CHADO,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+CHADO,libperl5.26,libbz2-1.0,any,7
+CHADO,libperl5.26,libc6 ,>= 2.23,7
+CHADO,libperl5.26,libdb5.3,any,7
+CHADO,libperl5.26,libgdbm-compat4,any,7
+CHADO,libperl5.26,libgdbm5 ,>= 1.12,7
+CHADO,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+CHADO,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libdb5.3,libc6 ,>= 2.17,1
+CHADO,libgdbm-compat4,libc6 ,>= 2.14,2
+CHADO,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+CHADO,libgdbm5,libc6 ,>= 2.14,1
+CHADO,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,libtest-most-perl,libexception-class-perl,any,8
+CHADO,libtest-most-perl,libtest-deep-perl ,>= 0.119,8
+CHADO,libtest-most-perl,libtest-differences-perl ,>= 0.64,8
+CHADO,libtest-most-perl,libtest-exception-perl ,>= 0.43,8
+CHADO,libtest-most-perl,libtest-harness-perl ,>= 3.35,8
+CHADO,libtest-most-perl,libtest-simple-perl ,>= 1.302047,8
+CHADO,libtest-most-perl,libtest-warn-perl ,>= 0.30,8
+CHADO,libtest-most-perl,perl ,>= 5.21.8,8
+CHADO,libexception-class-perl,libclass-data-inheritable-perl,any,3
+CHADO,libexception-class-perl,libdevel-stacktrace-perl ,>= 2.00,3
+CHADO,libexception-class-perl,perl,any,3
+CHADO,libclass-data-inheritable-perl,perl,any,1
+CHADO,libdevel-stacktrace-perl,perl,any,1
+CHADO,libtest-deep-perl,perl,any,1
+CHADO,libtest-differences-perl,libcapture-tiny-perl ,>= 0.24,3
+CHADO,libtest-differences-perl,libtext-diff-perl ,>= 1.43,3
+CHADO,libtest-differences-perl,perl ,>= 5.13.0,3
+CHADO,libcapture-tiny-perl,perl,any,1
+CHADO,libtext-diff-perl,libalgorithm-diff-perl,any,2
+CHADO,libtext-diff-perl,perl,any,2
+CHADO,libalgorithm-diff-perl,perl,any,1
+CHADO,libtest-exception-perl,libsub-uplevel-perl,any,2
+CHADO,libtest-exception-perl,perl,any,2
+CHADO,libsub-uplevel-perl,perl,any,1
+CHADO,libtest-harness-perl,perl,any,1
+CHADO,libtest-simple-perl,perl,any,1
+CHADO,libtest-warn-perl,libsub-uplevel-perl,any,2
+CHADO,libtest-warn-perl,perl,any,2
+CHADO,ant,default-jre-headless ,>= 2:1.8,2
+CHADO,ant,java8-runtime-headless,any,2
+CHADO,default-jre-headless,java-common,any,2
+CHADO,default-jre-headless,openjdk-11-jre-headless,any,2
+CHADO,openjdk-11-jre-headless,ca-certificates-java,any,19
+CHADO,openjdk-11-jre-headless,java-common ,>= 0.28,19
+CHADO,openjdk-11-jre-headless,libc6 ,>= 2.14,19
+CHADO,openjdk-11-jre-headless,libcups2,any,19
+CHADO,openjdk-11-jre-headless,libfontconfig1,any,19
+CHADO,openjdk-11-jre-headless,libfreetype6 ,>= 2.2.1,19
+CHADO,openjdk-11-jre-headless,libgcc1 ,>= 1:3.4,19
+CHADO,openjdk-11-jre-headless,libjpeg8 ,>= 8c,19
+CHADO,openjdk-11-jre-headless,liblcms2-2 ,>= 2.2+git20110628,19
+CHADO,openjdk-11-jre-headless,libnss3 ,>= 2:3.17.1,19
+CHADO,openjdk-11-jre-headless,libpcsclite1 ,>= 1.3.0,19
+CHADO,openjdk-11-jre-headless,libstdc++6 ,>= 4.1.1,19
+CHADO,openjdk-11-jre-headless,libx11-6,any,19
+CHADO,openjdk-11-jre-headless,libxext6,any,19
+CHADO,openjdk-11-jre-headless,libxi6,any,19
+CHADO,openjdk-11-jre-headless,libxrender1,any,19
+CHADO,openjdk-11-jre-headless,libxtst6,any,19
+CHADO,openjdk-11-jre-headless,util-linux ,>= 2.26.2-4,19
+CHADO,openjdk-11-jre-headless,zlib1g ,>= 1:1.1.4,19
+CHADO,ca-certificates-java,ca-certificates ,>= 20121114,4
+CHADO,ca-certificates-java,java8-runtime-headless,any,4
+CHADO,ca-certificates-java,libnss3 ,>= 3.12.9+ckbi-1.82-0ubuntu3~,4
+CHADO,ca-certificates-java,openjdk-11-jre-headless,any,4
+CHADO,ca-certificates,debconf ,>= 0.5,3
+CHADO,ca-certificates,debconf-2.0,any,3
+CHADO,ca-certificates,openssl ,>= 1.1.0,3
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,openssl,libc6 ,>= 2.15,2
+CHADO,openssl,libssl1.1 ,>= 1.1.0,2
+CHADO,libssl1.1,debconf ,>= 0.5,3
+CHADO,libssl1.1,debconf-2.0,any,3
+CHADO,libssl1.1,libc6 ,>= 2.14,3
+CHADO,libnss3,libc6 ,>= 2.14,3
+CHADO,libnss3,libnspr4 ,>= 2:4.12,3
+CHADO,libnss3,libsqlite3-0 ,>= 3.5.9,3
+CHADO,libnspr4,libc6 ,>= 2.17,1
+CHADO,libsqlite3-0,libc6 ,>= 2.14,1
+CHADO,libcups2,libavahi-client3 ,>= 0.6.16,6
+CHADO,libcups2,libavahi-common3 ,>= 0.6.16,6
+CHADO,libcups2,libc6 ,>= 2.17,6
+CHADO,libcups2,libgnutls30 ,>= 3.5.6,6
+CHADO,libcups2,libgssapi-krb5-2 ,>= 1.14+dfsg,6
+CHADO,libcups2,zlib1g ,>= 1:1.2.0,6
+CHADO,libavahi-client3,libavahi-common3 ,>= 0.6.22,3
+CHADO,libavahi-client3,libc6 ,>= 2.4,3
+CHADO,libavahi-client3,libdbus-1-3 ,>= 1.9.14,3
+CHADO,libavahi-common3,libavahi-common-data,any,2
+CHADO,libavahi-common3,libc6 ,>= 2.14,2
+CHADO,libdbus-1-3,libc6 ,>= 2.17,2
+CHADO,libdbus-1-3,libsystemd0,any,2
+CHADO,libgcrypt20,libc6 ,>= 2.15,2
+CHADO,libgcrypt20,libgpg-error0 ,>= 1.25,2
+CHADO,libgpg-error0,libc6 ,>= 2.15,1
+CHADO,liblz4-1,libc6 ,>= 2.14,1
+CHADO,libgnutls30,libc6 ,>= 2.25,9
+CHADO,libgnutls30,libgmp10 ,>= 2:6,9
+CHADO,libgnutls30,libhogweed4,any,9
+CHADO,libgnutls30,libidn2-0 ,>= 0.6,9
+CHADO,libgnutls30,libnettle6,any,9
+CHADO,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+CHADO,libgnutls30,libtasn1-6 ,>= 4.12,9
+CHADO,libgnutls30,libunistring2 ,>= 0.9.7,9
+CHADO,libgnutls30,zlib1g ,>= 1:1.1.4,9
+CHADO,libgmp10,libc6 ,>= 2.14,1
+CHADO,libhogweed4,libc6 ,>= 2.14,3
+CHADO,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+CHADO,libhogweed4,libnettle6 ,2.4,3
+CHADO,libnettle6,libc6 ,>= 2.14,1
+CHADO,libidn2-0,libc6 ,>= 2.14,2
+CHADO,libidn2-0,libunistring2 ,>= 0.9.7,2
+CHADO,libunistring2,libc6 ,>= 2.14,1
+CHADO,libp11-kit0,libc6 ,>= 2.26,2
+CHADO,libp11-kit0,libffi6 ,>= 3.0.4,2
+CHADO,libffi6,libc6 ,>= 2.14,1
+CHADO,libtasn1-6,libc6 ,>= 2.14,1
+CHADO,libgssapi-krb5-2,libc6 ,>= 2.27,5
+CHADO,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+CHADO,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+CHADO,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+CHADO,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+CHADO,libcom-err2,libc6 ,>= 2.17,1
+CHADO,libk5crypto3,libc6 ,>= 2.14,2
+CHADO,libk5crypto3,libkrb5support0 ,>= 1.16,2
+CHADO,libkrb5support0,libc6 ,>= 2.14,1
+CHADO,libkrb5-3,libc6 ,>= 2.16,5
+CHADO,libkrb5-3,libcom-err2 ,>= 1.34,5
+CHADO,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+CHADO,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+CHADO,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+CHADO,libkeyutils1,libc6 ,>= 2.14,1
+CHADO,libfontconfig1,fontconfig-config ,>= 2.12.6-0ubuntu2,4
+CHADO,libfontconfig1,libc6 ,>= 2.14,4
+CHADO,libfontconfig1,libexpat1 ,>= 2.0.1,4
+CHADO,libfontconfig1,libfreetype6 ,>= 2.2.1,4
+CHADO,fontconfig-config,fonts-dejavu-core,any,5
+CHADO,fontconfig-config,fonts-freefont,any,5
+CHADO,fontconfig-config,fonts-liberation,any,5
+CHADO,fontconfig-config,ttf-bitstream-vera,any,5
+CHADO,fontconfig-config,ucf ,>= 0.29,5
+CHADO,ucf,coreutils ,>= 5.91,3
+CHADO,ucf,debconf ,>= 1.5.19,3
+CHADO,ucf,sensible-utils,any,3
+CHADO,libexpat1,libc6 ,>= 2.25,1
+CHADO,libfreetype6,libc6 ,>= 2.14,3
+CHADO,libfreetype6,libpng16-16 ,>= 1.6.2-1,3
+CHADO,libfreetype6,zlib1g ,>= 1:1.1.4,3
+CHADO,libpng16-16,libc6 ,>= 2.14,2
+CHADO,libpng16-16,zlib1g ,>= 1:1.2.11,2
+CHADO,libjpeg8,libjpeg-turbo8 ,>= 1.1.90+svn722-1ubuntu6,1
+CHADO,libjpeg-turbo8,libc6 ,>= 2.14,1
+CHADO,multiarch-support,libc6 ,>= 2.3.6-2,1
+CHADO,liblcms2-2,libc6 ,>= 2.14,1
+CHADO,libpcsclite1,libc6 ,>= 2.15,1
+CHADO,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+CHADO,libstdc++6,libc6 ,>= 2.18,3
+CHADO,libstdc++6,libgcc1 ,>= 1:4.2,3
+CHADO,libx11-6,libc6 ,>= 2.15,3
+CHADO,libx11-6,libx11-data,any,3
+CHADO,libx11-6,libxcb1 ,>= 1.11.1,3
+CHADO,libxcb1,libc6 ,>= 2.14,3
+CHADO,libxcb1,libxau6,any,3
+CHADO,libxcb1,libxdmcp6,any,3
+CHADO,libxau6,libc6 ,>= 2.4,1
+CHADO,libxdmcp6,libbsd0 ,>= 0.2.0,2
+CHADO,libxdmcp6,libc6 ,>= 2.4,2
+CHADO,libbsd0,libc6 ,>= 2.25,1
+CHADO,libxext6,libc6 ,>= 2.14,2
+CHADO,libxext6,libx11-6 ,>= 2:1.6.0,2
+CHADO,libxi6,libc6 ,>= 2.14,3
+CHADO,libxi6,libx11-6 ,>= 2:1.6.0,3
+CHADO,libxi6,libxext6,any,3
+CHADO,libxrender1,libc6 ,>= 2.14,2
+CHADO,libxrender1,libx11-6 ,>= 2:1.6.0,2
+CHADO,libxtst6,libc6 ,>= 2.4,4
+CHADO,libxtst6,libx11-6 ,>= 2:1.6.0,4
+CHADO,libxtst6,libxext6,any,4
+CHADO,libxtst6,x11-common,any,4
+CHADO,x11-common,lsb-base ,>= 1.3-9ubuntu2,1
+CHADO,util-linux,fdisk,any,1
+CHADO,fdisk,libc6 ,>= 2.14,6
+CHADO,fdisk,libfdisk1 ,>= 2.31.1,6
+CHADO,fdisk,libmount1 ,>= 2.24.2,6
+CHADO,fdisk,libncursesw5 ,>= 6,6
+CHADO,fdisk,libsmartcols1 ,>= 2.28~rc1,6
+CHADO,fdisk,libtinfo5 ,>= 6,6
+CHADO,libfdisk1,libblkid1 ,>= 2.24.2,3
+CHADO,libfdisk1,libc6 ,>= 2.25,3
+CHADO,libfdisk1,libuuid1 ,>= 2.16,3
+CHADO,libblkid1,libc6 ,>= 2.25,2
+CHADO,libblkid1,libuuid1 ,>= 2.16,2
+CHADO,libuuid1,libc6 ,>= 2.25,1
+CHADO,libmount1,libblkid1 ,>= 2.17.2,3
+CHADO,libmount1,libc6 ,>= 2.25,3
+CHADO,libmount1,libselinux1 ,>= 2.6-3~,3
+CHADO,libncursesw5,libc6 ,>= 2.14,2
+CHADO,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+CHADO,libtinfo5,libc6 ,>= 2.16,1
+CHADO,libsmartcols1,libc6 ,>= 2.25,1
+CHADO,libaudit1,libaudit-common ,>= 1:2.8.2-1ubuntu1,3
+CHADO,libaudit1,libc6 ,>= 2.14,3
+CHADO,libaudit1,libcap-ng0,any,3
+CHADO,libcap-ng0,libc6 ,>= 2.8,1
+CHADO,libpam0g,debconf ,>= 0.5,4
+CHADO,libpam0g,debconf-2.0,any,4
+CHADO,libpam0g,libaudit1 ,>= 1:2.2.1,4
+CHADO,libpam0g,libc6 ,>= 2.14,4
+CHADO,libudev1,libc6 ,>= 2.25,1
+CHADO,xsltproc,libc6 ,>= 2.4,3
+CHADO,xsltproc,libxml2 ,>= 2.7.4,3
+CHADO,xsltproc,libxslt1.1 ,>= 1.1.25,3
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libxml2,libc6 ,>= 2.15,4
+CHADO,libxml2,libicu60 ,>= 60.1-1~,4
+CHADO,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+CHADO,libxml2,zlib1g ,>= 1:1.2.3.3,4
+CHADO,libicu60,libc6 ,>= 2.14,3
+CHADO,libicu60,libgcc1 ,>= 1:3.0,3
+CHADO,libicu60,libstdc++6 ,>= 5.2,3
+CHADO,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+CHADO,libstdc++6,libc6 ,>= 2.18,3
+CHADO,libstdc++6,libgcc1 ,>= 1:4.2,3
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+CHADO,libxslt1.1,libc6 ,>= 2.17,3
+CHADO,libxslt1.1,libgcrypt20 ,>= 1.7.0,3
+CHADO,libxslt1.1,libxml2 ,>= 2.9.0,3
+CHADO,libgcrypt20,libc6 ,>= 2.15,2
+CHADO,libgcrypt20,libgpg-error0 ,>= 1.25,2
+CHADO,libgpg-error0,libc6 ,>= 2.15,1
+CHADO,libparse-recdescent-perl,perl,any,1
+CHADO,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+CHADO,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+CHADO,libperl5.26,libbz2-1.0,any,7
+CHADO,libperl5.26,libc6 ,>= 2.23,7
+CHADO,libperl5.26,libdb5.3,any,7
+CHADO,libperl5.26,libgdbm-compat4,any,7
+CHADO,libperl5.26,libgdbm5 ,>= 1.12,7
+CHADO,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+CHADO,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+CHADO,libbz2-1.0,libc6 ,>= 2.4,1
+CHADO,libc6,libgcc1,any,1
+CHADO,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+CHADO,libgcc1,libc6 ,>= 2.14,2
+CHADO,libdb5.3,libc6 ,>= 2.17,1
+CHADO,libgdbm-compat4,libc6 ,>= 2.14,2
+CHADO,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+CHADO,libgdbm5,libc6 ,>= 2.14,1
+CHADO,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+CHADO,dpkg,tar ,>= 1.28-1,1
+CHADO,libacl1,libattr1 ,>= 1:2.4.46-8,2
+CHADO,libacl1,libc6 ,>= 2.14,2
+CHADO,libattr1,libc6 ,>= 2.4,1
+CHADO,libselinux1,libc6 ,>= 2.14,2
+CHADO,libselinux1,libpcre3,any,2
+CHADO,libpcre3,libc6 ,>= 2.14,1
+CHADO,liblzma5,libc6 ,>= 2.17,1
+CHADO,libzstd1,libc6 ,>= 2.14,1
+CHADO,zlib1g,libc6 ,>= 2.14,1
+DRUPAL,drupal,apache2,any,18
+DRUPAL,drupal,ca-certificates,any,18
+DRUPAL,drupal,default-mysql-client,any,18
+DRUPAL,drupal,httpd,any,18
+DRUPAL,drupal,libapache2-mod-php,any,18
+DRUPAL,drupal,libapache2-mod-php5,any,18
+DRUPAL,drupal,libjs-cropper ,>= 1.2.2,18
+DRUPAL,drupal,libphp-phpmailer ,>= 5.2.14+dfsg,18
+DRUPAL,drupal,php,any,18
+DRUPAL,drupal,php-gd,any,18
+DRUPAL,drupal,php-getid3 ,>= 1.9.15+dfsg,18
+DRUPAL,drupal,php-mysql,any,18
+DRUPAL,drupal,php-mysqlnd,any,18
+DRUPAL,drupal,php5,any,18
+DRUPAL,drupal,php5-gd,any,18
+DRUPAL,drupal,php5-mysql,any,18
+DRUPAL,drupal,php5-mysqlnd,any,18
+DRUPAL,drupal,virtual-mysql-client,any,18
+DRUPAL,apache2,apache2-bin ,= 2.4.29-1ubuntu4.5,8
+DRUPAL,apache2,apache2-data ,= 2.4.29-1ubuntu4.5,8
+DRUPAL,apache2,apache2-utils ,= 2.4.29-1ubuntu4.5,8
+DRUPAL,apache2,lsb-base,any,8
+DRUPAL,apache2,mime-support,any,8
+DRUPAL,apache2,perl,any,8
+DRUPAL,apache2,perl:any,any,8
+DRUPAL,apache2,procps,any,8
+DRUPAL,apache2-bin,libapr1 ,>= 1.6.2,17
+DRUPAL,apache2-bin,libaprutil1 ,>= 1.6.0,17
+DRUPAL,apache2-bin,libaprutil1-dbd-freetds,any,17
+DRUPAL,apache2-bin,libaprutil1-dbd-mysql,any,17
+DRUPAL,apache2-bin,libaprutil1-dbd-odbc,any,17
+DRUPAL,apache2-bin,libaprutil1-dbd-pgsql,any,17
+DRUPAL,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+DRUPAL,apache2-bin,libaprutil1-ldap,any,17
+DRUPAL,apache2-bin,libc6 ,>= 2.14,17
+DRUPAL,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+DRUPAL,apache2-bin,liblua5.2-0,any,17
+DRUPAL,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+DRUPAL,apache2-bin,libpcre3,any,17
+DRUPAL,apache2-bin,libssl1.1 ,>= 1.1.0,17
+DRUPAL,apache2-bin,libxml2 ,>= 2.7.4,17
+DRUPAL,apache2-bin,perl:any,any,17
+DRUPAL,apache2-bin,zlib1g ,>= 1:1.1.4,17
+DRUPAL,libapr1,libc6 ,>= 2.15,2
+DRUPAL,libapr1,libuuid1 ,>= 2.16,2
+DRUPAL,libc6,libgcc1,any,1
+DRUPAL,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+DRUPAL,libgcc1,libc6 ,>= 2.14,2
+DRUPAL,libuuid1,libc6 ,>= 2.25,1
+DRUPAL,libaprutil1,libapr1 ,>= 1.6.2,6
+DRUPAL,libaprutil1,libc6 ,>= 2.25,6
+DRUPAL,libaprutil1,libdb5.3,any,6
+DRUPAL,libaprutil1,libexpat1 ,>= 2.0.1,6
+DRUPAL,libaprutil1,libgdbm5 ,>= 1.14,6
+DRUPAL,libaprutil1,libssl1.1 ,>= 1.1.0,6
+DRUPAL,libdb5.3,libc6 ,>= 2.17,1
+DRUPAL,libexpat1,libc6 ,>= 2.25,1
+DRUPAL,libgdbm5,libc6 ,>= 2.14,1
+DRUPAL,libssl1.1,debconf ,>= 0.5,3
+DRUPAL,libssl1.1,debconf-2.0,any,3
+DRUPAL,libssl1.1,libc6 ,>= 2.14,3
+DRUPAL,dpkg,tar ,>= 1.28-1,1
+DRUPAL,libacl1,libattr1 ,>= 1:2.4.46-8,2
+DRUPAL,libacl1,libc6 ,>= 2.14,2
+DRUPAL,libattr1,libc6 ,>= 2.4,1
+DRUPAL,libselinux1,libc6 ,>= 2.14,2
+DRUPAL,libselinux1,libpcre3,any,2
+DRUPAL,libpcre3,libc6 ,>= 2.14,1
+DRUPAL,libbz2-1.0,libc6 ,>= 2.4,1
+DRUPAL,liblzma5,libc6 ,>= 2.17,1
+DRUPAL,libzstd1,libc6 ,>= 2.14,1
+DRUPAL,zlib1g,libc6 ,>= 2.14,1
+DRUPAL,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+DRUPAL,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+DRUPAL,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+DRUPAL,libmysqlclient20,libc6 ,>= 2.14,5
+DRUPAL,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+DRUPAL,libmysqlclient20,libstdc++6 ,>= 5.2,5
+DRUPAL,libmysqlclient20,mysql-common ,>= 5.5,5
+DRUPAL,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+DRUPAL,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+DRUPAL,libstdc++6,libc6 ,>= 2.18,3
+DRUPAL,libstdc++6,libgcc1 ,>= 1:4.2,3
+DRUPAL,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+DRUPAL,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+DRUPAL,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+DRUPAL,libodbc1,libc6 ,>= 2.14,2
+DRUPAL,libodbc1,libltdl7 ,>= 2.4.6,2
+DRUPAL,libltdl7,libc6 ,>= 2.14,1
+DRUPAL,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+DRUPAL,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+DRUPAL,libaprutil1-dbd-pgsql,libpq5,any,3
+DRUPAL,libpq5,libc6 ,>= 2.14,4
+DRUPAL,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+DRUPAL,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+DRUPAL,libpq5,libssl1.1 ,>= 1.1.0,4
+DRUPAL,libgssapi-krb5-2,libc6 ,>= 2.27,5
+DRUPAL,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+DRUPAL,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+DRUPAL,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+DRUPAL,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+DRUPAL,libcom-err2,libc6 ,>= 2.17,1
+DRUPAL,libk5crypto3,libc6 ,>= 2.14,2
+DRUPAL,libk5crypto3,libkrb5support0 ,>= 1.16,2
+DRUPAL,libkrb5support0,libc6 ,>= 2.14,1
+DRUPAL,libkrb5-3,libc6 ,>= 2.16,5
+DRUPAL,libkrb5-3,libcom-err2 ,>= 1.34,5
+DRUPAL,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+DRUPAL,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+DRUPAL,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+DRUPAL,libkeyutils1,libc6 ,>= 2.14,1
+DRUPAL,libldap-2.4-2,libc6 ,>= 2.14,5
+DRUPAL,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+DRUPAL,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+DRUPAL,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+DRUPAL,libldap-2.4-2,libsasl2-2,any,5
+DRUPAL,libgnutls30,libc6 ,>= 2.25,9
+DRUPAL,libgnutls30,libgmp10 ,>= 2:6,9
+DRUPAL,libgnutls30,libhogweed4,any,9
+DRUPAL,libgnutls30,libidn2-0 ,>= 0.6,9
+DRUPAL,libgnutls30,libnettle6,any,9
+DRUPAL,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+DRUPAL,libgnutls30,libtasn1-6 ,>= 4.12,9
+DRUPAL,libgnutls30,libunistring2 ,>= 0.9.7,9
+DRUPAL,libgnutls30,zlib1g ,>= 1:1.1.4,9
+DRUPAL,libgmp10,libc6 ,>= 2.14,1
+DRUPAL,libhogweed4,libc6 ,>= 2.14,3
+DRUPAL,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+DRUPAL,libhogweed4,libnettle6 ,2.4,3
+DRUPAL,libnettle6,libc6 ,>= 2.14,1
+DRUPAL,libidn2-0,libc6 ,>= 2.14,2
+DRUPAL,libidn2-0,libunistring2 ,>= 0.9.7,2
+DRUPAL,libunistring2,libc6 ,>= 2.14,1
+DRUPAL,libp11-kit0,libc6 ,>= 2.26,2
+DRUPAL,libp11-kit0,libffi6 ,>= 3.0.4,2
+DRUPAL,libffi6,libc6 ,>= 2.14,1
+DRUPAL,libtasn1-6,libc6 ,>= 2.14,1
+DRUPAL,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libgssapi3-heimdal,libc6 ,>= 2.14,7
+DRUPAL,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+DRUPAL,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+DRUPAL,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libasn1-8-heimdal,libc6 ,>= 2.14,3
+DRUPAL,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+DRUPAL,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+DRUPAL,libcomerr2,libcom-err2,any,1
+DRUPAL,libroken18-heimdal,libc6 ,>= 2.16,1
+DRUPAL,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+DRUPAL,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+DRUPAL,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+DRUPAL,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+DRUPAL,libheimbase1-heimdal,libc6 ,>= 2.14,1
+DRUPAL,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+DRUPAL,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+DRUPAL,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+DRUPAL,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+DRUPAL,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+DRUPAL,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+DRUPAL,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+DRUPAL,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+DRUPAL,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+DRUPAL,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+DRUPAL,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+DRUPAL,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+DRUPAL,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+DRUPAL,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+DRUPAL,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libhx509-5-heimdal,libc6 ,>= 2.14,7
+DRUPAL,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+DRUPAL,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+DRUPAL,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+DRUPAL,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+DRUPAL,libwind0-heimdal,libc6 ,>= 2.14,3
+DRUPAL,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+DRUPAL,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+DRUPAL,libsqlite3-0,libc6 ,>= 2.14,1
+DRUPAL,libsasl2-2,libc6 ,>= 2.15,2
+DRUPAL,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+DRUPAL,libsasl2-modules-db,libc6 ,>= 2.14,2
+DRUPAL,libsasl2-modules-db,libdb5.3,any,2
+DRUPAL,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+DRUPAL,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+DRUPAL,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+DRUPAL,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+DRUPAL,libaprutil1-ldap,libc6 ,>= 2.4,3
+DRUPAL,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+DRUPAL,liblua5.2-0,libc6 ,>= 2.14,2
+DRUPAL,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+DRUPAL,libnghttp2-14,libc6 ,>= 2.14,1
+DRUPAL,libxml2,libc6 ,>= 2.15,4
+DRUPAL,libxml2,libicu60 ,>= 60.1-1~,4
+DRUPAL,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+DRUPAL,libxml2,zlib1g ,>= 1:1.2.3.3,4
+DRUPAL,libicu60,libc6 ,>= 2.14,3
+DRUPAL,libicu60,libgcc1 ,>= 1:3.0,3
+DRUPAL,libicu60,libstdc++6 ,>= 5.2,3
+DRUPAL,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+DRUPAL,apache2-utils,libaprutil1 ,>= 1.5.0,4
+DRUPAL,apache2-utils,libc6 ,>= 2.14,4
+DRUPAL,apache2-utils,libssl1.1 ,>= 1.1.0,4
+DRUPAL,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+DRUPAL,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+DRUPAL,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+DRUPAL,libperl5.26,libbz2-1.0,any,7
+DRUPAL,libperl5.26,libc6 ,>= 2.23,7
+DRUPAL,libperl5.26,libdb5.3,any,7
+DRUPAL,libperl5.26,libgdbm-compat4,any,7
+DRUPAL,libperl5.26,libgdbm5 ,>= 1.12,7
+DRUPAL,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+DRUPAL,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+DRUPAL,libgdbm-compat4,libc6 ,>= 2.14,2
+DRUPAL,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+DRUPAL,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+DRUPAL,procps,init-system-helpers ,>= 1.29~,7
+DRUPAL,procps,libc6 ,>= 2.27,7
+DRUPAL,procps,libncurses5 ,>= 6,7
+DRUPAL,procps,libncursesw5 ,>= 6,7
+DRUPAL,procps,libprocps6,any,7
+DRUPAL,procps,libtinfo5 ,>= 6,7
+DRUPAL,procps,lsb-base ,>= 3.0-10,7
+DRUPAL,init-system-helpers,perl-base ,>= 5.20.1-3,1
+DRUPAL,libncurses5,libc6 ,>= 2.14,2
+DRUPAL,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+DRUPAL,libtinfo5,libc6 ,>= 2.16,1
+DRUPAL,libncursesw5,libc6 ,>= 2.14,2
+DRUPAL,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+DRUPAL,libprocps6,libc6 ,>= 2.14,2
+DRUPAL,libprocps6,libsystemd0 ,>= 209,2
+DRUPAL,libgcrypt20,libc6 ,>= 2.15,2
+DRUPAL,libgcrypt20,libgpg-error0 ,>= 1.25,2
+DRUPAL,libgpg-error0,libc6 ,>= 2.15,1
+DRUPAL,liblz4-1,libc6 ,>= 2.14,1
+DRUPAL,ca-certificates,debconf ,>= 0.5,3
+DRUPAL,ca-certificates,debconf-2.0,any,3
+DRUPAL,ca-certificates,openssl ,>= 1.1.0,3
+DRUPAL,openssl,libc6 ,>= 2.15,2
+DRUPAL,openssl,libssl1.1 ,>= 1.1.0,2
+DRUPAL,default-mysql-client,mysql-client-5.7,any,1
+DRUPAL,mysql-client-5.7,debianutils ,>= 1.6,8
+DRUPAL,mysql-client-5.7,libc6 ,>= 2.14,8
+DRUPAL,mysql-client-5.7,libgcc1 ,>= 1:3.0,8
+DRUPAL,mysql-client-5.7,liblz4-1 ,>= 0.0~r127,8
+DRUPAL,mysql-client-5.7,libstdc++6 ,>= 5.2,8
+DRUPAL,mysql-client-5.7,mysql-client-core-5.7,any,8
+DRUPAL,mysql-client-5.7,mysql-common ,>= 5.5,8
+DRUPAL,mysql-client-5.7,zlib1g ,>= 1:1.1.4,8
+DRUPAL,mysql-client-core-5.7,libaio1 ,>= 0.3.93,8
+DRUPAL,mysql-client-core-5.7,libc6 ,>= 2.14,8
+DRUPAL,mysql-client-core-5.7,libedit2 ,>= 2.11-20080614,8
+DRUPAL,mysql-client-core-5.7,libgcc1 ,>= 1:4.0,8
+DRUPAL,mysql-client-core-5.7,liblz4-1 ,>= 0.0~r130,8
+DRUPAL,mysql-client-core-5.7,libnuma1 ,>= 2.0.11,8
+DRUPAL,mysql-client-core-5.7,libstdc++6 ,>= 5.2,8
+DRUPAL,mysql-client-core-5.7,zlib1g ,>= 1:1.2.0,8
+DRUPAL,libaio1,libc6 ,>= 2.4,1
+DRUPAL,libedit2,libc6 ,>= 2.17,2
+DRUPAL,libedit2,libtinfo5 ,>= 6,2
+DRUPAL,libnuma1,libc6 ,>= 2.14,1
+DRUPAL,libapache2-mod-php,libapache2-mod-php7.2,any,1
+DRUPAL,libapache2-mod-php7.2,apache2-api-20120211,any,17
+DRUPAL,libapache2-mod-php7.2,apache2-bin ,>= 2.4.16,17
+DRUPAL,libapache2-mod-php7.2,libargon2-0 ,>= 0~20160406~,17
+DRUPAL,libapache2-mod-php7.2,libc6 ,>= 2.27,17
+DRUPAL,libapache2-mod-php7.2,libmagic1,any,17
+DRUPAL,libapache2-mod-php7.2,libpcre3 ,>= 2:8.35,17
+DRUPAL,libapache2-mod-php7.2,libsodium23 ,>= 1.0.14,17
+DRUPAL,libapache2-mod-php7.2,libssl1.1 ,>= 1.1.0,17
+DRUPAL,libapache2-mod-php7.2,libxml2 ,>= 2.8.0,17
+DRUPAL,libapache2-mod-php7.2,mime-support,any,17
+DRUPAL,libapache2-mod-php7.2,php7.2-cli,any,17
+DRUPAL,libapache2-mod-php7.2,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+DRUPAL,libapache2-mod-php7.2,php7.2-json,any,17
+DRUPAL,libapache2-mod-php7.2,php7.2-opcache,any,17
+DRUPAL,libapache2-mod-php7.2,tzdata,any,17
+DRUPAL,libapache2-mod-php7.2,ucf,any,17
+DRUPAL,libapache2-mod-php7.2,zlib1g ,>= 1:1.1.4,17
+DRUPAL,libargon2-0,libc6 ,>= 2.14,1
+DRUPAL,libmagic1,libc6 ,>= 2.15,3
+DRUPAL,libmagic1,libmagic-mgc ,= 1:5.32-2ubuntu0.1,3
+DRUPAL,libmagic1,zlib1g ,>= 1:1.1.4,3
+DRUPAL,libsodium23,libc6 ,>= 2.25,1
+DRUPAL,php7.2-cli,libargon2-0 ,>= 0~20160406~,16
+DRUPAL,php7.2-cli,libc6 ,>= 2.27,16
+DRUPAL,php7.2-cli,libedit2 ,>= 2.11-20080614-4,16
+DRUPAL,php7.2-cli,libmagic1,any,16
+DRUPAL,php7.2-cli,libpcre3 ,>= 2:8.35,16
+DRUPAL,php7.2-cli,libsodium23 ,>= 1.0.14,16
+DRUPAL,php7.2-cli,libssl1.1 ,>= 1.1.0,16
+DRUPAL,php7.2-cli,libxml2 ,>= 2.8.0,16
+DRUPAL,php7.2-cli,mime-support,any,16
+DRUPAL,php7.2-cli,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,16
+DRUPAL,php7.2-cli,php7.2-json,any,16
+DRUPAL,php7.2-cli,php7.2-opcache,any,16
+DRUPAL,php7.2-cli,php7.2-readline,any,16
+DRUPAL,php7.2-cli,tzdata,any,16
+DRUPAL,php7.2-cli,ucf,any,16
+DRUPAL,php7.2-cli,zlib1g ,>= 1:1.1.4,16
+DRUPAL,php7.2-common,libc6 ,>= 2.15,4
+DRUPAL,php7.2-common,libssl1.1 ,>= 1.1.0,4
+DRUPAL,php7.2-common,php-common ,>= 1:35,4
+DRUPAL,php7.2-common,ucf,any,4
+DRUPAL,php-common,psmisc ,>= 22.15-1~,2
+DRUPAL,php-common,sed ,>= 4.1.1-1,2
+DRUPAL,psmisc,libc6 ,>= 2.14,3
+DRUPAL,psmisc,libselinux1 ,>= 1.32,3
+DRUPAL,psmisc,libtinfo5 ,>= 6,3
+DRUPAL,ucf,coreutils ,>= 5.91,3
+DRUPAL,ucf,debconf ,>= 1.5.19,3
+DRUPAL,ucf,sensible-utils,any,3
+DRUPAL,php7.2-json,libc6 ,>= 2.14,4
+DRUPAL,php7.2-json,php-common ,>= 1:35,4
+DRUPAL,php7.2-json,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+DRUPAL,php7.2-json,ucf,any,4
+DRUPAL,php7.2-opcache,libc6 ,>= 2.27,4
+DRUPAL,php7.2-opcache,php-common ,>= 1:35,4
+DRUPAL,php7.2-opcache,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+DRUPAL,php7.2-opcache,ucf,any,4
+DRUPAL,php7.2-readline,libc6 ,>= 2.14,5
+DRUPAL,php7.2-readline,libedit2 ,>= 3.1-20130611,5
+DRUPAL,php7.2-readline,php-common ,>= 1:35,5
+DRUPAL,php7.2-readline,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,5
+DRUPAL,php7.2-readline,ucf,any,5
+DRUPAL,tzdata,debconf ,>= 0.5,2
+DRUPAL,tzdata,debconf-2.0,any,2
+DRUPAL,libjs-cropper,libjs-scriptaculous ,>= 1.9.0,1
+DRUPAL,libjs-scriptaculous,libjs-prototype,any,1
+DRUPAL,libphp-phpmailer,php-common,any,1
+DRUPAL,php,php7.2,any,1
+DRUPAL,php7.2,libapache2-mod-php7.2,any,4
+DRUPAL,php7.2,php7.2-cgi,any,4
+DRUPAL,php7.2,php7.2-common,any,4
+DRUPAL,php7.2,php7.2-fpm,any,4
+DRUPAL,php7.2-cgi,libargon2-0 ,>= 0~20160406~,15
+DRUPAL,php7.2-cgi,libc6 ,>= 2.27,15
+DRUPAL,php7.2-cgi,libmagic1,any,15
+DRUPAL,php7.2-cgi,libpcre3 ,>= 2:8.35,15
+DRUPAL,php7.2-cgi,libsodium23 ,>= 1.0.14,15
+DRUPAL,php7.2-cgi,libssl1.1 ,>= 1.1.0,15
+DRUPAL,php7.2-cgi,libxml2 ,>= 2.8.0,15
+DRUPAL,php7.2-cgi,mime-support,any,15
+DRUPAL,php7.2-cgi,php7.2-cli,any,15
+DRUPAL,php7.2-cgi,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,15
+DRUPAL,php7.2-cgi,php7.2-json,any,15
+DRUPAL,php7.2-cgi,php7.2-opcache,any,15
+DRUPAL,php7.2-cgi,tzdata,any,15
+DRUPAL,php7.2-cgi,ucf,any,15
+DRUPAL,php7.2-cgi,zlib1g ,>= 1:1.1.4,15
+DRUPAL,php7.2-fpm,libapparmor1 ,>= 2.7.0~beta1+bzr1772,17
+DRUPAL,php7.2-fpm,libargon2-0 ,>= 0~20160406~,17
+DRUPAL,php7.2-fpm,libc6 ,>= 2.27,17
+DRUPAL,php7.2-fpm,libmagic1,any,17
+DRUPAL,php7.2-fpm,libpcre3 ,>= 2:8.35,17
+DRUPAL,php7.2-fpm,libsodium23 ,>= 1.0.14,17
+DRUPAL,php7.2-fpm,libssl1.1 ,>= 1.1.0,17
+DRUPAL,php7.2-fpm,libsystemd0,any,17
+DRUPAL,php7.2-fpm,libxml2 ,>= 2.8.0,17
+DRUPAL,php7.2-fpm,mime-support,any,17
+DRUPAL,php7.2-fpm,php7.2-cli,any,17
+DRUPAL,php7.2-fpm,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+DRUPAL,php7.2-fpm,php7.2-json,any,17
+DRUPAL,php7.2-fpm,php7.2-opcache,any,17
+DRUPAL,php7.2-fpm,tzdata,any,17
+DRUPAL,php7.2-fpm,ucf,any,17
+DRUPAL,php7.2-fpm,zlib1g ,>= 1:1.1.4,17
+DRUPAL,libapparmor1,libc6 ,>= 2.17,1
+DRUPAL,php-gd,php-common,any,2
+DRUPAL,php-gd,php7.2-gd,any,2
+DRUPAL,php7.2-gd,libc6 ,>= 2.4,6
+DRUPAL,php7.2-gd,libgd3 ,>= 2.1.1,6
+DRUPAL,php7.2-gd,libxpm4,any,6
+DRUPAL,php7.2-gd,php-common ,>= 1:35,6
+DRUPAL,php7.2-gd,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,6
+DRUPAL,php7.2-gd,ucf,any,6
+DRUPAL,libgd3,libc6 ,>= 2.14,9
+DRUPAL,libgd3,libfontconfig1 ,>= 2.12,9
+DRUPAL,libgd3,libfreetype6 ,>= 2.2.1,9
+DRUPAL,libgd3,libjpeg8 ,>= 8c,9
+DRUPAL,libgd3,libpng16-16 ,>= 1.6.2-1,9
+DRUPAL,libgd3,libtiff5 ,>= 4.0.3,9
+DRUPAL,libgd3,libwebp6 ,>= 0.5.1,9
+DRUPAL,libgd3,libxpm4,any,9
+DRUPAL,libgd3,zlib1g ,>= 1:1.1.4,9
+DRUPAL,libfontconfig1,fontconfig-config ,>= 2.12.6-0ubuntu2,4
+DRUPAL,libfontconfig1,libc6 ,>= 2.14,4
+DRUPAL,libfontconfig1,libexpat1 ,>= 2.0.1,4
+DRUPAL,libfontconfig1,libfreetype6 ,>= 2.2.1,4
+DRUPAL,fontconfig-config,fonts-dejavu-core,any,5
+DRUPAL,fontconfig-config,fonts-freefont,any,5
+DRUPAL,fontconfig-config,fonts-liberation,any,5
+DRUPAL,fontconfig-config,ttf-bitstream-vera,any,5
+DRUPAL,fontconfig-config,ucf ,>= 0.29,5
+DRUPAL,libfreetype6,libc6 ,>= 2.14,3
+DRUPAL,libfreetype6,libpng16-16 ,>= 1.6.2-1,3
+DRUPAL,libfreetype6,zlib1g ,>= 1:1.1.4,3
+DRUPAL,libpng16-16,libc6 ,>= 2.14,2
+DRUPAL,libpng16-16,zlib1g ,>= 1:1.2.11,2
+DRUPAL,libjpeg8,libjpeg-turbo8 ,>= 1.1.90+svn722-1ubuntu6,1
+DRUPAL,libjpeg-turbo8,libc6 ,>= 2.14,1
+DRUPAL,multiarch-support,libc6 ,>= 2.3.6-2,1
+DRUPAL,libtiff5,libc6 ,>= 2.14,5
+DRUPAL,libtiff5,libjbig0 ,>= 2.0,5
+DRUPAL,libtiff5,libjpeg8 ,>= 8c,5
+DRUPAL,libtiff5,liblzma5 ,>= 5.1.1alpha+20120614,5
+DRUPAL,libtiff5,zlib1g ,>= 1:1.1.4,5
+DRUPAL,libjbig0,libc6 ,>= 2.4,1
+DRUPAL,libwebp6,libc6 ,>= 2.14,1
+DRUPAL,libxpm4,libc6 ,>= 2.14,2
+DRUPAL,libxpm4,libx11-6,any,2
+DRUPAL,libx11-6,libc6 ,>= 2.15,3
+DRUPAL,libx11-6,libx11-data,any,3
+DRUPAL,libx11-6,libxcb1 ,>= 1.11.1,3
+DRUPAL,libxcb1,libc6 ,>= 2.14,3
+DRUPAL,libxcb1,libxau6,any,3
+DRUPAL,libxcb1,libxdmcp6,any,3
+DRUPAL,libxau6,libc6 ,>= 2.4,1
+DRUPAL,libxdmcp6,libbsd0 ,>= 0.2.0,2
+DRUPAL,libxdmcp6,libc6 ,>= 2.4,2
+DRUPAL,libbsd0,libc6 ,>= 2.25,1
+DRUPAL,php-getid3,php-common,any,1
+DRUPAL,php-mysql,php-common,any,2
+DRUPAL,php-mysql,php7.2-mysql,any,2
+DRUPAL,php7.2-mysql,libc6 ,>= 2.15,4
+DRUPAL,php7.2-mysql,php-common ,>= 1:35,4
+DRUPAL,php7.2-mysql,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+DRUPAL,php7.2-mysql,ucf,any,4
+GBROWSE2,apache2,apache2-bin ,= 2.4.29-1ubuntu4.6,8
+GBROWSE2,apache2,apache2-data ,= 2.4.29-1ubuntu4.6,8
+GBROWSE2,apache2,apache2-utils ,= 2.4.29-1ubuntu4.6,8
+GBROWSE2,apache2,lsb-base,any,8
+GBROWSE2,apache2,mime-support,any,8
+GBROWSE2,apache2,perl,any,8
+GBROWSE2,apache2,perl:any,any,8
+GBROWSE2,apache2,procps,any,8
+GBROWSE2,apache2-bin,libapr1 ,>= 1.6.2,17
+GBROWSE2,apache2-bin,libaprutil1 ,>= 1.6.0,17
+GBROWSE2,apache2-bin,libaprutil1-dbd-freetds,any,17
+GBROWSE2,apache2-bin,libaprutil1-dbd-mysql,any,17
+GBROWSE2,apache2-bin,libaprutil1-dbd-odbc,any,17
+GBROWSE2,apache2-bin,libaprutil1-dbd-pgsql,any,17
+GBROWSE2,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+GBROWSE2,apache2-bin,libaprutil1-ldap,any,17
+GBROWSE2,apache2-bin,libc6 ,>= 2.14,17
+GBROWSE2,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+GBROWSE2,apache2-bin,liblua5.2-0,any,17
+GBROWSE2,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+GBROWSE2,apache2-bin,libpcre3,any,17
+GBROWSE2,apache2-bin,libssl1.1 ,>= 1.1.0,17
+GBROWSE2,apache2-bin,libxml2 ,>= 2.7.4,17
+GBROWSE2,apache2-bin,perl:any,any,17
+GBROWSE2,apache2-bin,zlib1g ,>= 1:1.1.4,17
+GBROWSE2,libapr1,libc6 ,>= 2.15,2
+GBROWSE2,libapr1,libuuid1 ,>= 2.16,2
+GBROWSE2,libc6,libgcc1,any,1
+GBROWSE2,libgcc1,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,2
+GBROWSE2,libgcc1,libc6 ,>= 2.14,2
+GBROWSE2,libuuid1,libc6 ,>= 2.25,1
+GBROWSE2,libaprutil1,libapr1 ,>= 1.6.2,6
+GBROWSE2,libaprutil1,libc6 ,>= 2.25,6
+GBROWSE2,libaprutil1,libdb5.3,any,6
+GBROWSE2,libaprutil1,libexpat1 ,>= 2.0.1,6
+GBROWSE2,libaprutil1,libgdbm5 ,>= 1.14,6
+GBROWSE2,libaprutil1,libssl1.1 ,>= 1.1.0,6
+GBROWSE2,libdb5.3,libc6 ,>= 2.17,1
+GBROWSE2,libexpat1,libc6 ,>= 2.25,1
+GBROWSE2,libgdbm5,libc6 ,>= 2.14,1
+GBROWSE2,libssl1.1,debconf ,>= 0.5,3
+GBROWSE2,libssl1.1,debconf-2.0,any,3
+GBROWSE2,libssl1.1,libc6 ,>= 2.14,3
+GBROWSE2,dpkg,tar ,>= 1.28-1,1
+GBROWSE2,libacl1,libattr1 ,>= 1:2.4.46-8,2
+GBROWSE2,libacl1,libc6 ,>= 2.14,2
+GBROWSE2,libattr1,libc6 ,>= 2.4,1
+GBROWSE2,libselinux1,libc6 ,>= 2.14,2
+GBROWSE2,libselinux1,libpcre3,any,2
+GBROWSE2,libpcre3,libc6 ,>= 2.14,1
+GBROWSE2,libbz2-1.0,libc6 ,>= 2.4,1
+GBROWSE2,liblzma5,libc6 ,>= 2.17,1
+GBROWSE2,libzstd1,libc6 ,>= 2.14,1
+GBROWSE2,zlib1g,libc6 ,>= 2.14,1
+GBROWSE2,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+GBROWSE2,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+GBROWSE2,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+GBROWSE2,libmysqlclient20,libc6 ,>= 2.14,5
+GBROWSE2,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+GBROWSE2,libmysqlclient20,libstdc++6 ,>= 5.2,5
+GBROWSE2,libmysqlclient20,mysql-common ,>= 5.5,5
+GBROWSE2,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+GBROWSE2,libstdc++6,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,3
+GBROWSE2,libstdc++6,libc6 ,>= 2.18,3
+GBROWSE2,libstdc++6,libgcc1 ,>= 1:4.2,3
+GBROWSE2,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+GBROWSE2,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+GBROWSE2,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+GBROWSE2,libodbc1,libc6 ,>= 2.14,2
+GBROWSE2,libodbc1,libltdl7 ,>= 2.4.6,2
+GBROWSE2,libltdl7,libc6 ,>= 2.14,1
+GBROWSE2,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+GBROWSE2,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+GBROWSE2,libaprutil1-dbd-pgsql,libpq5,any,3
+GBROWSE2,libpq5,libc6 ,>= 2.14,4
+GBROWSE2,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+GBROWSE2,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+GBROWSE2,libpq5,libssl1.1 ,>= 1.1.0,4
+GBROWSE2,libgssapi-krb5-2,libc6 ,>= 2.27,5
+GBROWSE2,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+GBROWSE2,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+GBROWSE2,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+GBROWSE2,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+GBROWSE2,libcom-err2,libc6 ,>= 2.17,1
+GBROWSE2,libk5crypto3,libc6 ,>= 2.14,2
+GBROWSE2,libk5crypto3,libkrb5support0 ,>= 1.16,2
+GBROWSE2,libkrb5support0,libc6 ,>= 2.14,1
+GBROWSE2,libkrb5-3,libc6 ,>= 2.16,5
+GBROWSE2,libkrb5-3,libcom-err2 ,>= 1.34,5
+GBROWSE2,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+GBROWSE2,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+GBROWSE2,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+GBROWSE2,libkeyutils1,libc6 ,>= 2.14,1
+GBROWSE2,libldap-2.4-2,libc6 ,>= 2.14,5
+GBROWSE2,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+GBROWSE2,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+GBROWSE2,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.2,5
+GBROWSE2,libldap-2.4-2,libsasl2-2,any,5
+GBROWSE2,libgnutls30,libc6 ,>= 2.25,9
+GBROWSE2,libgnutls30,libgmp10 ,>= 2:6,9
+GBROWSE2,libgnutls30,libhogweed4,any,9
+GBROWSE2,libgnutls30,libidn2-0 ,>= 0.6,9
+GBROWSE2,libgnutls30,libnettle6,any,9
+GBROWSE2,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+GBROWSE2,libgnutls30,libtasn1-6 ,>= 4.12,9
+GBROWSE2,libgnutls30,libunistring2 ,>= 0.9.7,9
+GBROWSE2,libgnutls30,zlib1g ,>= 1:1.1.4,9
+GBROWSE2,libgmp10,libc6 ,>= 2.14,1
+GBROWSE2,libhogweed4,libc6 ,>= 2.14,3
+GBROWSE2,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+GBROWSE2,libhogweed4,libnettle6 ,2.4,3
+GBROWSE2,libnettle6,libc6 ,>= 2.14,1
+GBROWSE2,libidn2-0,libc6 ,>= 2.14,2
+GBROWSE2,libidn2-0,libunistring2 ,>= 0.9.7,2
+GBROWSE2,libunistring2,libc6 ,>= 2.14,1
+GBROWSE2,libp11-kit0,libc6 ,>= 2.26,2
+GBROWSE2,libp11-kit0,libffi6 ,>= 3.0.4,2
+GBROWSE2,libffi6,libc6 ,>= 2.14,1
+GBROWSE2,libtasn1-6,libc6 ,>= 2.14,1
+GBROWSE2,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libgssapi3-heimdal,libc6 ,>= 2.14,7
+GBROWSE2,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+GBROWSE2,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+GBROWSE2,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libasn1-8-heimdal,libc6 ,>= 2.14,3
+GBROWSE2,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+GBROWSE2,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+GBROWSE2,libcomerr2,libcom-err2,any,1
+GBROWSE2,libroken18-heimdal,libc6 ,>= 2.16,1
+GBROWSE2,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+GBROWSE2,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+GBROWSE2,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+GBROWSE2,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+GBROWSE2,libheimbase1-heimdal,libc6 ,>= 2.14,1
+GBROWSE2,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+GBROWSE2,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+GBROWSE2,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+GBROWSE2,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+GBROWSE2,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+GBROWSE2,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+GBROWSE2,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+GBROWSE2,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+GBROWSE2,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+GBROWSE2,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+GBROWSE2,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+GBROWSE2,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+GBROWSE2,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+GBROWSE2,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+GBROWSE2,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libhx509-5-heimdal,libc6 ,>= 2.14,7
+GBROWSE2,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+GBROWSE2,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+GBROWSE2,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+GBROWSE2,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+GBROWSE2,libwind0-heimdal,libc6 ,>= 2.14,3
+GBROWSE2,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+GBROWSE2,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+GBROWSE2,libsqlite3-0,libc6 ,>= 2.14,1
+GBROWSE2,libsasl2-2,libc6 ,>= 2.15,2
+GBROWSE2,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+GBROWSE2,libsasl2-modules-db,libc6 ,>= 2.14,2
+GBROWSE2,libsasl2-modules-db,libdb5.3,any,2
+GBROWSE2,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+GBROWSE2,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+GBROWSE2,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+GBROWSE2,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+GBROWSE2,libaprutil1-ldap,libc6 ,>= 2.4,3
+GBROWSE2,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+GBROWSE2,liblua5.2-0,libc6 ,>= 2.14,2
+GBROWSE2,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+GBROWSE2,libnghttp2-14,libc6 ,>= 2.14,1
+GBROWSE2,libxml2,libc6 ,>= 2.15,4
+GBROWSE2,libxml2,libicu60 ,>= 60.1-1~,4
+GBROWSE2,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+GBROWSE2,libxml2,zlib1g ,>= 1:1.2.3.3,4
+GBROWSE2,libicu60,libc6 ,>= 2.14,3
+GBROWSE2,libicu60,libgcc1 ,>= 1:3.0,3
+GBROWSE2,libicu60,libstdc++6 ,>= 5.2,3
+GBROWSE2,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+GBROWSE2,apache2-utils,libaprutil1 ,>= 1.5.0,4
+GBROWSE2,apache2-utils,libc6 ,>= 2.14,4
+GBROWSE2,apache2-utils,libssl1.1 ,>= 1.1.0,4
+GBROWSE2,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+GBROWSE2,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+GBROWSE2,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+GBROWSE2,libperl5.26,libbz2-1.0,any,7
+GBROWSE2,libperl5.26,libc6 ,>= 2.23,7
+GBROWSE2,libperl5.26,libdb5.3,any,7
+GBROWSE2,libperl5.26,libgdbm-compat4,any,7
+GBROWSE2,libperl5.26,libgdbm5 ,>= 1.12,7
+GBROWSE2,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+GBROWSE2,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+GBROWSE2,libgdbm-compat4,libc6 ,>= 2.14,2
+GBROWSE2,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+GBROWSE2,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+GBROWSE2,procps,init-system-helpers ,>= 1.29~,7
+GBROWSE2,procps,libc6 ,>= 2.27,7
+GBROWSE2,procps,libncurses5 ,>= 6,7
+GBROWSE2,procps,libncursesw5 ,>= 6,7
+GBROWSE2,procps,libprocps6,any,7
+GBROWSE2,procps,libtinfo5 ,>= 6,7
+GBROWSE2,procps,lsb-base ,>= 3.0-10,7
+GBROWSE2,init-system-helpers,perl-base ,>= 5.20.1-3,1
+GBROWSE2,libncurses5,libc6 ,>= 2.14,2
+GBROWSE2,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+GBROWSE2,libtinfo5,libc6 ,>= 2.16,1
+GBROWSE2,libncursesw5,libc6 ,>= 2.14,2
+GBROWSE2,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+GBROWSE2,libprocps6,libc6 ,>= 2.14,2
+GBROWSE2,libprocps6,libsystemd0 ,>= 209,2
+GBROWSE2,libgcrypt20,libc6 ,>= 2.15,2
+GBROWSE2,libgcrypt20,libgpg-error0 ,>= 1.25,2
+GBROWSE2,libgpg-error0,libc6 ,>= 2.15,1
+GBROWSE2,liblz4-1,libc6 ,>= 2.14,1
+GBROWSE2,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+GBROWSE2,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+GBROWSE2,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+GBROWSE2,libperl5.26,libbz2-1.0,any,7
+GBROWSE2,libperl5.26,libc6 ,>= 2.23,7
+GBROWSE2,libperl5.26,libdb5.3,any,7
+GBROWSE2,libperl5.26,libgdbm-compat4,any,7
+GBROWSE2,libperl5.26,libgdbm5 ,>= 1.12,7
+GBROWSE2,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+GBROWSE2,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+GBROWSE2,libbz2-1.0,libc6 ,>= 2.4,1
+GBROWSE2,libc6,libgcc1,any,1
+GBROWSE2,libgcc1,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,2
+GBROWSE2,libgcc1,libc6 ,>= 2.14,2
+GBROWSE2,libdb5.3,libc6 ,>= 2.17,1
+GBROWSE2,libgdbm-compat4,libc6 ,>= 2.14,2
+GBROWSE2,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+GBROWSE2,libgdbm5,libc6 ,>= 2.14,1
+GBROWSE2,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+GBROWSE2,dpkg,tar ,>= 1.28-1,1
+GBROWSE2,libacl1,libattr1 ,>= 1:2.4.46-8,2
+GBROWSE2,libacl1,libc6 ,>= 2.14,2
+GBROWSE2,libattr1,libc6 ,>= 2.4,1
+GBROWSE2,libselinux1,libc6 ,>= 2.14,2
+GBROWSE2,libselinux1,libpcre3,any,2
+GBROWSE2,libpcre3,libc6 ,>= 2.14,1
+GBROWSE2,liblzma5,libc6 ,>= 2.17,1
+GBROWSE2,libzstd1,libc6 ,>= 2.14,1
+GBROWSE2,zlib1g,libc6 ,>= 2.14,1
+PHP,php,php7.2,any,1
+PHP,php7.2,libapache2-mod-php7.2,any,4
+PHP,php7.2,php7.2-cgi,any,4
+PHP,php7.2,php7.2-common,any,4
+PHP,php7.2,php7.2-fpm,any,4
+PHP,libapache2-mod-php7.2,apache2-api-20120211,any,17
+PHP,libapache2-mod-php7.2,apache2-bin ,>= 2.4.16,17
+PHP,libapache2-mod-php7.2,libargon2-0 ,>= 0~20160406~,17
+PHP,libapache2-mod-php7.2,libc6 ,>= 2.27,17
+PHP,libapache2-mod-php7.2,libmagic1,any,17
+PHP,libapache2-mod-php7.2,libpcre3 ,>= 2:8.35,17
+PHP,libapache2-mod-php7.2,libsodium23 ,>= 1.0.14,17
+PHP,libapache2-mod-php7.2,libssl1.1 ,>= 1.1.0,17
+PHP,libapache2-mod-php7.2,libxml2 ,>= 2.8.0,17
+PHP,libapache2-mod-php7.2,mime-support,any,17
+PHP,libapache2-mod-php7.2,php7.2-cli,any,17
+PHP,libapache2-mod-php7.2,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+PHP,libapache2-mod-php7.2,php7.2-json,any,17
+PHP,libapache2-mod-php7.2,php7.2-opcache,any,17
+PHP,libapache2-mod-php7.2,tzdata,any,17
+PHP,libapache2-mod-php7.2,ucf,any,17
+PHP,libapache2-mod-php7.2,zlib1g ,>= 1:1.1.4,17
+PHP,apache2-bin,libapr1 ,>= 1.6.2,17
+PHP,apache2-bin,libaprutil1 ,>= 1.6.0,17
+PHP,apache2-bin,libaprutil1-dbd-freetds,any,17
+PHP,apache2-bin,libaprutil1-dbd-mysql,any,17
+PHP,apache2-bin,libaprutil1-dbd-odbc,any,17
+PHP,apache2-bin,libaprutil1-dbd-pgsql,any,17
+PHP,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+PHP,apache2-bin,libaprutil1-ldap,any,17
+PHP,apache2-bin,libc6 ,>= 2.14,17
+PHP,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+PHP,apache2-bin,liblua5.2-0,any,17
+PHP,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+PHP,apache2-bin,libpcre3,any,17
+PHP,apache2-bin,libssl1.1 ,>= 1.1.0,17
+PHP,apache2-bin,libxml2 ,>= 2.7.4,17
+PHP,apache2-bin,perl:any,any,17
+PHP,apache2-bin,zlib1g ,>= 1:1.1.4,17
+PHP,libapr1,libc6 ,>= 2.15,2
+PHP,libapr1,libuuid1 ,>= 2.16,2
+PHP,libc6,libgcc1,any,1
+PHP,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+PHP,libgcc1,libc6 ,>= 2.14,2
+PHP,libuuid1,libc6 ,>= 2.25,1
+PHP,libaprutil1,libapr1 ,>= 1.6.2,6
+PHP,libaprutil1,libc6 ,>= 2.25,6
+PHP,libaprutil1,libdb5.3,any,6
+PHP,libaprutil1,libexpat1 ,>= 2.0.1,6
+PHP,libaprutil1,libgdbm5 ,>= 1.14,6
+PHP,libaprutil1,libssl1.1 ,>= 1.1.0,6
+PHP,libdb5.3,libc6 ,>= 2.17,1
+PHP,libexpat1,libc6 ,>= 2.25,1
+PHP,libgdbm5,libc6 ,>= 2.14,1
+PHP,libssl1.1,debconf ,>= 0.5,3
+PHP,libssl1.1,debconf-2.0,any,3
+PHP,libssl1.1,libc6 ,>= 2.14,3
+PHP,dpkg,tar ,>= 1.28-1,1
+PHP,libacl1,libattr1 ,>= 1:2.4.46-8,2
+PHP,libacl1,libc6 ,>= 2.14,2
+PHP,libattr1,libc6 ,>= 2.4,1
+PHP,libselinux1,libc6 ,>= 2.14,2
+PHP,libselinux1,libpcre3,any,2
+PHP,libpcre3,libc6 ,>= 2.14,1
+PHP,libbz2-1.0,libc6 ,>= 2.4,1
+PHP,liblzma5,libc6 ,>= 2.17,1
+PHP,libzstd1,libc6 ,>= 2.14,1
+PHP,zlib1g,libc6 ,>= 2.14,1
+PHP,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+PHP,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+PHP,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+PHP,libmysqlclient20,libc6 ,>= 2.14,5
+PHP,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+PHP,libmysqlclient20,libstdc++6 ,>= 5.2,5
+PHP,libmysqlclient20,mysql-common ,>= 5.5,5
+PHP,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+PHP,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+PHP,libstdc++6,libc6 ,>= 2.18,3
+PHP,libstdc++6,libgcc1 ,>= 1:4.2,3
+PHP,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+PHP,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+PHP,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+PHP,libodbc1,libc6 ,>= 2.14,2
+PHP,libodbc1,libltdl7 ,>= 2.4.6,2
+PHP,libltdl7,libc6 ,>= 2.14,1
+PHP,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+PHP,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+PHP,libaprutil1-dbd-pgsql,libpq5,any,3
+PHP,libpq5,libc6 ,>= 2.14,4
+PHP,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+PHP,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+PHP,libpq5,libssl1.1 ,>= 1.1.0,4
+PHP,libgssapi-krb5-2,libc6 ,>= 2.27,5
+PHP,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+PHP,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+PHP,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+PHP,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+PHP,libcom-err2,libc6 ,>= 2.17,1
+PHP,libk5crypto3,libc6 ,>= 2.14,2
+PHP,libk5crypto3,libkrb5support0 ,>= 1.16,2
+PHP,libkrb5support0,libc6 ,>= 2.14,1
+PHP,libkrb5-3,libc6 ,>= 2.16,5
+PHP,libkrb5-3,libcom-err2 ,>= 1.34,5
+PHP,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+PHP,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+PHP,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+PHP,libkeyutils1,libc6 ,>= 2.14,1
+PHP,libldap-2.4-2,libc6 ,>= 2.14,5
+PHP,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+PHP,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+PHP,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+PHP,libldap-2.4-2,libsasl2-2,any,5
+PHP,libgnutls30,libc6 ,>= 2.25,9
+PHP,libgnutls30,libgmp10 ,>= 2:6,9
+PHP,libgnutls30,libhogweed4,any,9
+PHP,libgnutls30,libidn2-0 ,>= 0.6,9
+PHP,libgnutls30,libnettle6,any,9
+PHP,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+PHP,libgnutls30,libtasn1-6 ,>= 4.12,9
+PHP,libgnutls30,libunistring2 ,>= 0.9.7,9
+PHP,libgnutls30,zlib1g ,>= 1:1.1.4,9
+PHP,libgmp10,libc6 ,>= 2.14,1
+PHP,libhogweed4,libc6 ,>= 2.14,3
+PHP,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+PHP,libhogweed4,libnettle6 ,2.4,3
+PHP,libnettle6,libc6 ,>= 2.14,1
+PHP,libidn2-0,libc6 ,>= 2.14,2
+PHP,libidn2-0,libunistring2 ,>= 0.9.7,2
+PHP,libunistring2,libc6 ,>= 2.14,1
+PHP,libp11-kit0,libc6 ,>= 2.26,2
+PHP,libp11-kit0,libffi6 ,>= 3.0.4,2
+PHP,libffi6,libc6 ,>= 2.14,1
+PHP,libtasn1-6,libc6 ,>= 2.14,1
+PHP,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+PHP,libgssapi3-heimdal,libc6 ,>= 2.14,7
+PHP,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+PHP,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+PHP,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+PHP,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+PHP,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+PHP,libasn1-8-heimdal,libc6 ,>= 2.14,3
+PHP,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+PHP,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+PHP,libcomerr2,libcom-err2,any,1
+PHP,libroken18-heimdal,libc6 ,>= 2.16,1
+PHP,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+PHP,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+PHP,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+PHP,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+PHP,libheimbase1-heimdal,libc6 ,>= 2.14,1
+PHP,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+PHP,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+PHP,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+PHP,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+PHP,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+PHP,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+PHP,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+PHP,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+PHP,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+PHP,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+PHP,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+PHP,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+PHP,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+PHP,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+PHP,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+PHP,libhx509-5-heimdal,libc6 ,>= 2.14,7
+PHP,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+PHP,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+PHP,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+PHP,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+PHP,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+PHP,libwind0-heimdal,libc6 ,>= 2.14,3
+PHP,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+PHP,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+PHP,libsqlite3-0,libc6 ,>= 2.14,1
+PHP,libsasl2-2,libc6 ,>= 2.15,2
+PHP,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+PHP,libsasl2-modules-db,libc6 ,>= 2.14,2
+PHP,libsasl2-modules-db,libdb5.3,any,2
+PHP,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+PHP,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+PHP,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+PHP,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+PHP,libaprutil1-ldap,libc6 ,>= 2.4,3
+PHP,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+PHP,liblua5.2-0,libc6 ,>= 2.14,2
+PHP,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+PHP,libnghttp2-14,libc6 ,>= 2.14,1
+PHP,libxml2,libc6 ,>= 2.15,4
+PHP,libxml2,libicu60 ,>= 60.1-1~,4
+PHP,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+PHP,libxml2,zlib1g ,>= 1:1.2.3.3,4
+PHP,libicu60,libc6 ,>= 2.14,3
+PHP,libicu60,libgcc1 ,>= 1:3.0,3
+PHP,libicu60,libstdc++6 ,>= 5.2,3
+PHP,libargon2-0,libc6 ,>= 2.14,1
+PHP,libmagic1,libc6 ,>= 2.15,3
+PHP,libmagic1,libmagic-mgc ,= 1:5.32-2ubuntu0.1,3
+PHP,libmagic1,zlib1g ,>= 1:1.1.4,3
+PHP,libsodium23,libc6 ,>= 2.25,1
+PHP,php7.2-cli,libargon2-0 ,>= 0~20160406~,16
+PHP,php7.2-cli,libc6 ,>= 2.27,16
+PHP,php7.2-cli,libedit2 ,>= 2.11-20080614-4,16
+PHP,php7.2-cli,libmagic1,any,16
+PHP,php7.2-cli,libpcre3 ,>= 2:8.35,16
+PHP,php7.2-cli,libsodium23 ,>= 1.0.14,16
+PHP,php7.2-cli,libssl1.1 ,>= 1.1.0,16
+PHP,php7.2-cli,libxml2 ,>= 2.8.0,16
+PHP,php7.2-cli,mime-support,any,16
+PHP,php7.2-cli,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,16
+PHP,php7.2-cli,php7.2-json,any,16
+PHP,php7.2-cli,php7.2-opcache,any,16
+PHP,php7.2-cli,php7.2-readline,any,16
+PHP,php7.2-cli,tzdata,any,16
+PHP,php7.2-cli,ucf,any,16
+PHP,php7.2-cli,zlib1g ,>= 1:1.1.4,16
+PHP,libedit2,libc6 ,>= 2.17,2
+PHP,libedit2,libtinfo5 ,>= 6,2
+PHP,libtinfo5,libc6 ,>= 2.16,1
+PHP,php7.2-common,libc6 ,>= 2.15,4
+PHP,php7.2-common,libssl1.1 ,>= 1.1.0,4
+PHP,php7.2-common,php-common ,>= 1:35,4
+PHP,php7.2-common,ucf,any,4
+PHP,php-common,psmisc ,>= 22.15-1~,2
+PHP,php-common,sed ,>= 4.1.1-1,2
+PHP,psmisc,libc6 ,>= 2.14,3
+PHP,psmisc,libselinux1 ,>= 1.32,3
+PHP,psmisc,libtinfo5 ,>= 6,3
+PHP,ucf,coreutils ,>= 5.91,3
+PHP,ucf,debconf ,>= 1.5.19,3
+PHP,ucf,sensible-utils,any,3
+PHP,php7.2-json,libc6 ,>= 2.14,4
+PHP,php7.2-json,php-common ,>= 1:35,4
+PHP,php7.2-json,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+PHP,php7.2-json,ucf,any,4
+PHP,php7.2-opcache,libc6 ,>= 2.27,4
+PHP,php7.2-opcache,php-common ,>= 1:35,4
+PHP,php7.2-opcache,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+PHP,php7.2-opcache,ucf,any,4
+PHP,php7.2-readline,libc6 ,>= 2.14,5
+PHP,php7.2-readline,libedit2 ,>= 3.1-20130611,5
+PHP,php7.2-readline,php-common ,>= 1:35,5
+PHP,php7.2-readline,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,5
+PHP,php7.2-readline,ucf,any,5
+PHP,tzdata,debconf ,>= 0.5,2
+PHP,tzdata,debconf-2.0,any,2
+PHP,php7.2-cgi,libargon2-0 ,>= 0~20160406~,15
+PHP,php7.2-cgi,libc6 ,>= 2.27,15
+PHP,php7.2-cgi,libmagic1,any,15
+PHP,php7.2-cgi,libpcre3 ,>= 2:8.35,15
+PHP,php7.2-cgi,libsodium23 ,>= 1.0.14,15
+PHP,php7.2-cgi,libssl1.1 ,>= 1.1.0,15
+PHP,php7.2-cgi,libxml2 ,>= 2.8.0,15
+PHP,php7.2-cgi,mime-support,any,15
+PHP,php7.2-cgi,php7.2-cli,any,15
+PHP,php7.2-cgi,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,15
+PHP,php7.2-cgi,php7.2-json,any,15
+PHP,php7.2-cgi,php7.2-opcache,any,15
+PHP,php7.2-cgi,tzdata,any,15
+PHP,php7.2-cgi,ucf,any,15
+PHP,php7.2-cgi,zlib1g ,>= 1:1.1.4,15
+PHP,php7.2-fpm,libapparmor1 ,>= 2.7.0~beta1+bzr1772,17
+PHP,php7.2-fpm,libargon2-0 ,>= 0~20160406~,17
+PHP,php7.2-fpm,libc6 ,>= 2.27,17
+PHP,php7.2-fpm,libmagic1,any,17
+PHP,php7.2-fpm,libpcre3 ,>= 2:8.35,17
+PHP,php7.2-fpm,libsodium23 ,>= 1.0.14,17
+PHP,php7.2-fpm,libssl1.1 ,>= 1.1.0,17
+PHP,php7.2-fpm,libsystemd0,any,17
+PHP,php7.2-fpm,libxml2 ,>= 2.8.0,17
+PHP,php7.2-fpm,mime-support,any,17
+PHP,php7.2-fpm,php7.2-cli,any,17
+PHP,php7.2-fpm,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+PHP,php7.2-fpm,php7.2-json,any,17
+PHP,php7.2-fpm,php7.2-opcache,any,17
+PHP,php7.2-fpm,tzdata,any,17
+PHP,php7.2-fpm,ucf,any,17
+PHP,php7.2-fpm,zlib1g ,>= 1:1.1.4,17
+PHP,libapparmor1,libc6 ,>= 2.17,1
+PHP,libgcrypt20,libc6 ,>= 2.15,2
+PHP,libgcrypt20,libgpg-error0 ,>= 1.25,2
+PHP,libgpg-error0,libc6 ,>= 2.15,1
+PHP,liblz4-1,libc6 ,>= 2.14,1
+POSTGRESQL,postgresql,postgresql-10,any,1
+POSTGRESQL,postgresql-10,libc6 ,>= 2.17,18
+POSTGRESQL,postgresql-10,libgssapi-krb5-2 ,>= 1.14+dfsg,18
+POSTGRESQL,postgresql-10,libicu60 ,>= 60.1-1~,18
+POSTGRESQL,postgresql-10,libldap-2.4-2 ,>= 2.4.7,18
+POSTGRESQL,postgresql-10,libpam0g ,>= 0.99.7.1,18
+POSTGRESQL,postgresql-10,libpq5 ,>= 9.3~,18
+POSTGRESQL,postgresql-10,libselinux1 ,>= 2.1.12,18
+POSTGRESQL,postgresql-10,libssl1.1 ,>= 1.1.0,18
+POSTGRESQL,postgresql-10,libsystemd0,any,18
+POSTGRESQL,postgresql-10,libuuid1 ,>= 2.16,18
+POSTGRESQL,postgresql-10,libxml2 ,>= 2.7.4,18
+POSTGRESQL,postgresql-10,libxslt1.1 ,>= 1.1.25,18
+POSTGRESQL,postgresql-10,locales,any,18
+POSTGRESQL,postgresql-10,postgresql-client-10,any,18
+POSTGRESQL,postgresql-10,postgresql-common ,>= 182~,18
+POSTGRESQL,postgresql-10,ssl-cert,any,18
+POSTGRESQL,postgresql-10,tzdata,any,18
+POSTGRESQL,postgresql-10,zlib1g ,>= 1:1.1.4,18
+POSTGRESQL,libc6,libgcc1,any,1
+POSTGRESQL,libgcc1,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,2
+POSTGRESQL,libgcc1,libc6 ,>= 2.14,2
+POSTGRESQL,libgssapi-krb5-2,libc6 ,>= 2.27,5
+POSTGRESQL,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+POSTGRESQL,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+POSTGRESQL,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+POSTGRESQL,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+POSTGRESQL,libcom-err2,libc6 ,>= 2.17,1
+POSTGRESQL,libk5crypto3,libc6 ,>= 2.14,2
+POSTGRESQL,libk5crypto3,libkrb5support0 ,>= 1.16,2
+POSTGRESQL,libkrb5support0,libc6 ,>= 2.14,1
+POSTGRESQL,libkrb5-3,libc6 ,>= 2.16,5
+POSTGRESQL,libkrb5-3,libcom-err2 ,>= 1.34,5
+POSTGRESQL,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+POSTGRESQL,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+POSTGRESQL,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+POSTGRESQL,libkeyutils1,libc6 ,>= 2.14,1
+POSTGRESQL,libicu60,libc6 ,>= 2.14,3
+POSTGRESQL,libicu60,libgcc1 ,>= 1:3.0,3
+POSTGRESQL,libicu60,libstdc++6 ,>= 5.2,3
+POSTGRESQL,libstdc++6,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,3
+POSTGRESQL,libstdc++6,libc6 ,>= 2.18,3
+POSTGRESQL,libstdc++6,libgcc1 ,>= 1:4.2,3
+POSTGRESQL,libldap-2.4-2,libc6 ,>= 2.14,5
+POSTGRESQL,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+POSTGRESQL,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+POSTGRESQL,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.2,5
+POSTGRESQL,libldap-2.4-2,libsasl2-2,any,5
+POSTGRESQL,libgnutls30,libc6 ,>= 2.25,9
+POSTGRESQL,libgnutls30,libgmp10 ,>= 2:6,9
+POSTGRESQL,libgnutls30,libhogweed4,any,9
+POSTGRESQL,libgnutls30,libidn2-0 ,>= 0.6,9
+POSTGRESQL,libgnutls30,libnettle6,any,9
+POSTGRESQL,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+POSTGRESQL,libgnutls30,libtasn1-6 ,>= 4.12,9
+POSTGRESQL,libgnutls30,libunistring2 ,>= 0.9.7,9
+POSTGRESQL,libgnutls30,zlib1g ,>= 1:1.1.4,9
+POSTGRESQL,libgmp10,libc6 ,>= 2.14,1
+POSTGRESQL,libhogweed4,libc6 ,>= 2.14,3
+POSTGRESQL,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+POSTGRESQL,libhogweed4,libnettle6 ,2.4,3
+POSTGRESQL,libnettle6,libc6 ,>= 2.14,1
+POSTGRESQL,libidn2-0,libc6 ,>= 2.14,2
+POSTGRESQL,libidn2-0,libunistring2 ,>= 0.9.7,2
+POSTGRESQL,libunistring2,libc6 ,>= 2.14,1
+POSTGRESQL,libp11-kit0,libc6 ,>= 2.26,2
+POSTGRESQL,libp11-kit0,libffi6 ,>= 3.0.4,2
+POSTGRESQL,libffi6,libc6 ,>= 2.14,1
+POSTGRESQL,libtasn1-6,libc6 ,>= 2.14,1
+POSTGRESQL,zlib1g,libc6 ,>= 2.14,1
+POSTGRESQL,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libgssapi3-heimdal,libc6 ,>= 2.14,7
+POSTGRESQL,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+POSTGRESQL,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+POSTGRESQL,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libasn1-8-heimdal,libc6 ,>= 2.14,3
+POSTGRESQL,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+POSTGRESQL,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+POSTGRESQL,libcomerr2,libcom-err2,any,1
+POSTGRESQL,libroken18-heimdal,libc6 ,>= 2.16,1
+POSTGRESQL,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+POSTGRESQL,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+POSTGRESQL,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+POSTGRESQL,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+POSTGRESQL,libheimbase1-heimdal,libc6 ,>= 2.14,1
+POSTGRESQL,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+POSTGRESQL,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+POSTGRESQL,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+POSTGRESQL,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+POSTGRESQL,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+POSTGRESQL,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+POSTGRESQL,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+POSTGRESQL,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+POSTGRESQL,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+POSTGRESQL,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+POSTGRESQL,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+POSTGRESQL,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+POSTGRESQL,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+POSTGRESQL,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+POSTGRESQL,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libhx509-5-heimdal,libc6 ,>= 2.14,7
+POSTGRESQL,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+POSTGRESQL,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+POSTGRESQL,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+POSTGRESQL,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+POSTGRESQL,libwind0-heimdal,libc6 ,>= 2.14,3
+POSTGRESQL,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+POSTGRESQL,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+POSTGRESQL,libsqlite3-0,libc6 ,>= 2.14,1
+POSTGRESQL,libsasl2-2,libc6 ,>= 2.15,2
+POSTGRESQL,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+POSTGRESQL,libsasl2-modules-db,libc6 ,>= 2.14,2
+POSTGRESQL,libsasl2-modules-db,libdb5.3,any,2
+POSTGRESQL,libdb5.3,libc6 ,>= 2.17,1
+POSTGRESQL,libpam0g,debconf ,>= 0.5,4
+POSTGRESQL,libpam0g,debconf-2.0,any,4
+POSTGRESQL,libpam0g,libaudit1 ,>= 1:2.2.1,4
+POSTGRESQL,libpam0g,libc6 ,>= 2.14,4
+POSTGRESQL,dpkg,tar ,>= 1.28-1,1
+POSTGRESQL,libacl1,libattr1 ,>= 1:2.4.46-8,2
+POSTGRESQL,libacl1,libc6 ,>= 2.14,2
+POSTGRESQL,libattr1,libc6 ,>= 2.4,1
+POSTGRESQL,libselinux1,libc6 ,>= 2.14,2
+POSTGRESQL,libselinux1,libpcre3,any,2
+POSTGRESQL,libpcre3,libc6 ,>= 2.14,1
+POSTGRESQL,libbz2-1.0,libc6 ,>= 2.4,1
+POSTGRESQL,liblzma5,libc6 ,>= 2.17,1
+POSTGRESQL,libzstd1,libc6 ,>= 2.14,1
+POSTGRESQL,libaudit1,libaudit-common ,>= 1:2.8.2-1ubuntu1,3
+POSTGRESQL,libaudit1,libc6 ,>= 2.14,3
+POSTGRESQL,libaudit1,libcap-ng0,any,3
+POSTGRESQL,libcap-ng0,libc6 ,>= 2.8,1
+POSTGRESQL,libpq5,libc6 ,>= 2.14,4
+POSTGRESQL,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+POSTGRESQL,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+POSTGRESQL,libpq5,libssl1.1 ,>= 1.1.0,4
+POSTGRESQL,libssl1.1,debconf ,>= 0.5,3
+POSTGRESQL,libssl1.1,debconf-2.0,any,3
+POSTGRESQL,libssl1.1,libc6 ,>= 2.14,3
+POSTGRESQL,libgcrypt20,libc6 ,>= 2.15,2
+POSTGRESQL,libgcrypt20,libgpg-error0 ,>= 1.25,2
+POSTGRESQL,libgpg-error0,libc6 ,>= 2.15,1
+POSTGRESQL,liblz4-1,libc6 ,>= 2.14,1
+POSTGRESQL,libuuid1,libc6 ,>= 2.25,1
+POSTGRESQL,libxml2,libc6 ,>= 2.15,4
+POSTGRESQL,libxml2,libicu60 ,>= 60.1-1~,4
+POSTGRESQL,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+POSTGRESQL,libxml2,zlib1g ,>= 1:1.2.3.3,4
+POSTGRESQL,libxslt1.1,libc6 ,>= 2.17,3
+POSTGRESQL,libxslt1.1,libgcrypt20 ,>= 1.8.0,3
+POSTGRESQL,libxslt1.1,libxml2 ,>= 2.9.0,3
+POSTGRESQL,locales,debconf ,>= 0.5,3
+POSTGRESQL,locales,debconf-2.0,any,3
+POSTGRESQL,locales,libc-bin ,>> 2.27,3
+POSTGRESQL,libc-bin,libc6 ,<< 2.28,1
+POSTGRESQL,postgresql-client-10,libc6 ,>= 2.15,5
+POSTGRESQL,postgresql-client-10,libedit2 ,>= 2.11-20080614,5
+POSTGRESQL,postgresql-client-10,libpq5 ,>= 10.7,5
+POSTGRESQL,postgresql-client-10,postgresql-client-common ,>= 182~,5
+POSTGRESQL,postgresql-client-10,zlib1g ,>= 1:1.1.4,5
+POSTGRESQL,libedit2,libc6 ,>= 2.17,2
+POSTGRESQL,libedit2,libtinfo5 ,>= 6,2
+POSTGRESQL,libtinfo5,libc6 ,>= 2.16,1
+POSTGRESQL,postgresql-client-common,netbase,any,1
+POSTGRESQL,postgresql-common,adduser,any,8
+POSTGRESQL,postgresql-common,debconf ,>= 0.5.00,8
+POSTGRESQL,postgresql-common,debconf-2.0,any,8
+POSTGRESQL,postgresql-common,lsb-base ,>= 3.0-3,8
+POSTGRESQL,postgresql-common,postgresql-client-common ,190,8
+POSTGRESQL,postgresql-common,procps,any,8
+POSTGRESQL,postgresql-common,ssl-cert ,>= 1.0.11,8
+POSTGRESQL,postgresql-common,ucf,any,8
+POSTGRESQL,adduser,debconf ,>= 0.5,3
+POSTGRESQL,adduser,debconf-2.0,any,3
+POSTGRESQL,adduser,passwd,any,3
+POSTGRESQL,passwd,libaudit1 ,>= 1:2.2.1,6
+POSTGRESQL,passwd,libc6 ,>= 2.14,6
+POSTGRESQL,passwd,libpam-modules,any,6
+POSTGRESQL,passwd,libpam0g ,>= 0.99.7.1,6
+POSTGRESQL,passwd,libselinux1 ,>= 1.32,6
+POSTGRESQL,passwd,libsemanage1 ,>= 2.0.3,6
+POSTGRESQL,libpam-modules-bin,libaudit1 ,>= 1:2.2.1,4
+POSTGRESQL,libpam-modules-bin,libc6 ,>= 2.14,4
+POSTGRESQL,libpam-modules-bin,libpam0g ,>= 0.99.7.1,4
+POSTGRESQL,libpam-modules-bin,libselinux1 ,>= 1.32,4
+POSTGRESQL,libsemanage1,libaudit1 ,>= 1:2.2.1,6
+POSTGRESQL,libsemanage1,libbz2-1.0,any,6
+POSTGRESQL,libsemanage1,libc6 ,>= 2.14,6
+POSTGRESQL,libsemanage1,libselinux1 ,>= 2.7,6
+POSTGRESQL,libsemanage1,libsemanage-common ,= 2.7-2build2,6
+POSTGRESQL,libsemanage1,libsepol1 ,>= 2.7,6
+POSTGRESQL,libsepol1,libc6 ,>= 2.14,1
+POSTGRESQL,procps,init-system-helpers ,>= 1.29~,7
+POSTGRESQL,procps,libc6 ,>= 2.27,7
+POSTGRESQL,procps,libncurses5 ,>= 6,7
+POSTGRESQL,procps,libncursesw5 ,>= 6,7
+POSTGRESQL,procps,libprocps6,any,7
+POSTGRESQL,procps,libtinfo5 ,>= 6,7
+POSTGRESQL,procps,lsb-base ,>= 3.0-10,7
+POSTGRESQL,init-system-helpers,perl-base ,>= 5.20.1-3,1
+POSTGRESQL,libncurses5,libc6 ,>= 2.14,2
+POSTGRESQL,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+POSTGRESQL,libncursesw5,libc6 ,>= 2.14,2
+POSTGRESQL,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+POSTGRESQL,libprocps6,libc6 ,>= 2.14,2
+POSTGRESQL,libprocps6,libsystemd0 ,>= 209,2
+POSTGRESQL,ssl-cert,adduser,any,4
+POSTGRESQL,ssl-cert,debconf ,>= 0.5,4
+POSTGRESQL,ssl-cert,debconf-2.0,any,4
+POSTGRESQL,ssl-cert,openssl ,>= 0.9.8g-9,4
+POSTGRESQL,openssl,libc6 ,>= 2.15,2
+POSTGRESQL,openssl,libssl1.1 ,>= 1.1.0,2
+POSTGRESQL,ucf,coreutils ,>= 5.91,3
+POSTGRESQL,ucf,debconf ,>= 1.5.19,3
+POSTGRESQL,ucf,sensible-utils,any,3
+POSTGRESQL,tzdata,debconf ,>= 0.5,2
+POSTGRESQL,tzdata,debconf-2.0,any,2

@@ -1,0 +1,315 @@
+ant
+  Depends: default-jre-headless (>= 2:1.8)
+  Depends: java8-runtime-headless
+default-jre-headless
+  Depends: java-common
+  Depends: openjdk-11-jre-headless
+java-common
+openjdk-11-jre-headless
+  Depends: ca-certificates-java
+  Depends: java-common (>= 0.28)
+  Depends: libc6 (>= 2.14)
+  Depends: libcups2
+  Depends: libfontconfig1
+  Depends: libfreetype6 (>= 2.2.1)
+  Depends: libgcc1 (>= 1:3.4)
+  Depends: libjpeg8 (>= 8c)
+  Depends: liblcms2-2 (>= 2.2+git20110628)
+  Depends: libnss3 (>= 2:3.17.1)
+  Depends: libpcsclite1 (>= 1.3.0)
+  Depends: libstdc++6 (>= 4.1.1)
+  Depends: libx11-6
+  Depends: libxext6
+  Depends: libxi6
+  Depends: libxrender1
+  Depends: libxtst6
+  Depends: util-linux (>= 2.26.2-4)
+  Depends: zlib1g (>= 1:1.1.4)
+ca-certificates-java
+  Depends: ca-certificates (>= 20121114)
+  Depends: java8-runtime-headless
+  Depends: libnss3 (>= 3.12.9+ckbi-1.82-0ubuntu3~)
+  Depends: openjdk-11-jre-headless
+ca-certificates
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: openssl (>= 1.1.0)
+debconf
+  PreDepends: perl-base (>= 5.20.1-3~)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)
+debconf-2.0
+openssl
+  Depends: libc6 (>= 2.15)
+  Depends: libssl1.1 (>= 1.1.0)
+libssl1.1
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libc6 (>= 2.14)
+java8-runtime-headless
+libnss3
+  Depends: libc6 (>= 2.14)
+  Depends: libnspr4 (>= 2:4.12)
+  Depends: libsqlite3-0 (>= 3.5.9)
+libnspr4
+  Depends: libc6 (>= 2.17)
+libsqlite3-0
+  Depends: libc6 (>= 2.14)
+libcups2
+  Depends: libavahi-client3 (>= 0.6.16)
+  Depends: libavahi-common3 (>= 0.6.16)
+  Depends: libc6 (>= 2.17)
+  Depends: libgnutls30 (>= 3.5.6)
+  Depends: libgssapi-krb5-2 (>= 1.14+dfsg)
+  Depends: zlib1g (>= 1:1.2.0)
+libavahi-client3
+  Depends: libavahi-common3 (>= 0.6.22)
+  Depends: libc6 (>= 2.4)
+  Depends: libdbus-1-3 (>= 1.9.14)
+libavahi-common3
+  Depends: libavahi-common-data
+  Depends: libc6 (>= 2.14)
+libavahi-common-data
+libdbus-1-3
+  Depends: libc6 (>= 2.17)
+  Depends: libsystemd0
+libsystemd0
+  PreDepends: libc6 (>= 2.27)
+  PreDepends: libgcrypt20 (>= 1.8.0)
+  PreDepends: liblz4-1 (>= 0.0~r113)
+  PreDepends: liblzma5 (>= 5.1.1alpha+20120614)
+libgcrypt20
+  Depends: libc6 (>= 2.15)
+  Depends: libgpg-error0 (>= 1.25)
+libgpg-error0
+  Depends: libc6 (>= 2.15)
+liblz4-1
+  Depends: libc6 (>= 2.14)
+libgnutls30
+  Depends: libc6 (>= 2.25)
+  Depends: libgmp10 (>= 2:6)
+  Depends: libhogweed4
+  Depends: libidn2-0 (>= 0.6)
+  Depends: libnettle6
+  Depends: libp11-kit0 (>= 0.23.1)
+  Depends: libtasn1-6 (>= 4.12)
+  Depends: libunistring2 (>= 0.9.7)
+  Depends: zlib1g (>= 1:1.1.4)
+libgmp10
+  Depends: libc6 (>= 2.14)
+libhogweed4
+  Depends: libc6 (>= 2.14)
+  Depends: libgmp10 (>= 2:6.0.0)
+  Depends: libnettle6 (= 3.4-1)
+libnettle6
+  Depends: libc6 (>= 2.14)
+libidn2-0
+  Depends: libc6 (>= 2.14)
+  Depends: libunistring2 (>= 0.9.7)
+libunistring2
+  Depends: libc6 (>= 2.14)
+libp11-kit0
+  Depends: libc6 (>= 2.26)
+  Depends: libffi6 (>= 3.0.4)
+libffi6
+  Depends: libc6 (>= 2.14)
+libtasn1-6
+  Depends: libc6 (>= 2.14)
+libgssapi-krb5-2
+  Depends: libc6 (>= 2.27)
+  Depends: libcom-err2 (>= 1.34)
+  Depends: libk5crypto3 (>= 1.16)
+  Depends: libkrb5-3 (= 1.16-2ubuntu0.1)
+  Depends: libkrb5support0 (>= 1.15~beta1)
+libcom-err2
+  Depends: libc6 (>= 2.17)
+libk5crypto3
+  Depends: libc6 (>= 2.14)
+  Depends: libkrb5support0 (>= 1.16)
+libkrb5support0
+  Depends: libc6 (>= 2.14)
+libkrb5-3
+  Depends: libc6 (>= 2.16)
+  Depends: libcom-err2 (>= 1.34)
+  Depends: libk5crypto3 (>= 1.15~beta1)
+  Depends: libkeyutils1 (>= 1.5.9)
+  Depends: libkrb5support0 (= 1.16-2ubuntu0.1)
+libkeyutils1
+  Depends: libc6 (>= 2.14)
+libfontconfig1
+  Depends: fontconfig-config (>= 2.12.6-0ubuntu2)
+  Depends: libc6 (>= 2.14)
+  Depends: libexpat1 (>= 2.0.1)
+  Depends: libfreetype6 (>= 2.2.1)
+fontconfig-config
+  Depends: fonts-dejavu-core
+  Depends: fonts-freefont
+  Depends: fonts-liberation
+  Depends: ttf-bitstream-vera
+  Depends: ucf (>= 0.29)
+fonts-dejavu-core
+fonts-freefont
+fonts-liberation
+ttf-bitstream-vera
+ucf
+  Depends: coreutils (>= 5.91)
+  Depends: debconf (>= 1.5.19)
+  Depends: sensible-utils
+coreutils
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libattr1 (>= 1:2.4.46-8)
+  PreDepends: libc6 (>= 2.25)
+  PreDepends: libselinux1 (>= 2.1.13)
+sensible-utils
+libexpat1
+  Depends: libc6 (>= 2.25)
+libfreetype6
+  Depends: libc6 (>= 2.14)
+  Depends: libpng16-16 (>= 1.6.2-1)
+  Depends: zlib1g (>= 1:1.1.4)
+libpng16-16
+  Depends: libc6 (>= 2.14)
+  Depends: zlib1g (>= 1:1.2.11)
+libjpeg8
+  Depends: libjpeg-turbo8 (>= 1.1.90+svn722-1ubuntu6)
+libjpeg-turbo8
+  Depends: libc6 (>= 2.14)
+  PreDepends: multiarch-support
+multiarch-support
+  Depends: libc6 (>= 2.3.6-2)
+liblcms2-2
+  Depends: libc6 (>= 2.14)
+libpcsclite1
+  Depends: libc6 (>= 2.15)
+libstdc++6
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.18)
+  Depends: libgcc1 (>= 1:4.2)
+libx11-6
+  Depends: libc6 (>= 2.15)
+  Depends: libx11-data
+  Depends: libxcb1 (>= 1.11.1)
+libx11-data
+libxcb1
+  Depends: libc6 (>= 2.14)
+  Depends: libxau6
+  Depends: libxdmcp6
+libxau6
+  Depends: libc6 (>= 2.4)
+  PreDepends: multiarch-support
+libxdmcp6
+  Depends: libbsd0 (>= 0.2.0)
+  Depends: libc6 (>= 2.4)
+libbsd0
+  Depends: libc6 (>= 2.25)
+libxext6
+  Depends: libc6 (>= 2.14)
+  Depends: libx11-6 (>= 2:1.6.0)
+  PreDepends: multiarch-support
+libxi6
+  Depends: libc6 (>= 2.14)
+  Depends: libx11-6 (>= 2:1.6.0)
+  Depends: libxext6
+libxrender1
+  Depends: libc6 (>= 2.14)
+  Depends: libx11-6 (>= 2:1.6.0)
+libxtst6
+  Depends: libc6 (>= 2.4)
+  Depends: libx11-6 (>= 2:1.6.0)
+  Depends: libxext6
+  Depends: x11-common
+x11-common
+  Depends: lsb-base (>= 1.3-9ubuntu2)
+lsb-base
+util-linux
+  Depends: fdisk
+  PreDepends: libaudit1 (>= 1:2.2.1)
+  PreDepends: libblkid1 (>= 2.31.1)
+  PreDepends: libc6 (>= 2.25)
+  PreDepends: libmount1 (>= 2.25)
+  PreDepends: libpam0g (>= 0.99.7.1)
+  PreDepends: libselinux1 (>= 2.6-3~)
+  PreDepends: libsmartcols1 (>= 2.30.2)
+  PreDepends: libsystemd0
+  PreDepends: libtinfo5 (>= 6)
+  PreDepends: libudev1 (>= 183)
+  PreDepends: libuuid1 (>= 2.16)
+  PreDepends: zlib1g (>= 1:1.1.4)
+fdisk
+  Depends: libc6 (>= 2.14)
+  Depends: libfdisk1 (>= 2.31.1)
+  Depends: libmount1 (>= 2.24.2)
+  Depends: libncursesw5 (>= 6)
+  Depends: libsmartcols1 (>= 2.28~rc1)
+  Depends: libtinfo5 (>= 6)
+libfdisk1
+  Depends: libblkid1 (>= 2.24.2)
+  Depends: libc6 (>= 2.25)
+  Depends: libuuid1 (>= 2.16)
+libblkid1
+  Depends: libc6 (>= 2.25)
+  Depends: libuuid1 (>= 2.16)
+libuuid1
+  Depends: libc6 (>= 2.25)
+libmount1
+  Depends: libblkid1 (>= 2.17.2)
+  Depends: libc6 (>= 2.25)
+  Depends: libselinux1 (>= 2.6-3~)
+libncursesw5
+  Depends: libc6 (>= 2.14)
+  Depends: libtinfo5 (= 6.1-1ubuntu1.18.04)
+libtinfo5
+  Depends: libc6 (>= 2.16)
+libsmartcols1
+  Depends: libc6 (>= 2.25)
+libaudit1
+  Depends: libaudit-common (>= 1:2.8.2-1ubuntu1)
+  Depends: libc6 (>= 2.14)
+  Depends: libcap-ng0
+libaudit-common
+libcap-ng0
+  Depends: libc6 (>= 2.8)
+libpam0g
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libaudit1 (>= 1:2.2.1)
+  Depends: libc6 (>= 2.14)
+libudev1
+  Depends: libc6 (>= 2.25)

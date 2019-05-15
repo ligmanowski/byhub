@@ -1,0 +1,294 @@
+mariadb-server
+  Depends: mariadb-server-10.1 (>= 1:10.1.38-0ubuntu0.18.04.1)
+mariadb-server-10.1
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: galera-3 (>= 25.3)
+  Depends: gawk
+  Depends: iproute2
+  Depends: libaio1 (>= 0.3.93)
+  Depends: libc6 (>= 2.17)
+  Depends: libdbi-perl
+  Depends: libpam0g (>= 0.99.7.1)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: libsystemd0
+  Depends: lsb-base (>= 3.0-10)
+  Depends: lsof
+  Depends: mariadb-client-10.1 (>= 1:10.1.38-0ubuntu0.18.04.1)
+  Depends: mariadb-server-core-10.1 (>= 1:10.1.38-0ubuntu0.18.04.1)
+  Depends: passwd
+  Depends: perl (>= 5.6)
+  Depends: psmisc
+  Depends: rsync
+  Depends: socat
+  Depends: zlib1g (>= 1:1.2.0)
+  PreDepends: adduser (>= 3.40)
+  PreDepends: debconf
+  PreDepends: mariadb-common (>= 1:10.1.38-0ubuntu0.18.04.1)
+debconf
+  PreDepends: perl-base (>= 5.20.1-3~)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)
+debconf-2.0
+galera-3
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: libssl1.0.0 (>= 1.0.2~beta3)
+  Depends: libstdc++6 (>= 5.2)
+libssl1.0.0
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libc6 (>= 2.14)
+libstdc++6
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.18)
+  Depends: libgcc1 (>= 1:4.2)
+gawk
+  PreDepends: libc6 (>= 2.15)
+  PreDepends: libgmp10
+  PreDepends: libmpfr6 (>= 3.1.3)
+  PreDepends: libreadline7 (>= 6.0)
+  PreDepends: libsigsegv2 (>= 2.9)
+libgmp10
+  Depends: libc6 (>= 2.14)
+libmpfr6
+  Depends: libc6 (>= 2.14)
+  Depends: libgmp10
+libreadline7
+  Depends: libc6 (>= 2.15)
+  Depends: libtinfo5 (>= 6)
+  Depends: readline-common
+libtinfo5
+  Depends: libc6 (>= 2.16)
+readline-common
+  Depends: dpkg (>= 1.15.4)
+  Depends: install-info
+install-info
+  Depends: libc6 (>= 2.14)
+  PreDepends: dpkg (>= 1.16.1)
+libsigsegv2
+  Depends: libc6 (>= 2.4)
+iproute2
+  Depends: libc6 (>= 2.27)
+  Depends: libdb5.3
+  Depends: libelf1 (>= 0.131)
+  Depends: libmnl0 (>= 1.0.3-4~)
+  Depends: libselinux1 (>= 2.0.15)
+libdb5.3
+  Depends: libc6 (>= 2.17)
+libelf1
+  Depends: libc6 (>= 2.14)
+  Depends: zlib1g (>= 1:1.1.4)
+libmnl0
+  Depends: libc6 (>= 2.14)
+libaio1
+  Depends: libc6 (>= 2.4)
+libdbi-perl
+  Depends: libc6 (>= 2.4)
+  Depends: perl (>= 5.26.1-4build1)
+  Depends: perlapi-5.26.1
+perl
+  Depends: libperl5.26 (= 5.26.1-6ubuntu0.3)
+  Depends: perl-base (= 5.26.1-6ubuntu0.3)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  PreDepends: dpkg (>= 1.17.17)
+libperl5.26
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.23)
+  Depends: libdb5.3
+  Depends: libgdbm-compat4
+  Depends: libgdbm5 (>= 1.12)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  Depends: zlib1g (>= 1:1.2.2.3)
+libgdbm-compat4
+  Depends: libc6 (>= 2.14)
+  Depends: libgdbm5 (>= 1.14)
+libgdbm5
+  Depends: libc6 (>= 2.14)
+perl-modules-5.26
+  Depends: perl-base (>= 5.26.1-1)
+  PreDepends: dpkg (>= 1.17.17)
+perlapi-5.26.1
+libpam0g
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libaudit1 (>= 1:2.2.1)
+  Depends: libc6 (>= 2.14)
+libaudit1
+  Depends: libaudit-common (>= 1:2.8.2-1ubuntu1)
+  Depends: libc6 (>= 2.14)
+  Depends: libcap-ng0
+libaudit-common
+libcap-ng0
+  Depends: libc6 (>= 2.8)
+libsystemd0
+  PreDepends: libc6 (>= 2.27)
+  PreDepends: libgcrypt20 (>= 1.8.0)
+  PreDepends: liblz4-1 (>= 0.0~r113)
+  PreDepends: liblzma5 (>= 5.1.1alpha+20120614)
+libgcrypt20
+  Depends: libc6 (>= 2.15)
+  Depends: libgpg-error0 (>= 1.25)
+libgpg-error0
+  Depends: libc6 (>= 2.15)
+liblz4-1
+  Depends: libc6 (>= 2.14)
+lsb-base
+lsof
+  Depends: libc6 (>= 2.14)
+  Depends: libselinux1 (>= 1.32)
+mariadb-client-10.1
+  Depends: debianutils (>= 1.6)
+  Depends: libaio1 (>= 0.3.93)
+  Depends: libc6 (>= 2.27)
+  Depends: libconfig-inifiles-perl
+  Depends: libjemalloc1 (>= 2.1.1)
+  Depends: libpcre3
+  Depends: libstdc++6 (>= 5.2)
+  Depends: libsystemd0
+  Depends: mariadb-client-core-10.1 (>= 1:10.1.38-0ubuntu0.18.04.1)
+  Depends: perl:any
+  Depends: zlib1g (>= 1:1.2.0)
+debianutils
+  PreDepends: libc6 (>= 2.15)
+libconfig-inifiles-perl
+  Depends: libscalar-list-utils-perl (>= 1:1.33)
+  Depends: perl (>= 5.19.5)
+libscalar-list-utils-perl
+  Depends: libc6 (>= 2.14)
+  Depends: perl (>= 5.26.1-4build1)
+  Depends: perlapi-5.26.1
+libjemalloc1
+  Depends: libc6 (>= 2.14)
+mariadb-client-core-10.1
+  Depends: libaio1 (>= 0.3.93)
+  Depends: libc6 (>= 2.27)
+  Depends: libncurses5 (>= 6)
+  Depends: libpcre3
+  Depends: libreadline5 (>= 5.2)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: libtinfo5 (>= 6)
+  Depends: mariadb-common (>= 1:10.1.38-0ubuntu0.18.04.1)
+  Depends: zlib1g (>= 1:1.2.0)
+libncurses5
+  Depends: libc6 (>= 2.14)
+  Depends: libtinfo5 (= 6.1-1ubuntu1.18.04)
+libreadline5
+  Depends: libc6 (>= 2.15)
+  Depends: libtinfo5 (>= 6)
+  Depends: readline-common
+mariadb-common
+  Depends: mysql-common (>= 5.6.25)
+mysql-common
+perl:any
+mariadb-server-core-10.1
+  Depends: libaio1 (>= 0.3.93)
+  Depends: libc6 (>= 2.27)
+  Depends: libjemalloc1 (>= 2.1.1)
+  Depends: libpcre3
+  Depends: libstdc++6 (>= 5.2)
+  Depends: libsystemd0
+  Depends: mariadb-common (>= 1:10.1.38-0ubuntu0.18.04.1)
+  Depends: zlib1g (>= 1:1.2.0)
+passwd
+  Depends: libaudit1 (>= 1:2.2.1)
+  Depends: libc6 (>= 2.14)
+  Depends: libpam-modules
+  Depends: libpam0g (>= 0.99.7.1)
+  Depends: libselinux1 (>= 1.32)
+  Depends: libsemanage1 (>= 2.0.3)
+libpam-modules
+  PreDepends: debconf (>= 0.5)
+  PreDepends: debconf-2.0
+  PreDepends: libaudit1 (>= 1:2.2.1)
+  PreDepends: libc6 (>= 2.27)
+  PreDepends: libdb5.3
+  PreDepends: libpam-modules-bin (= 1.1.8-3.6ubuntu2.18.04.1)
+  PreDepends: libpam0g (>= 1.1.3-2)
+  PreDepends: libselinux1 (>= 2.1.9)
+libpam-modules-bin
+  Depends: libaudit1 (>= 1:2.2.1)
+  Depends: libc6 (>= 2.14)
+  Depends: libpam0g (>= 0.99.7.1)
+  Depends: libselinux1 (>= 1.32)
+libsemanage1
+  Depends: libaudit1 (>= 1:2.2.1)
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.14)
+  Depends: libselinux1 (>= 2.7)
+  Depends: libsemanage-common (= 2.7-2build2)
+  Depends: libsepol1 (>= 2.7)
+libsemanage-common
+libsepol1
+  Depends: libc6 (>= 2.14)
+psmisc
+  Depends: libc6 (>= 2.14)
+  Depends: libselinux1 (>= 1.32)
+  Depends: libtinfo5 (>= 6)
+rsync
+  Depends: base-files (>= 4.0.1)
+  Depends: init-system-helpers (>= 1.18~)
+  Depends: libacl1 (>= 2.2.51-8)
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.15)
+  Depends: libpopt0 (>= 1.14)
+  Depends: lsb-base (>= 3.2-14)
+base-files
+  Depends: libc6 (>= 2.3.4)
+  PreDepends: awk
+awk
+init-system-helpers
+  Depends: perl-base (>= 5.20.1-3)
+libpopt0
+  Depends: libc6 (>= 2.27)
+socat
+  Depends: libc6 (>= 2.15)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libwrap0 (>= 7.6-4~)
+libssl1.1
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libc6 (>= 2.14)
+libwrap0
+  Depends: libc6 (>= 2.14)
+adduser
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: passwd

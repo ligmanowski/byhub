@@ -1,0 +1,619 @@
+drupal
+  Depends: apache2
+  Depends: ca-certificates
+  Depends: default-mysql-client
+  Depends: httpd
+  Depends: libapache2-mod-php
+  Depends: libapache2-mod-php5
+  Depends: libjs-cropper (>= 1.2.2)
+  Depends: libphp-phpmailer (>= 5.2.14+dfsg)
+  Depends: php
+  Depends: php-gd
+  Depends: php-getid3 (>= 1.9.15+dfsg)
+  Depends: php-mysql
+  Depends: php-mysqlnd
+  Depends: php5
+  Depends: php5-gd
+  Depends: php5-mysql
+  Depends: php5-mysqlnd
+  Depends: virtual-mysql-client
+apache2
+  Depends: apache2-bin (= 2.4.29-1ubuntu4.5)
+  Depends: apache2-data (= 2.4.29-1ubuntu4.5)
+  Depends: apache2-utils (= 2.4.29-1ubuntu4.5)
+  Depends: lsb-base
+  Depends: mime-support
+  Depends: perl
+  Depends: perl:any
+  Depends: procps
+  PreDepends: dpkg (>= 1.17.14)
+apache2-bin
+  Depends: libapr1 (>= 1.6.2)
+  Depends: libaprutil1 (>= 1.6.0)
+  Depends: libaprutil1-dbd-freetds
+  Depends: libaprutil1-dbd-mysql
+  Depends: libaprutil1-dbd-odbc
+  Depends: libaprutil1-dbd-pgsql
+  Depends: libaprutil1-dbd-sqlite3
+  Depends: libaprutil1-ldap
+  Depends: libc6 (>= 2.14)
+  Depends: libldap-2.4-2 (>= 2.4.7)
+  Depends: liblua5.2-0
+  Depends: libnghttp2-14 (>= 1.15.0)
+  Depends: libpcre3
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libxml2 (>= 2.7.4)
+  Depends: perl:any
+  Depends: zlib1g (>= 1:1.1.4)
+libapr1
+  Depends: libc6 (>= 2.15)
+  Depends: libuuid1 (>= 2.16)
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libuuid1
+  Depends: libc6 (>= 2.25)
+libaprutil1
+  Depends: libapr1 (>= 1.6.2)
+  Depends: libc6 (>= 2.25)
+  Depends: libdb5.3
+  Depends: libexpat1 (>= 2.0.1)
+  Depends: libgdbm5 (>= 1.14)
+  Depends: libssl1.1 (>= 1.1.0)
+libdb5.3
+  Depends: libc6 (>= 2.17)
+libexpat1
+  Depends: libc6 (>= 2.25)
+libgdbm5
+  Depends: libc6 (>= 2.14)
+libssl1.1
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libc6 (>= 2.14)
+debconf
+  PreDepends: perl-base (>= 5.20.1-3~)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)
+debconf-2.0
+libaprutil1-dbd-freetds
+libaprutil1-dbd-mysql
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.4)
+  Depends: libmysqlclient20 (>= 5.7.11)
+libmysqlclient20
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: mysql-common (>= 5.5)
+  Depends: zlib1g (>= 1:1.1.4)
+libstdc++6
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.18)
+  Depends: libgcc1 (>= 1:4.2)
+mysql-common
+libaprutil1-dbd-odbc
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.14)
+  Depends: libodbc1 (>= 2.3.1)
+libodbc1
+  Depends: libc6 (>= 2.14)
+  Depends: libltdl7 (>= 2.4.6)
+libltdl7
+  Depends: libc6 (>= 2.14)
+libaprutil1-dbd-pgsql
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.14)
+  Depends: libpq5
+libpq5
+  Depends: libc6 (>= 2.14)
+  Depends: libgssapi-krb5-2 (>= 1.14+dfsg)
+  Depends: libldap-2.4-2 (>= 2.4.7)
+  Depends: libssl1.1 (>= 1.1.0)
+libgssapi-krb5-2
+  Depends: libc6 (>= 2.27)
+  Depends: libcom-err2 (>= 1.34)
+  Depends: libk5crypto3 (>= 1.16)
+  Depends: libkrb5-3 (= 1.16-2ubuntu0.1)
+  Depends: libkrb5support0 (>= 1.15~beta1)
+libcom-err2
+  Depends: libc6 (>= 2.17)
+libk5crypto3
+  Depends: libc6 (>= 2.14)
+  Depends: libkrb5support0 (>= 1.16)
+libkrb5support0
+  Depends: libc6 (>= 2.14)
+libkrb5-3
+  Depends: libc6 (>= 2.16)
+  Depends: libcom-err2 (>= 1.34)
+  Depends: libk5crypto3 (>= 1.15~beta1)
+  Depends: libkeyutils1 (>= 1.5.9)
+  Depends: libkrb5support0 (= 1.16-2ubuntu0.1)
+libkeyutils1
+  Depends: libc6 (>= 2.14)
+libldap-2.4-2
+  Depends: libc6 (>= 2.14)
+  Depends: libgnutls30 (>= 3.5.6)
+  Depends: libgssapi3-heimdal (>= 1.4.0+git20110226)
+  Depends: libldap-common (>= 2.4.45+dfsg-1ubuntu1.1)
+  Depends: libsasl2-2
+libgnutls30
+  Depends: libc6 (>= 2.25)
+  Depends: libgmp10 (>= 2:6)
+  Depends: libhogweed4
+  Depends: libidn2-0 (>= 0.6)
+  Depends: libnettle6
+  Depends: libp11-kit0 (>= 0.23.1)
+  Depends: libtasn1-6 (>= 4.12)
+  Depends: libunistring2 (>= 0.9.7)
+  Depends: zlib1g (>= 1:1.1.4)
+libgmp10
+  Depends: libc6 (>= 2.14)
+libhogweed4
+  Depends: libc6 (>= 2.14)
+  Depends: libgmp10 (>= 2:6.0.0)
+  Depends: libnettle6 (= 3.4-1)
+libnettle6
+  Depends: libc6 (>= 2.14)
+libidn2-0
+  Depends: libc6 (>= 2.14)
+  Depends: libunistring2 (>= 0.9.7)
+libunistring2
+  Depends: libc6 (>= 2.14)
+libp11-kit0
+  Depends: libc6 (>= 2.26)
+  Depends: libffi6 (>= 3.0.4)
+libffi6
+  Depends: libc6 (>= 2.14)
+libtasn1-6
+  Depends: libc6 (>= 2.14)
+libgssapi3-heimdal
+  Depends: libasn1-8-heimdal (>= 1.4.0+git20110226)
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.01)
+  Depends: libhcrypto4-heimdal (>= 1.4.0+git20110226)
+  Depends: libheimntlm0-heimdal (>= 1.4.0+git20110226)
+  Depends: libkrb5-26-heimdal (>= 1.6~git20131117)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libasn1-8-heimdal
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.01)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libcomerr2
+  Depends: libcom-err2
+libroken18-heimdal
+  Depends: libc6 (>= 2.16)
+libhcrypto4-heimdal
+  Depends: libasn1-8-heimdal (>= 1.4.0+git20110226)
+  Depends: libc6 (>= 2.14)
+  Depends: libheimbase1-heimdal (>= 1.4.0+git20110226)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libheimbase1-heimdal
+  Depends: libc6 (>= 2.14)
+libheimntlm0-heimdal
+  Depends: libc6 (>= 2.4)
+  Depends: libhcrypto4-heimdal (>= 1.4.0+git20110226)
+  Depends: libkrb5-26-heimdal (>= 1.4.0+git20110226)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+  Depends: libwind0-heimdal (>= 1.4.0+git20110226)
+libkrb5-26-heimdal
+  Depends: libasn1-8-heimdal (>= 1.6~git20131117)
+  Depends: libc6 (>= 2.15)
+  Depends: libcomerr2 (>= 1.41.11)
+  Depends: libhcrypto4-heimdal (>= 1.7~git20161112)
+  Depends: libheimbase1-heimdal (>= 1.6~git20131117)
+  Depends: libhx509-5-heimdal (>= 1.4.0+git20110226)
+  Depends: libroken18-heimdal (>= 1.7~git20160418)
+  Depends: libsqlite3-0 (>= 3.5.9)
+  Depends: libwind0-heimdal (>= 1.6~git20120311)
+libhx509-5-heimdal
+  Depends: libasn1-8-heimdal (>= 1.4.0+git20110226)
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.34)
+  Depends: libhcrypto4-heimdal (>= 1.4.0+git20110226)
+  Depends: libheimbase1-heimdal (>= 1.6~git20131117)
+  Depends: libroken18-heimdal (>= 1.7~git20150920)
+  Depends: libwind0-heimdal (>= 1.4.0+git20110226)
+libwind0-heimdal
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.01)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libsqlite3-0
+  Depends: libc6 (>= 2.14)
+libldap-common
+libsasl2-2
+  Depends: libc6 (>= 2.15)
+  Depends: libsasl2-modules-db (>= 2.1.27~101-g0780600+dfsg-3ubuntu2)
+libsasl2-modules-db
+  Depends: libc6 (>= 2.14)
+  Depends: libdb5.3
+libaprutil1-dbd-sqlite3
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.4)
+  Depends: libsqlite3-0 (>= 3.5.9)
+libaprutil1-ldap
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.4)
+  Depends: libldap-2.4-2 (>= 2.4.7)
+liblua5.2-0
+  Depends: libc6 (>= 2.14)
+  Depends: libstdc++6 (>= 4.1.1)
+libnghttp2-14
+  Depends: libc6 (>= 2.14)
+libxml2
+  Depends: libc6 (>= 2.15)
+  Depends: libicu60 (>= 60.1-1~)
+  Depends: liblzma5 (>= 5.1.1alpha+20120614)
+  Depends: zlib1g (>= 1:1.2.3.3)
+libicu60
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: libstdc++6 (>= 5.2)
+perl:any
+apache2-data
+apache2-utils
+  Depends: libapr1 (>= 1.4.8-2~)
+  Depends: libaprutil1 (>= 1.5.0)
+  Depends: libc6 (>= 2.14)
+  Depends: libssl1.1 (>= 1.1.0)
+lsb-base
+mime-support
+perl
+  Depends: libperl5.26 (= 5.26.1-6ubuntu0.3)
+  Depends: perl-base (= 5.26.1-6ubuntu0.3)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  PreDepends: dpkg (>= 1.17.17)
+libperl5.26
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.23)
+  Depends: libdb5.3
+  Depends: libgdbm-compat4
+  Depends: libgdbm5 (>= 1.12)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  Depends: zlib1g (>= 1:1.2.2.3)
+libgdbm-compat4
+  Depends: libc6 (>= 2.14)
+  Depends: libgdbm5 (>= 1.14)
+perl-modules-5.26
+  Depends: perl-base (>= 5.26.1-1)
+  PreDepends: dpkg (>= 1.17.17)
+procps
+  Depends: init-system-helpers (>= 1.29~)
+  Depends: libc6 (>= 2.27)
+  Depends: libncurses5 (>= 6)
+  Depends: libncursesw5 (>= 6)
+  Depends: libprocps6
+  Depends: libtinfo5 (>= 6)
+  Depends: lsb-base (>= 3.0-10)
+init-system-helpers
+  Depends: perl-base (>= 5.20.1-3)
+libncurses5
+  Depends: libc6 (>= 2.14)
+  Depends: libtinfo5 (= 6.1-1ubuntu1.18.04)
+libtinfo5
+  Depends: libc6 (>= 2.16)
+libncursesw5
+  Depends: libc6 (>= 2.14)
+  Depends: libtinfo5 (= 6.1-1ubuntu1.18.04)
+libprocps6
+  Depends: libc6 (>= 2.14)
+  Depends: libsystemd0 (>= 209)
+libsystemd0
+  PreDepends: libc6 (>= 2.27)
+  PreDepends: libgcrypt20 (>= 1.8.0)
+  PreDepends: liblz4-1 (>= 0.0~r113)
+  PreDepends: liblzma5 (>= 5.1.1alpha+20120614)
+libgcrypt20
+  Depends: libc6 (>= 2.15)
+  Depends: libgpg-error0 (>= 1.25)
+libgpg-error0
+  Depends: libc6 (>= 2.15)
+liblz4-1
+  Depends: libc6 (>= 2.14)
+ca-certificates
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: openssl (>= 1.1.0)
+openssl
+  Depends: libc6 (>= 2.15)
+  Depends: libssl1.1 (>= 1.1.0)
+default-mysql-client
+  Depends: mysql-client-5.7
+mysql-client-5.7
+  Depends: debianutils (>= 1.6)
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: liblz4-1 (>= 0.0~r127)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: mysql-client-core-5.7
+  Depends: mysql-common (>= 5.5)
+  Depends: zlib1g (>= 1:1.1.4)
+debianutils
+  PreDepends: libc6 (>= 2.15)
+mysql-client-core-5.7
+  Depends: libaio1 (>= 0.3.93)
+  Depends: libc6 (>= 2.14)
+  Depends: libedit2 (>= 2.11-20080614)
+  Depends: libgcc1 (>= 1:4.0)
+  Depends: liblz4-1 (>= 0.0~r130)
+  Depends: libnuma1 (>= 2.0.11)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: zlib1g (>= 1:1.2.0)
+libaio1
+  Depends: libc6 (>= 2.4)
+libedit2
+  Depends: libc6 (>= 2.17)
+  Depends: libtinfo5 (>= 6)
+libnuma1
+  Depends: libc6 (>= 2.14)
+httpd
+libapache2-mod-php
+  Depends: libapache2-mod-php7.2
+libapache2-mod-php7.2
+  Depends: apache2-api-20120211
+  Depends: apache2-bin (>= 2.4.16)
+  Depends: libargon2-0 (>= 0~20160406~)
+  Depends: libc6 (>= 2.27)
+  Depends: libmagic1
+  Depends: libpcre3 (>= 2:8.35)
+  Depends: libsodium23 (>= 1.0.14)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libxml2 (>= 2.8.0)
+  Depends: mime-support
+  Depends: php7.2-cli
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: php7.2-json
+  Depends: php7.2-opcache
+  Depends: tzdata
+  Depends: ucf
+  Depends: zlib1g (>= 1:1.1.4)
+apache2-api-20120211
+libargon2-0
+  Depends: libc6 (>= 2.14)
+libmagic1
+  Depends: libc6 (>= 2.15)
+  Depends: libmagic-mgc (= 1:5.32-2ubuntu0.1)
+  Depends: zlib1g (>= 1:1.1.4)
+libmagic-mgc
+libsodium23
+  Depends: libc6 (>= 2.25)
+php7.2-cli
+  Depends: libargon2-0 (>= 0~20160406~)
+  Depends: libc6 (>= 2.27)
+  Depends: libedit2 (>= 2.11-20080614-4)
+  Depends: libmagic1
+  Depends: libpcre3 (>= 2:8.35)
+  Depends: libsodium23 (>= 1.0.14)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libxml2 (>= 2.8.0)
+  Depends: mime-support
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: php7.2-json
+  Depends: php7.2-opcache
+  Depends: php7.2-readline
+  Depends: tzdata
+  Depends: ucf
+  Depends: zlib1g (>= 1:1.1.4)
+php7.2-common
+  Depends: libc6 (>= 2.15)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: php-common (>= 1:35)
+  Depends: ucf
+php-common
+  Depends: psmisc (>= 22.15-1~)
+  Depends: sed (>= 4.1.1-1)
+psmisc
+  Depends: libc6 (>= 2.14)
+  Depends: libselinux1 (>= 1.32)
+  Depends: libtinfo5 (>= 6)
+sed
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: libselinux1 (>= 1.32)
+ucf
+  Depends: coreutils (>= 5.91)
+  Depends: debconf (>= 1.5.19)
+  Depends: sensible-utils
+coreutils
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libattr1 (>= 1:2.4.46-8)
+  PreDepends: libc6 (>= 2.25)
+  PreDepends: libselinux1 (>= 2.1.13)
+sensible-utils
+php7.2-json
+  Depends: libc6 (>= 2.14)
+  Depends: php-common (>= 1:35)
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: ucf
+php7.2-opcache
+  Depends: libc6 (>= 2.27)
+  Depends: php-common (>= 1:35)
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: ucf
+php7.2-readline
+  Depends: libc6 (>= 2.14)
+  Depends: libedit2 (>= 3.1-20130611)
+  Depends: php-common (>= 1:35)
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: ucf
+tzdata
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+libapache2-mod-php5
+libjs-cropper
+  Depends: libjs-scriptaculous (>= 1.9.0)
+libjs-scriptaculous
+  Depends: libjs-prototype
+libjs-prototype
+libphp-phpmailer
+  Depends: php-common
+php
+  Depends: php7.2
+php7.2
+  Depends: libapache2-mod-php7.2
+  Depends: php7.2-cgi
+  Depends: php7.2-common
+  Depends: php7.2-fpm
+php7.2-cgi
+  Depends: libargon2-0 (>= 0~20160406~)
+  Depends: libc6 (>= 2.27)
+  Depends: libmagic1
+  Depends: libpcre3 (>= 2:8.35)
+  Depends: libsodium23 (>= 1.0.14)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libxml2 (>= 2.8.0)
+  Depends: mime-support
+  Depends: php7.2-cli
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: php7.2-json
+  Depends: php7.2-opcache
+  Depends: tzdata
+  Depends: ucf
+  Depends: zlib1g (>= 1:1.1.4)
+php7.2-fpm
+  Depends: libapparmor1 (>= 2.7.0~beta1+bzr1772)
+  Depends: libargon2-0 (>= 0~20160406~)
+  Depends: libc6 (>= 2.27)
+  Depends: libmagic1
+  Depends: libpcre3 (>= 2:8.35)
+  Depends: libsodium23 (>= 1.0.14)
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libsystemd0
+  Depends: libxml2 (>= 2.8.0)
+  Depends: mime-support
+  Depends: php7.2-cli
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: php7.2-json
+  Depends: php7.2-opcache
+  Depends: tzdata
+  Depends: ucf
+  Depends: zlib1g (>= 1:1.1.4)
+libapparmor1
+  Depends: libc6 (>= 2.17)
+php-gd
+  Depends: php-common
+  Depends: php7.2-gd
+php7.2-gd
+  Depends: libc6 (>= 2.4)
+  Depends: libgd3 (>= 2.1.1)
+  Depends: libxpm4
+  Depends: php-common (>= 1:35)
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: ucf
+libgd3
+  Depends: libc6 (>= 2.14)
+  Depends: libfontconfig1 (>= 2.12)
+  Depends: libfreetype6 (>= 2.2.1)
+  Depends: libjpeg8 (>= 8c)
+  Depends: libpng16-16 (>= 1.6.2-1)
+  Depends: libtiff5 (>= 4.0.3)
+  Depends: libwebp6 (>= 0.5.1)
+  Depends: libxpm4
+  Depends: zlib1g (>= 1:1.1.4)
+libfontconfig1
+  Depends: fontconfig-config (>= 2.12.6-0ubuntu2)
+  Depends: libc6 (>= 2.14)
+  Depends: libexpat1 (>= 2.0.1)
+  Depends: libfreetype6 (>= 2.2.1)
+fontconfig-config
+  Depends: fonts-dejavu-core
+  Depends: fonts-freefont
+  Depends: fonts-liberation
+  Depends: ttf-bitstream-vera
+  Depends: ucf (>= 0.29)
+fonts-dejavu-core
+fonts-freefont
+fonts-liberation
+ttf-bitstream-vera
+libfreetype6
+  Depends: libc6 (>= 2.14)
+  Depends: libpng16-16 (>= 1.6.2-1)
+  Depends: zlib1g (>= 1:1.1.4)
+libpng16-16
+  Depends: libc6 (>= 2.14)
+  Depends: zlib1g (>= 1:1.2.11)
+libjpeg8
+  Depends: libjpeg-turbo8 (>= 1.1.90+svn722-1ubuntu6)
+libjpeg-turbo8
+  Depends: libc6 (>= 2.14)
+  PreDepends: multiarch-support
+multiarch-support
+  Depends: libc6 (>= 2.3.6-2)
+libtiff5
+  Depends: libc6 (>= 2.14)
+  Depends: libjbig0 (>= 2.0)
+  Depends: libjpeg8 (>= 8c)
+  Depends: liblzma5 (>= 5.1.1alpha+20120614)
+  Depends: zlib1g (>= 1:1.1.4)
+libjbig0
+  Depends: libc6 (>= 2.4)
+libwebp6
+  Depends: libc6 (>= 2.14)
+libxpm4
+  Depends: libc6 (>= 2.14)
+  Depends: libx11-6
+libx11-6
+  Depends: libc6 (>= 2.15)
+  Depends: libx11-data
+  Depends: libxcb1 (>= 1.11.1)
+libx11-data
+libxcb1
+  Depends: libc6 (>= 2.14)
+  Depends: libxau6
+  Depends: libxdmcp6
+libxau6
+  Depends: libc6 (>= 2.4)
+  PreDepends: multiarch-support
+libxdmcp6
+  Depends: libbsd0 (>= 0.2.0)
+  Depends: libc6 (>= 2.4)
+libbsd0
+  Depends: libc6 (>= 2.25)
+php-getid3
+  Depends: php-common
+php-mysql
+  Depends: php-common
+  Depends: php7.2-mysql
+php7.2-mysql
+  Depends: libc6 (>= 2.15)
+  Depends: php-common (>= 1:35)
+  Depends: php7.2-common (= 7.2.15-0ubuntu0.18.04.1)
+  Depends: ucf
+php-mysqlnd
+php5
+php5-gd
+php5-mysql
+php5-mysqlnd
+virtual-mysql-client

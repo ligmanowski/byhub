@@ -1,0 +1,326 @@
+apache2
+  Depends: apache2-bin (= 2.4.29-1ubuntu4.5)
+  Depends: apache2-data (= 2.4.29-1ubuntu4.5)
+  Depends: apache2-utils (= 2.4.29-1ubuntu4.5)
+  Depends: lsb-base
+  Depends: mime-support
+  Depends: perl
+  Depends: perl:any
+  Depends: procps
+  PreDepends: dpkg (>= 1.17.14)
+apache2-bin
+  Depends: libapr1 (>= 1.6.2)
+  Depends: libaprutil1 (>= 1.6.0)
+  Depends: libaprutil1-dbd-freetds
+  Depends: libaprutil1-dbd-mysql
+  Depends: libaprutil1-dbd-odbc
+  Depends: libaprutil1-dbd-pgsql
+  Depends: libaprutil1-dbd-sqlite3
+  Depends: libaprutil1-ldap
+  Depends: libc6 (>= 2.14)
+  Depends: libldap-2.4-2 (>= 2.4.7)
+  Depends: liblua5.2-0
+  Depends: libnghttp2-14 (>= 1.15.0)
+  Depends: libpcre3
+  Depends: libssl1.1 (>= 1.1.0)
+  Depends: libxml2 (>= 2.7.4)
+  Depends: perl:any
+  Depends: zlib1g (>= 1:1.1.4)
+libapr1
+  Depends: libc6 (>= 2.15)
+  Depends: libuuid1 (>= 2.16)
+libc6
+  Depends: libgcc1
+libgcc1
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.14)
+gcc-8-base
+libuuid1
+  Depends: libc6 (>= 2.25)
+libaprutil1
+  Depends: libapr1 (>= 1.6.2)
+  Depends: libc6 (>= 2.25)
+  Depends: libdb5.3
+  Depends: libexpat1 (>= 2.0.1)
+  Depends: libgdbm5 (>= 1.14)
+  Depends: libssl1.1 (>= 1.1.0)
+libdb5.3
+  Depends: libc6 (>= 2.17)
+libexpat1
+  Depends: libc6 (>= 2.25)
+libgdbm5
+  Depends: libc6 (>= 2.14)
+libssl1.1
+  Depends: debconf (>= 0.5)
+  Depends: debconf-2.0
+  Depends: libc6 (>= 2.14)
+debconf
+  PreDepends: perl-base (>= 5.20.1-3~)
+perl-base
+  PreDepends: dpkg (>= 1.17.17)
+  PreDepends: libc6 (>= 2.23)
+dpkg
+  Depends: tar (>= 1.28-1)
+  PreDepends: libbz2-1.0
+  PreDepends: libc6 (>= 2.14)
+  PreDepends: liblzma5 (>= 5.2.2)
+  PreDepends: libselinux1 (>= 2.3)
+  PreDepends: libzstd1 (>= 1.3.2)
+  PreDepends: zlib1g (>= 1:1.1.4)
+tar
+  PreDepends: libacl1 (>= 2.2.51-8)
+  PreDepends: libc6 (>= 2.17)
+  PreDepends: libselinux1 (>= 1.32)
+libacl1
+  Depends: libattr1 (>= 1:2.4.46-8)
+  Depends: libc6 (>= 2.14)
+libattr1
+  Depends: libc6 (>= 2.4)
+libselinux1
+  Depends: libc6 (>= 2.14)
+  Depends: libpcre3
+libpcre3
+  Depends: libc6 (>= 2.14)
+libbz2-1.0
+  Depends: libc6 (>= 2.4)
+liblzma5
+  Depends: libc6 (>= 2.17)
+libzstd1
+  Depends: libc6 (>= 2.14)
+zlib1g
+  Depends: libc6 (>= 2.14)
+debconf-2.0
+libaprutil1-dbd-freetds
+libaprutil1-dbd-mysql
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.4)
+  Depends: libmysqlclient20 (>= 5.7.11)
+libmysqlclient20
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: libstdc++6 (>= 5.2)
+  Depends: mysql-common (>= 5.5)
+  Depends: zlib1g (>= 1:1.1.4)
+libstdc++6
+  Depends: gcc-8-base (= 8.2.0-1ubuntu2~18.04)
+  Depends: libc6 (>= 2.18)
+  Depends: libgcc1 (>= 1:4.2)
+mysql-common
+libaprutil1-dbd-odbc
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.14)
+  Depends: libodbc1 (>= 2.3.1)
+libodbc1
+  Depends: libc6 (>= 2.14)
+  Depends: libltdl7 (>= 2.4.6)
+libltdl7
+  Depends: libc6 (>= 2.14)
+libaprutil1-dbd-pgsql
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.14)
+  Depends: libpq5
+libpq5
+  Depends: libc6 (>= 2.14)
+  Depends: libgssapi-krb5-2 (>= 1.14+dfsg)
+  Depends: libldap-2.4-2 (>= 2.4.7)
+  Depends: libssl1.1 (>= 1.1.0)
+libgssapi-krb5-2
+  Depends: libc6 (>= 2.27)
+  Depends: libcom-err2 (>= 1.34)
+  Depends: libk5crypto3 (>= 1.16)
+  Depends: libkrb5-3 (= 1.16-2ubuntu0.1)
+  Depends: libkrb5support0 (>= 1.15~beta1)
+libcom-err2
+  Depends: libc6 (>= 2.17)
+libk5crypto3
+  Depends: libc6 (>= 2.14)
+  Depends: libkrb5support0 (>= 1.16)
+libkrb5support0
+  Depends: libc6 (>= 2.14)
+libkrb5-3
+  Depends: libc6 (>= 2.16)
+  Depends: libcom-err2 (>= 1.34)
+  Depends: libk5crypto3 (>= 1.15~beta1)
+  Depends: libkeyutils1 (>= 1.5.9)
+  Depends: libkrb5support0 (= 1.16-2ubuntu0.1)
+libkeyutils1
+  Depends: libc6 (>= 2.14)
+libldap-2.4-2
+  Depends: libc6 (>= 2.14)
+  Depends: libgnutls30 (>= 3.5.6)
+  Depends: libgssapi3-heimdal (>= 1.4.0+git20110226)
+  Depends: libldap-common (>= 2.4.45+dfsg-1ubuntu1.1)
+  Depends: libsasl2-2
+libgnutls30
+  Depends: libc6 (>= 2.25)
+  Depends: libgmp10 (>= 2:6)
+  Depends: libhogweed4
+  Depends: libidn2-0 (>= 0.6)
+  Depends: libnettle6
+  Depends: libp11-kit0 (>= 0.23.1)
+  Depends: libtasn1-6 (>= 4.12)
+  Depends: libunistring2 (>= 0.9.7)
+  Depends: zlib1g (>= 1:1.1.4)
+libgmp10
+  Depends: libc6 (>= 2.14)
+libhogweed4
+  Depends: libc6 (>= 2.14)
+  Depends: libgmp10 (>= 2:6.0.0)
+  Depends: libnettle6 (= 3.4-1)
+libnettle6
+  Depends: libc6 (>= 2.14)
+libidn2-0
+  Depends: libc6 (>= 2.14)
+  Depends: libunistring2 (>= 0.9.7)
+libunistring2
+  Depends: libc6 (>= 2.14)
+libp11-kit0
+  Depends: libc6 (>= 2.26)
+  Depends: libffi6 (>= 3.0.4)
+libffi6
+  Depends: libc6 (>= 2.14)
+libtasn1-6
+  Depends: libc6 (>= 2.14)
+libgssapi3-heimdal
+  Depends: libasn1-8-heimdal (>= 1.4.0+git20110226)
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.01)
+  Depends: libhcrypto4-heimdal (>= 1.4.0+git20110226)
+  Depends: libheimntlm0-heimdal (>= 1.4.0+git20110226)
+  Depends: libkrb5-26-heimdal (>= 1.6~git20131117)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libasn1-8-heimdal
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.01)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libcomerr2
+  Depends: libcom-err2
+libroken18-heimdal
+  Depends: libc6 (>= 2.16)
+libhcrypto4-heimdal
+  Depends: libasn1-8-heimdal (>= 1.4.0+git20110226)
+  Depends: libc6 (>= 2.14)
+  Depends: libheimbase1-heimdal (>= 1.4.0+git20110226)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libheimbase1-heimdal
+  Depends: libc6 (>= 2.14)
+libheimntlm0-heimdal
+  Depends: libc6 (>= 2.4)
+  Depends: libhcrypto4-heimdal (>= 1.4.0+git20110226)
+  Depends: libkrb5-26-heimdal (>= 1.4.0+git20110226)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+  Depends: libwind0-heimdal (>= 1.4.0+git20110226)
+libkrb5-26-heimdal
+  Depends: libasn1-8-heimdal (>= 1.6~git20131117)
+  Depends: libc6 (>= 2.15)
+  Depends: libcomerr2 (>= 1.41.11)
+  Depends: libhcrypto4-heimdal (>= 1.7~git20161112)
+  Depends: libheimbase1-heimdal (>= 1.6~git20131117)
+  Depends: libhx509-5-heimdal (>= 1.4.0+git20110226)
+  Depends: libroken18-heimdal (>= 1.7~git20160418)
+  Depends: libsqlite3-0 (>= 3.5.9)
+  Depends: libwind0-heimdal (>= 1.6~git20120311)
+libhx509-5-heimdal
+  Depends: libasn1-8-heimdal (>= 1.4.0+git20110226)
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.34)
+  Depends: libhcrypto4-heimdal (>= 1.4.0+git20110226)
+  Depends: libheimbase1-heimdal (>= 1.6~git20131117)
+  Depends: libroken18-heimdal (>= 1.7~git20150920)
+  Depends: libwind0-heimdal (>= 1.4.0+git20110226)
+libwind0-heimdal
+  Depends: libc6 (>= 2.14)
+  Depends: libcomerr2 (>= 1.01)
+  Depends: libroken18-heimdal (>= 1.4.0+git20110226)
+libsqlite3-0
+  Depends: libc6 (>= 2.14)
+libldap-common
+libsasl2-2
+  Depends: libc6 (>= 2.15)
+  Depends: libsasl2-modules-db (>= 2.1.27~101-g0780600+dfsg-3ubuntu2)
+libsasl2-modules-db
+  Depends: libc6 (>= 2.14)
+  Depends: libdb5.3
+libaprutil1-dbd-sqlite3
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.4)
+  Depends: libsqlite3-0 (>= 3.5.9)
+libaprutil1-ldap
+  Depends: libaprutil1 (= 1.6.1-2)
+  Depends: libc6 (>= 2.4)
+  Depends: libldap-2.4-2 (>= 2.4.7)
+liblua5.2-0
+  Depends: libc6 (>= 2.14)
+  Depends: libstdc++6 (>= 4.1.1)
+libnghttp2-14
+  Depends: libc6 (>= 2.14)
+libxml2
+  Depends: libc6 (>= 2.15)
+  Depends: libicu60 (>= 60.1-1~)
+  Depends: liblzma5 (>= 5.1.1alpha+20120614)
+  Depends: zlib1g (>= 1:1.2.3.3)
+libicu60
+  Depends: libc6 (>= 2.14)
+  Depends: libgcc1 (>= 1:3.0)
+  Depends: libstdc++6 (>= 5.2)
+perl:any
+apache2-data
+apache2-utils
+  Depends: libapr1 (>= 1.4.8-2~)
+  Depends: libaprutil1 (>= 1.5.0)
+  Depends: libc6 (>= 2.14)
+  Depends: libssl1.1 (>= 1.1.0)
+lsb-base
+mime-support
+perl
+  Depends: libperl5.26 (= 5.26.1-6ubuntu0.3)
+  Depends: perl-base (= 5.26.1-6ubuntu0.3)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  PreDepends: dpkg (>= 1.17.17)
+libperl5.26
+  Depends: libbz2-1.0
+  Depends: libc6 (>= 2.23)
+  Depends: libdb5.3
+  Depends: libgdbm-compat4
+  Depends: libgdbm5 (>= 1.12)
+  Depends: perl-modules-5.26 (>= 5.26.1-6ubuntu0.3)
+  Depends: zlib1g (>= 1:1.2.2.3)
+libgdbm-compat4
+  Depends: libc6 (>= 2.14)
+  Depends: libgdbm5 (>= 1.14)
+perl-modules-5.26
+  Depends: perl-base (>= 5.26.1-1)
+  PreDepends: dpkg (>= 1.17.17)
+procps
+  Depends: init-system-helpers (>= 1.29~)
+  Depends: libc6 (>= 2.27)
+  Depends: libncurses5 (>= 6)
+  Depends: libncursesw5 (>= 6)
+  Depends: libprocps6
+  Depends: libtinfo5 (>= 6)
+  Depends: lsb-base (>= 3.0-10)
+init-system-helpers
+  Depends: perl-base (>= 5.20.1-3)
+libncurses5
+  Depends: libc6 (>= 2.14)
+  Depends: libtinfo5 (= 6.1-1ubuntu1.18.04)
+libtinfo5
+  Depends: libc6 (>= 2.16)
+libncursesw5
+  Depends: libc6 (>= 2.14)
+  Depends: libtinfo5 (= 6.1-1ubuntu1.18.04)
+libprocps6
+  Depends: libc6 (>= 2.14)
+  Depends: libsystemd0 (>= 209)
+libsystemd0
+  PreDepends: libc6 (>= 2.27)
+  PreDepends: libgcrypt20 (>= 1.8.0)
+  PreDepends: liblz4-1 (>= 0.0~r113)
+  PreDepends: liblzma5 (>= 5.1.1alpha+20120614)
+libgcrypt20
+  Depends: libc6 (>= 2.15)
+  Depends: libgpg-error0 (>= 1.25)
+libgpg-error0
+  Depends: libc6 (>= 2.15)
+liblz4-1
+  Depends: libc6 (>= 2.14)

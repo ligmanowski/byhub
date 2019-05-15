@@ -1,0 +1,2050 @@
+C:\Users\rapha\Downloads\dependencies\apache,apache2,apache2-bin ,= 2.4.29-1ubuntu4.5,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,apache2-data ,= 2.4.29-1ubuntu4.5,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,apache2-utils ,= 2.4.29-1ubuntu4.5,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,lsb-base,any,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,mime-support,any,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,perl,any,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,perl:any,any,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2,procps,any,8
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libapr1 ,>= 1.6.2,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1 ,>= 1.6.0,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1-dbd-freetds,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1-dbd-mysql,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1-dbd-odbc,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1-dbd-pgsql,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libaprutil1-ldap,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libc6 ,>= 2.14,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,liblua5.2-0,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libpcre3,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,libxml2 ,>= 2.7.4,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,perl:any,any,17
+C:\Users\rapha\Downloads\dependencies\apache,apache2-bin,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\apache,libapr1,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\apache,libapr1,libuuid1 ,>= 2.16,2
+C:\Users\rapha\Downloads\dependencies\apache,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\apache,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\apache,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1,libapr1 ,>= 1.6.2,6
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1,libc6 ,>= 2.25,6
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1,libdb5.3,any,6
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1,libexpat1 ,>= 2.0.1,6
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1,libgdbm5 ,>= 1.14,6
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1,libssl1.1 ,>= 1.1.0,6
+C:\Users\rapha\Downloads\dependencies\apache,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\apache,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\apache,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\apache,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\apache,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\apache,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\apache,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\apache,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\apache,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\apache,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\apache,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+C:\Users\rapha\Downloads\dependencies\apache,libmysqlclient20,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\apache,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+C:\Users\rapha\Downloads\dependencies\apache,libmysqlclient20,libstdc++6 ,>= 5.2,5
+C:\Users\rapha\Downloads\dependencies\apache,libmysqlclient20,mysql-common ,>= 5.5,5
+C:\Users\rapha\Downloads\dependencies\apache,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+C:\Users\rapha\Downloads\dependencies\apache,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+C:\Users\rapha\Downloads\dependencies\apache,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\apache,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+C:\Users\rapha\Downloads\dependencies\apache,libodbc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libodbc1,libltdl7 ,>= 2.4.6,2
+C:\Users\rapha\Downloads\dependencies\apache,libltdl7,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-pgsql,libpq5,any,3
+C:\Users\rapha\Downloads\dependencies\apache,libpq5,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\apache,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+C:\Users\rapha\Downloads\dependencies\apache,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+C:\Users\rapha\Downloads\dependencies\apache,libpq5,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\apache,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\apache,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\apache,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libldap-2.4-2,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\apache,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+C:\Users\rapha\Downloads\dependencies\apache,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\apache,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+C:\Users\rapha\Downloads\dependencies\apache,libldap-2.4-2,libsasl2-2,any,5
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\apache,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\apache,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\apache,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\apache,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\apache,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\apache,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\apache,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\apache,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libasn1-8-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\apache,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\apache,libcomerr2,libcom-err2,any,1
+C:\Users\rapha\Downloads\dependencies\apache,libroken18-heimdal,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\apache,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\apache,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\apache,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\apache,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\apache,libheimbase1-heimdal,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\apache,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\apache,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\apache,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\apache,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+C:\Users\rapha\Downloads\dependencies\apache,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+C:\Users\rapha\Downloads\dependencies\apache,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\apache,libwind0-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\apache,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\apache,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libsasl2-2,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\apache,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+C:\Users\rapha\Downloads\dependencies\apache,libsasl2-modules-db,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libsasl2-modules-db,libdb5.3,any,2
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-ldap,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\apache,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+C:\Users\rapha\Downloads\dependencies\apache,liblua5.2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+C:\Users\rapha\Downloads\dependencies\apache,libnghttp2-14,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\apache,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\apache,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\apache,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\apache,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\apache,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\apache,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+C:\Users\rapha\Downloads\dependencies\apache,apache2-utils,libaprutil1 ,>= 1.5.0,4
+C:\Users\rapha\Downloads\dependencies\apache,apache2-utils,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\apache,apache2-utils,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\apache,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\apache,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\apache,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\apache,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\apache,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\apache,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\apache,procps,init-system-helpers ,>= 1.29~,7
+C:\Users\rapha\Downloads\dependencies\apache,procps,libc6 ,>= 2.27,7
+C:\Users\rapha\Downloads\dependencies\apache,procps,libncurses5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\apache,procps,libncursesw5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\apache,procps,libprocps6,any,7
+C:\Users\rapha\Downloads\dependencies\apache,procps,libtinfo5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\apache,procps,lsb-base ,>= 3.0-10,7
+C:\Users\rapha\Downloads\dependencies\apache,init-system-helpers,perl-base ,>= 5.20.1-3,1
+C:\Users\rapha\Downloads\dependencies\apache,libncurses5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\apache,libtinfo5,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\apache,libncursesw5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\apache,libprocps6,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache,libprocps6,libsystemd0 ,>= 209,2
+C:\Users\rapha\Downloads\dependencies\apache,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\apache,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\apache,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\apache,liblz4-1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache01,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+C:\Users\rapha\Downloads\dependencies\apache01,apache2-utils,libaprutil1 ,>= 1.5.0,4
+C:\Users\rapha\Downloads\dependencies\apache01,apache2-utils,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\apache01,apache2-utils,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\apache01,libapr1,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\apache01,libapr1,libuuid1 ,>= 2.16,2
+C:\Users\rapha\Downloads\dependencies\apache01,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\apache01,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\apache01,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache01,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\apache01,libaprutil1,libapr1 ,>= 1.6.2,6
+C:\Users\rapha\Downloads\dependencies\apache01,libaprutil1,libc6 ,>= 2.25,6
+C:\Users\rapha\Downloads\dependencies\apache01,libaprutil1,libdb5.3,any,6
+C:\Users\rapha\Downloads\dependencies\apache01,libaprutil1,libexpat1 ,>= 2.0.1,6
+C:\Users\rapha\Downloads\dependencies\apache01,libaprutil1,libgdbm5 ,>= 1.14,6
+C:\Users\rapha\Downloads\dependencies\apache01,libaprutil1,libssl1.1 ,>= 1.1.0,6
+C:\Users\rapha\Downloads\dependencies\apache01,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\apache01,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\apache01,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache01,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\apache01,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\apache01,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\apache01,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\apache01,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\apache01,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache01,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\apache01,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\apache01,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\apache01,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache01,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\apache01,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\apache01,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\apache01,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libpq-dev,libpq5 ,= 10.6-0ubuntu0.18.04.1,1
+C:\Users\rapha\Downloads\dependencies\chado01,libpq5,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\chado01,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+C:\Users\rapha\Downloads\dependencies\chado01,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+C:\Users\rapha\Downloads\dependencies\chado01,libpq5,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\chado01,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado01,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado01,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\chado01,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado01,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado01,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\chado01,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libldap-2.4-2,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\chado01,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+C:\Users\rapha\Downloads\dependencies\chado01,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\chado01,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+C:\Users\rapha\Downloads\dependencies\chado01,libldap-2.4-2,libsasl2-2,any,5
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\chado01,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado01,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\chado01,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\chado01,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado01,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\chado01,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\chado01,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\chado01,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\chado01,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libasn1-8-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado01,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\chado01,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\chado01,libcomerr2,libcom-err2,any,1
+C:\Users\rapha\Downloads\dependencies\chado01,libroken18-heimdal,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\chado01,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\chado01,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\chado01,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\chado01,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\chado01,libheimbase1-heimdal,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\chado01,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\chado01,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\chado01,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\chado01,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+C:\Users\rapha\Downloads\dependencies\chado01,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+C:\Users\rapha\Downloads\dependencies\chado01,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\chado01,libwind0-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado01,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\chado01,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\chado01,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libsasl2-2,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\chado01,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+C:\Users\rapha\Downloads\dependencies\chado01,libsasl2-modules-db,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado01,libsasl2-modules-db,libdb5.3,any,2
+C:\Users\rapha\Downloads\dependencies\chado01,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado01,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\chado01,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\chado01,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado01,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado01,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado01,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado01,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado01,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado01,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado01,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado01,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado01,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado01,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado02,libtemplate-perl,libappconfig-perl ,>= 1.56,4
+C:\Users\rapha\Downloads\dependencies\chado02,libtemplate-perl,libc6 ,>= 2.4,4
+C:\Users\rapha\Downloads\dependencies\chado02,libtemplate-perl,perl ,>= 5.26.1-5,4
+C:\Users\rapha\Downloads\dependencies\chado02,libtemplate-perl,perlapi-5.26.1,any,4
+C:\Users\rapha\Downloads\dependencies\chado02,libappconfig-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado02,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado02,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado02,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\chado02,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\chado02,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado02,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado02,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado02,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado02,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado02,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado02,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\chado02,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado02,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\chado02,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado02,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado02,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado02,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado02,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado02,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado02,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado02,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado02,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado02,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-simple-perl,libxml-libxml-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-simple-perl,libxml-namespacesupport-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-simple-perl,libxml-sax-expat-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-simple-perl,libxml-sax-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-simple-perl,perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-libxml-perl,libc6 ,>= 2.14,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-libxml-perl,libxml-namespacesupport-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-libxml-perl,libxml-sax-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-libxml-perl,libxml2 ,>= 2.7.4,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-libxml-perl,perl ,>= 5.26.1-2ubuntu1,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-libxml-perl,perlapi-5.26.1,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado03,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-namespacesupport-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado03,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado03,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\chado03,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\chado03,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado03,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado03,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado03,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\chado03,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado03,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\chado03,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado03,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado03,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado03,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado03,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado03,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado03,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado03,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado03,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-perl,libxml-namespacesupport-perl,any,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-perl,libxml-sax-base-perl,any,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-perl,perl,any,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-perl,ucf ,>= 0.28,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-base-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,ucf,coreutils ,>= 5.91,3
+C:\Users\rapha\Downloads\dependencies\chado03,ucf,debconf ,>= 1.5.19,3
+C:\Users\rapha\Downloads\dependencies\chado03,ucf,sensible-utils,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\chado03,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado03,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\chado03,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\chado03,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+C:\Users\rapha\Downloads\dependencies\chado03,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\chado03,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-expat-perl,libxml-namespacesupport-perl ,>= 0.03,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-expat-perl,libxml-parser-perl ,>= 2.27,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-expat-perl,libxml-sax-perl ,>= 0.03,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-sax-expat-perl,perl,any,4
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-parser-perl,libc6 ,>= 2.14,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-parser-perl,libexpat1 ,>= 2.0.1,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-parser-perl,liburi-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-parser-perl,libwww-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-parser-perl,perl ,>= 5.26.0-4,6
+C:\Users\rapha\Downloads\dependencies\chado03,libxml-parser-perl,perlapi-5.26.0,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\chado03,liburi-perl,perl:any,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,ca-certificates,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libencode-locale-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libfile-listing-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhtml-parser-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhtml-tagset-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhtml-tree-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhttp-cookies-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhttp-date-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhttp-message-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libhttp-negotiate-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,liblwp-mediatypes-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,liblwp-protocol-https-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libnet-http-perl ,>= 6.07,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libtry-tiny-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,liburi-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,libwww-robotrules-perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,netbase,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-perl,perl,any,18
+C:\Users\rapha\Downloads\dependencies\chado03,ca-certificates,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\chado03,ca-certificates,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,ca-certificates,openssl ,>= 1.1.0,3
+C:\Users\rapha\Downloads\dependencies\chado03,openssl,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\chado03,openssl,libssl1.1 ,>= 1.1.0,2
+C:\Users\rapha\Downloads\dependencies\chado03,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\chado03,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado03,libencode-locale-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libfile-listing-perl,libhttp-date-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libfile-listing-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-date-perl,libtimedate-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-date-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libtimedate-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-parser-perl,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-parser-perl,libhtml-tagset-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-parser-perl,liburi-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-parser-perl,perl ,>= 5.26.0-4,5
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-parser-perl,perlapi-5.26.0,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-tagset-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-tree-perl,libhtml-parser-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-tree-perl,libhtml-tagset-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libhtml-tree-perl,perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-cookies-perl,libhttp-date-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-cookies-perl,libhttp-message-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-cookies-perl,perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-message-perl,libencode-locale-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-message-perl,libhttp-date-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-message-perl,libio-html-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-message-perl,liblwp-mediatypes-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-message-perl,liburi-perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-message-perl,perl,any,6
+C:\Users\rapha\Downloads\dependencies\chado03,libio-html-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,liblwp-mediatypes-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-negotiate-perl,libhttp-message-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libhttp-negotiate-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,liblwp-protocol-https-perl,ca-certificates,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,liblwp-protocol-https-perl,libio-socket-ssl-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,liblwp-protocol-https-perl,libnet-http-perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,liblwp-protocol-https-perl,libwww-perl ,>= 6.05-2,5
+C:\Users\rapha\Downloads\dependencies\chado03,liblwp-protocol-https-perl,perl,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libio-socket-ssl-perl,libnet-ssleay-perl ,>= 1.59,3
+C:\Users\rapha\Downloads\dependencies\chado03,libio-socket-ssl-perl,netbase,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libio-socket-ssl-perl,perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-ssleay-perl,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-ssleay-perl,libssl1.1 ,>= 1.1.0,5
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-ssleay-perl,perl ,>= 5.26.1-4build1,5
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-ssleay-perl,perl-openssl-abi-1.1,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-ssleay-perl,perlapi-5.26.1,any,5
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-http-perl,libio-socket-ip-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-http-perl,liburi-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado03,libnet-http-perl,perl ,>= 5.19.8,3
+C:\Users\rapha\Downloads\dependencies\chado03,libio-socket-ip-perl,netbase,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libtry-tiny-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-robotrules-perl,liburi-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado03,libwww-robotrules-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado04,liblog-log4perl-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado04,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado04,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado04,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\chado04,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\chado04,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado04,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado04,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado04,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado04,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado04,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado04,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\chado04,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado04,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\chado04,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado04,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado04,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado04,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado04,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado04,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado04,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado04,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado04,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado04,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado05,bioperl,libbio-perl-perl ,= 1.7.2-2,3
+C:\Users\rapha\Downloads\dependencies\chado05,bioperl,libtest-most-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,bioperl,perl:any,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,libbio-perl-perl,libdata-stag-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,libbio-perl-perl,libio-string-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,libbio-perl-perl,perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,libdata-stag-perl,libio-string-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libdata-stag-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libio-string-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado05,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado05,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\chado05,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\chado05,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado05,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado05,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado05,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado05,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado05,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\chado05,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado05,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\chado05,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado05,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado05,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado05,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado05,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado05,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado05,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado05,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado05,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libexception-class-perl,any,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libtest-deep-perl ,>= 0.119,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libtest-differences-perl ,>= 0.64,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libtest-exception-perl ,>= 0.43,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libtest-harness-perl ,>= 3.35,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libtest-simple-perl ,>= 1.302047,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,libtest-warn-perl ,>= 0.30,8
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-most-perl,perl ,>= 5.21.8,8
+C:\Users\rapha\Downloads\dependencies\chado05,libexception-class-perl,libclass-data-inheritable-perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,libexception-class-perl,libdevel-stacktrace-perl ,>= 2.00,3
+C:\Users\rapha\Downloads\dependencies\chado05,libexception-class-perl,perl,any,3
+C:\Users\rapha\Downloads\dependencies\chado05,libclass-data-inheritable-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libdevel-stacktrace-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-deep-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-differences-perl,libcapture-tiny-perl ,>= 0.24,3
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-differences-perl,libtext-diff-perl ,>= 1.43,3
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-differences-perl,perl ,>= 5.13.0,3
+C:\Users\rapha\Downloads\dependencies\chado05,libcapture-tiny-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtext-diff-perl,libalgorithm-diff-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libtext-diff-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libalgorithm-diff-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-exception-perl,libsub-uplevel-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-exception-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libsub-uplevel-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-harness-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-simple-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-warn-perl,libsub-uplevel-perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado05,libtest-warn-perl,perl,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,ant,default-jre-headless ,>= 2:1.8,2
+C:\Users\rapha\Downloads\dependencies\chado06,ant,java8-runtime-headless,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,default-jre-headless,java-common,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,default-jre-headless,openjdk-11-jre-headless,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,ca-certificates-java,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,java-common ,>= 0.28,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libc6 ,>= 2.14,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libcups2,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libfontconfig1,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libfreetype6 ,>= 2.2.1,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libgcc1 ,>= 1:3.4,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libjpeg8 ,>= 8c,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,liblcms2-2 ,>= 2.2+git20110628,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libnss3 ,>= 2:3.17.1,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libpcsclite1 ,>= 1.3.0,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libstdc++6 ,>= 4.1.1,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libx11-6,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libxext6,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libxi6,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libxrender1,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,libxtst6,any,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,util-linux ,>= 2.26.2-4,19
+C:\Users\rapha\Downloads\dependencies\chado06,openjdk-11-jre-headless,zlib1g ,>= 1:1.1.4,19
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates-java,ca-certificates ,>= 20121114,4
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates-java,java8-runtime-headless,any,4
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates-java,libnss3 ,>= 3.12.9+ckbi-1.82-0ubuntu3~,4
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates-java,openjdk-11-jre-headless,any,4
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,ca-certificates,openssl ,>= 1.1.0,3
+C:\Users\rapha\Downloads\dependencies\chado06,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado06,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado06,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado06,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado06,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado06,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado06,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado06,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,openssl,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\chado06,openssl,libssl1.1 ,>= 1.1.0,2
+C:\Users\rapha\Downloads\dependencies\chado06,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\chado06,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libnss3,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libnss3,libnspr4 ,>= 2:4.12,3
+C:\Users\rapha\Downloads\dependencies\chado06,libnss3,libsqlite3-0 ,>= 3.5.9,3
+C:\Users\rapha\Downloads\dependencies\chado06,libnspr4,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado06,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libcups2,libavahi-client3 ,>= 0.6.16,6
+C:\Users\rapha\Downloads\dependencies\chado06,libcups2,libavahi-common3 ,>= 0.6.16,6
+C:\Users\rapha\Downloads\dependencies\chado06,libcups2,libc6 ,>= 2.17,6
+C:\Users\rapha\Downloads\dependencies\chado06,libcups2,libgnutls30 ,>= 3.5.6,6
+C:\Users\rapha\Downloads\dependencies\chado06,libcups2,libgssapi-krb5-2 ,>= 1.14+dfsg,6
+C:\Users\rapha\Downloads\dependencies\chado06,libcups2,zlib1g ,>= 1:1.2.0,6
+C:\Users\rapha\Downloads\dependencies\chado06,libavahi-client3,libavahi-common3 ,>= 0.6.22,3
+C:\Users\rapha\Downloads\dependencies\chado06,libavahi-client3,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\chado06,libavahi-client3,libdbus-1-3 ,>= 1.9.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libavahi-common3,libavahi-common-data,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,libavahi-common3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libdbus-1-3,libc6 ,>= 2.17,2
+C:\Users\rapha\Downloads\dependencies\chado06,libdbus-1-3,libsystemd0,any,2
+C:\Users\rapha\Downloads\dependencies\chado06,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\chado06,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\chado06,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\chado06,liblz4-1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\chado06,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\chado06,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\chado06,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\chado06,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\chado06,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\chado06,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\chado06,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\chado06,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\chado06,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\chado06,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\chado06,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado06,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\chado06,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\chado06,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\chado06,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\chado06,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\chado06,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\chado06,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libfontconfig1,fontconfig-config ,>= 2.12.6-0ubuntu2,4
+C:\Users\rapha\Downloads\dependencies\chado06,libfontconfig1,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\chado06,libfontconfig1,libexpat1 ,>= 2.0.1,4
+C:\Users\rapha\Downloads\dependencies\chado06,libfontconfig1,libfreetype6 ,>= 2.2.1,4
+C:\Users\rapha\Downloads\dependencies\chado06,fontconfig-config,fonts-dejavu-core,any,5
+C:\Users\rapha\Downloads\dependencies\chado06,fontconfig-config,fonts-freefont,any,5
+C:\Users\rapha\Downloads\dependencies\chado06,fontconfig-config,fonts-liberation,any,5
+C:\Users\rapha\Downloads\dependencies\chado06,fontconfig-config,ttf-bitstream-vera,any,5
+C:\Users\rapha\Downloads\dependencies\chado06,fontconfig-config,ucf ,>= 0.29,5
+C:\Users\rapha\Downloads\dependencies\chado06,ucf,coreutils ,>= 5.91,3
+C:\Users\rapha\Downloads\dependencies\chado06,ucf,debconf ,>= 1.5.19,3
+C:\Users\rapha\Downloads\dependencies\chado06,ucf,sensible-utils,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\chado06,libfreetype6,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libfreetype6,libpng16-16 ,>= 1.6.2-1,3
+C:\Users\rapha\Downloads\dependencies\chado06,libfreetype6,zlib1g ,>= 1:1.1.4,3
+C:\Users\rapha\Downloads\dependencies\chado06,libpng16-16,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libpng16-16,zlib1g ,>= 1:1.2.11,2
+C:\Users\rapha\Downloads\dependencies\chado06,libjpeg8,libjpeg-turbo8 ,>= 1.1.90+svn722-1ubuntu6,1
+C:\Users\rapha\Downloads\dependencies\chado06,libjpeg-turbo8,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,multiarch-support,libc6 ,>= 2.3.6-2,1
+C:\Users\rapha\Downloads\dependencies\chado06,liblcms2-2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado06,libpcsclite1,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\chado06,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+C:\Users\rapha\Downloads\dependencies\chado06,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\chado06,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\chado06,libx11-6,libc6 ,>= 2.15,3
+C:\Users\rapha\Downloads\dependencies\chado06,libx11-6,libx11-data,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libx11-6,libxcb1 ,>= 1.11.1,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxcb1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxcb1,libxau6,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxcb1,libxdmcp6,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxau6,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado06,libxdmcp6,libbsd0 ,>= 0.2.0,2
+C:\Users\rapha\Downloads\dependencies\chado06,libxdmcp6,libc6 ,>= 2.4,2
+C:\Users\rapha\Downloads\dependencies\chado06,libbsd0,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\chado06,libxext6,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libxext6,libx11-6 ,>= 2:1.6.0,2
+C:\Users\rapha\Downloads\dependencies\chado06,libxi6,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxi6,libx11-6 ,>= 2:1.6.0,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxi6,libxext6,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libxrender1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libxrender1,libx11-6 ,>= 2:1.6.0,2
+C:\Users\rapha\Downloads\dependencies\chado06,libxtst6,libc6 ,>= 2.4,4
+C:\Users\rapha\Downloads\dependencies\chado06,libxtst6,libx11-6 ,>= 2:1.6.0,4
+C:\Users\rapha\Downloads\dependencies\chado06,libxtst6,libxext6,any,4
+C:\Users\rapha\Downloads\dependencies\chado06,libxtst6,x11-common,any,4
+C:\Users\rapha\Downloads\dependencies\chado06,x11-common,lsb-base ,>= 1.3-9ubuntu2,1
+C:\Users\rapha\Downloads\dependencies\chado06,util-linux,fdisk,any,1
+C:\Users\rapha\Downloads\dependencies\chado06,fdisk,libc6 ,>= 2.14,6
+C:\Users\rapha\Downloads\dependencies\chado06,fdisk,libfdisk1 ,>= 2.31.1,6
+C:\Users\rapha\Downloads\dependencies\chado06,fdisk,libmount1 ,>= 2.24.2,6
+C:\Users\rapha\Downloads\dependencies\chado06,fdisk,libncursesw5 ,>= 6,6
+C:\Users\rapha\Downloads\dependencies\chado06,fdisk,libsmartcols1 ,>= 2.28~rc1,6
+C:\Users\rapha\Downloads\dependencies\chado06,fdisk,libtinfo5 ,>= 6,6
+C:\Users\rapha\Downloads\dependencies\chado06,libfdisk1,libblkid1 ,>= 2.24.2,3
+C:\Users\rapha\Downloads\dependencies\chado06,libfdisk1,libc6 ,>= 2.25,3
+C:\Users\rapha\Downloads\dependencies\chado06,libfdisk1,libuuid1 ,>= 2.16,3
+C:\Users\rapha\Downloads\dependencies\chado06,libblkid1,libc6 ,>= 2.25,2
+C:\Users\rapha\Downloads\dependencies\chado06,libblkid1,libuuid1 ,>= 2.16,2
+C:\Users\rapha\Downloads\dependencies\chado06,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\chado06,libmount1,libblkid1 ,>= 2.17.2,3
+C:\Users\rapha\Downloads\dependencies\chado06,libmount1,libc6 ,>= 2.25,3
+C:\Users\rapha\Downloads\dependencies\chado06,libmount1,libselinux1 ,>= 2.6-3~,3
+C:\Users\rapha\Downloads\dependencies\chado06,libncursesw5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado06,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\chado06,libtinfo5,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\chado06,libsmartcols1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\chado06,libaudit1,libaudit-common ,>= 1:2.8.2-1ubuntu1,3
+C:\Users\rapha\Downloads\dependencies\chado06,libaudit1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado06,libaudit1,libcap-ng0,any,3
+C:\Users\rapha\Downloads\dependencies\chado06,libcap-ng0,libc6 ,>= 2.8,1
+C:\Users\rapha\Downloads\dependencies\chado06,libpam0g,debconf ,>= 0.5,4
+C:\Users\rapha\Downloads\dependencies\chado06,libpam0g,debconf-2.0,any,4
+C:\Users\rapha\Downloads\dependencies\chado06,libpam0g,libaudit1 ,>= 1:2.2.1,4
+C:\Users\rapha\Downloads\dependencies\chado06,libpam0g,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\chado06,libudev1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\chado07,xsltproc,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\chado07,xsltproc,libxml2 ,>= 2.7.4,3
+C:\Users\rapha\Downloads\dependencies\chado07,xsltproc,libxslt1.1 ,>= 1.1.25,3
+C:\Users\rapha\Downloads\dependencies\chado07,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado07,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado07,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado07,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\chado07,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\chado07,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\chado07,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\chado07,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\chado07,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\chado07,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\chado07,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+C:\Users\rapha\Downloads\dependencies\chado07,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\chado07,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\chado07,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado07,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado07,libxslt1.1,libc6 ,>= 2.17,3
+C:\Users\rapha\Downloads\dependencies\chado07,libxslt1.1,libgcrypt20 ,>= 1.7.0,3
+C:\Users\rapha\Downloads\dependencies\chado07,libxslt1.1,libxml2 ,>= 2.9.0,3
+C:\Users\rapha\Downloads\dependencies\chado07,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\chado07,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\chado07,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\chado08,libparse-recdescent-perl,perl,any,1
+C:\Users\rapha\Downloads\dependencies\chado08,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado08,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado08,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\chado08,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\chado08,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado08,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\chado08,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\chado08,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado08,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado08,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado08,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\chado08,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado08,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\chado08,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\chado08,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\chado08,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado08,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\chado08,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\chado08,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\chado08,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado08,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\chado08,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\chado08,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,apache2,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,ca-certificates,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,default-mysql-client,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,httpd,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,libapache2-mod-php,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,libapache2-mod-php5,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,libjs-cropper ,>= 1.2.2,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,libphp-phpmailer ,>= 5.2.14+dfsg,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php-gd,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php-getid3 ,>= 1.9.15+dfsg,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php-mysql,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php-mysqlnd,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php5,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php5-gd,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php5-mysql,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,php5-mysqlnd,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,drupal,virtual-mysql-client,any,18
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,apache2-bin ,= 2.4.29-1ubuntu4.5,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,apache2-data ,= 2.4.29-1ubuntu4.5,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,apache2-utils ,= 2.4.29-1ubuntu4.5,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,lsb-base,any,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,mime-support,any,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,perl,any,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,perl:any,any,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2,procps,any,8
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libapr1 ,>= 1.6.2,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1 ,>= 1.6.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1-dbd-freetds,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1-dbd-mysql,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1-dbd-odbc,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1-dbd-pgsql,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libaprutil1-ldap,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libc6 ,>= 2.14,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,liblua5.2-0,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libpcre3,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,libxml2 ,>= 2.7.4,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,perl:any,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-bin,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapr1,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\drupal,libapr1,libuuid1 ,>= 2.16,2
+C:\Users\rapha\Downloads\dependencies\drupal,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\drupal,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1,libapr1 ,>= 1.6.2,6
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1,libc6 ,>= 2.25,6
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1,libdb5.3,any,6
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1,libexpat1 ,>= 2.0.1,6
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1,libgdbm5 ,>= 1.14,6
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1,libssl1.1 ,>= 1.1.0,6
+C:\Users\rapha\Downloads\dependencies\drupal,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\drupal,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\drupal,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\drupal,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\drupal,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\drupal,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\drupal,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\drupal,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\drupal,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+C:\Users\rapha\Downloads\dependencies\drupal,libmysqlclient20,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\drupal,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+C:\Users\rapha\Downloads\dependencies\drupal,libmysqlclient20,libstdc++6 ,>= 5.2,5
+C:\Users\rapha\Downloads\dependencies\drupal,libmysqlclient20,mysql-common ,>= 5.5,5
+C:\Users\rapha\Downloads\dependencies\drupal,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+C:\Users\rapha\Downloads\dependencies\drupal,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+C:\Users\rapha\Downloads\dependencies\drupal,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\drupal,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+C:\Users\rapha\Downloads\dependencies\drupal,libodbc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libodbc1,libltdl7 ,>= 2.4.6,2
+C:\Users\rapha\Downloads\dependencies\drupal,libltdl7,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-pgsql,libpq5,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,libpq5,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\drupal,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+C:\Users\rapha\Downloads\dependencies\drupal,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+C:\Users\rapha\Downloads\dependencies\drupal,libpq5,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\drupal,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\drupal,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\drupal,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libldap-2.4-2,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\drupal,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+C:\Users\rapha\Downloads\dependencies\drupal,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\drupal,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+C:\Users\rapha\Downloads\dependencies\drupal,libldap-2.4-2,libsasl2-2,any,5
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\drupal,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\drupal,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\drupal,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\drupal,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\drupal,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libasn1-8-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\drupal,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\drupal,libcomerr2,libcom-err2,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,libroken18-heimdal,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\drupal,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\drupal,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\drupal,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\drupal,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\drupal,libheimbase1-heimdal,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\drupal,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\drupal,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\drupal,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\drupal,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+C:\Users\rapha\Downloads\dependencies\drupal,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+C:\Users\rapha\Downloads\dependencies\drupal,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\drupal,libwind0-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\drupal,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\drupal,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libsasl2-2,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\drupal,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+C:\Users\rapha\Downloads\dependencies\drupal,libsasl2-modules-db,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libsasl2-modules-db,libdb5.3,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-ldap,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\drupal,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+C:\Users\rapha\Downloads\dependencies\drupal,liblua5.2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+C:\Users\rapha\Downloads\dependencies\drupal,libnghttp2-14,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\drupal,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\drupal,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\drupal,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\drupal,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\drupal,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-utils,libaprutil1 ,>= 1.5.0,4
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-utils,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\drupal,apache2-utils,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\drupal,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\drupal,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\drupal,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\drupal,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\drupal,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\drupal,procps,init-system-helpers ,>= 1.29~,7
+C:\Users\rapha\Downloads\dependencies\drupal,procps,libc6 ,>= 2.27,7
+C:\Users\rapha\Downloads\dependencies\drupal,procps,libncurses5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\drupal,procps,libncursesw5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\drupal,procps,libprocps6,any,7
+C:\Users\rapha\Downloads\dependencies\drupal,procps,libtinfo5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\drupal,procps,lsb-base ,>= 3.0-10,7
+C:\Users\rapha\Downloads\dependencies\drupal,init-system-helpers,perl-base ,>= 5.20.1-3,1
+C:\Users\rapha\Downloads\dependencies\drupal,libncurses5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\drupal,libtinfo5,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\drupal,libncursesw5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\drupal,libprocps6,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libprocps6,libsystemd0 ,>= 209,2
+C:\Users\rapha\Downloads\dependencies\drupal,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\drupal,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\drupal,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\drupal,liblz4-1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,ca-certificates,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\drupal,ca-certificates,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,ca-certificates,openssl ,>= 1.1.0,3
+C:\Users\rapha\Downloads\dependencies\drupal,openssl,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\drupal,openssl,libssl1.1 ,>= 1.1.0,2
+C:\Users\rapha\Downloads\dependencies\drupal,default-mysql-client,mysql-client-5.7,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,debianutils ,>= 1.6,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,libc6 ,>= 2.14,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,libgcc1 ,>= 1:3.0,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,liblz4-1 ,>= 0.0~r127,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,libstdc++6 ,>= 5.2,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,mysql-client-core-5.7,any,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,mysql-common ,>= 5.5,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-5.7,zlib1g ,>= 1:1.1.4,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,libaio1 ,>= 0.3.93,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,libc6 ,>= 2.14,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,libedit2 ,>= 2.11-20080614,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,libgcc1 ,>= 1:4.0,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,liblz4-1 ,>= 0.0~r130,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,libnuma1 ,>= 2.0.11,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,libstdc++6 ,>= 5.2,8
+C:\Users\rapha\Downloads\dependencies\drupal,mysql-client-core-5.7,zlib1g ,>= 1:1.2.0,8
+C:\Users\rapha\Downloads\dependencies\drupal,libaio1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\drupal,libedit2,libc6 ,>= 2.17,2
+C:\Users\rapha\Downloads\dependencies\drupal,libedit2,libtinfo5 ,>= 6,2
+C:\Users\rapha\Downloads\dependencies\drupal,libnuma1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php,libapache2-mod-php7.2,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,apache2-api-20120211,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,apache2-bin ,>= 2.4.16,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libargon2-0 ,>= 0~20160406~,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libc6 ,>= 2.27,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libmagic1,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libpcre3 ,>= 2:8.35,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libsodium23 ,>= 1.0.14,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,libxml2 ,>= 2.8.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,mime-support,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,php7.2-cli,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,php7.2-json,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,php7.2-opcache,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,tzdata,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,ucf,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapache2-mod-php7.2,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\drupal,libargon2-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libmagic1,libc6 ,>= 2.15,3
+C:\Users\rapha\Downloads\dependencies\drupal,libmagic1,libmagic-mgc ,= 1:5.32-2ubuntu0.1,3
+C:\Users\rapha\Downloads\dependencies\drupal,libmagic1,zlib1g ,>= 1:1.1.4,3
+C:\Users\rapha\Downloads\dependencies\drupal,libsodium23,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libargon2-0 ,>= 0~20160406~,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libc6 ,>= 2.27,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libedit2 ,>= 2.11-20080614-4,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libmagic1,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libpcre3 ,>= 2:8.35,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libsodium23 ,>= 1.0.14,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libssl1.1 ,>= 1.1.0,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,libxml2 ,>= 2.8.0,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,mime-support,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,php7.2-json,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,php7.2-opcache,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,php7.2-readline,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,tzdata,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,ucf,any,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cli,zlib1g ,>= 1:1.1.4,16
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-common,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-common,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-common,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-common,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php-common,psmisc ,>= 22.15-1~,2
+C:\Users\rapha\Downloads\dependencies\drupal,php-common,sed ,>= 4.1.1-1,2
+C:\Users\rapha\Downloads\dependencies\drupal,psmisc,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,psmisc,libselinux1 ,>= 1.32,3
+C:\Users\rapha\Downloads\dependencies\drupal,psmisc,libtinfo5 ,>= 6,3
+C:\Users\rapha\Downloads\dependencies\drupal,ucf,coreutils ,>= 5.91,3
+C:\Users\rapha\Downloads\dependencies\drupal,ucf,debconf ,>= 1.5.19,3
+C:\Users\rapha\Downloads\dependencies\drupal,ucf,sensible-utils,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-json,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-json,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-json,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-json,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-opcache,libc6 ,>= 2.27,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-opcache,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-opcache,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-opcache,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-readline,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-readline,libedit2 ,>= 3.1-20130611,5
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-readline,php-common ,>= 1:35,5
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-readline,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,5
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-readline,ucf,any,5
+C:\Users\rapha\Downloads\dependencies\drupal,tzdata,debconf ,>= 0.5,2
+C:\Users\rapha\Downloads\dependencies\drupal,tzdata,debconf-2.0,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,libjs-cropper,libjs-scriptaculous ,>= 1.9.0,1
+C:\Users\rapha\Downloads\dependencies\drupal,libjs-scriptaculous,libjs-prototype,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,libphp-phpmailer,php-common,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,php,php7.2,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2,libapache2-mod-php7.2,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2,php7.2-cgi,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2,php7.2-common,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2,php7.2-fpm,any,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libargon2-0 ,>= 0~20160406~,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libc6 ,>= 2.27,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libmagic1,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libpcre3 ,>= 2:8.35,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libsodium23 ,>= 1.0.14,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libssl1.1 ,>= 1.1.0,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,libxml2 ,>= 2.8.0,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,mime-support,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,php7.2-cli,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,php7.2-json,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,php7.2-opcache,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,tzdata,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,ucf,any,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-cgi,zlib1g ,>= 1:1.1.4,15
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libapparmor1 ,>= 2.7.0~beta1+bzr1772,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libargon2-0 ,>= 0~20160406~,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libc6 ,>= 2.27,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libmagic1,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libpcre3 ,>= 2:8.35,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libsodium23 ,>= 1.0.14,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libsystemd0,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,libxml2 ,>= 2.8.0,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,mime-support,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,php7.2-cli,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,php7.2-json,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,php7.2-opcache,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,tzdata,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,ucf,any,17
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-fpm,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\drupal,libapparmor1,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\drupal,php-gd,php-common,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,php-gd,php7.2-gd,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-gd,libc6 ,>= 2.4,6
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-gd,libgd3 ,>= 2.1.1,6
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-gd,libxpm4,any,6
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-gd,php-common ,>= 1:35,6
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-gd,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,6
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-gd,ucf,any,6
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libc6 ,>= 2.14,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libfontconfig1 ,>= 2.12,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libfreetype6 ,>= 2.2.1,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libjpeg8 ,>= 8c,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libpng16-16 ,>= 1.6.2-1,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libtiff5 ,>= 4.0.3,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libwebp6 ,>= 0.5.1,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,libxpm4,any,9
+C:\Users\rapha\Downloads\dependencies\drupal,libgd3,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\drupal,libfontconfig1,fontconfig-config ,>= 2.12.6-0ubuntu2,4
+C:\Users\rapha\Downloads\dependencies\drupal,libfontconfig1,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\drupal,libfontconfig1,libexpat1 ,>= 2.0.1,4
+C:\Users\rapha\Downloads\dependencies\drupal,libfontconfig1,libfreetype6 ,>= 2.2.1,4
+C:\Users\rapha\Downloads\dependencies\drupal,fontconfig-config,fonts-dejavu-core,any,5
+C:\Users\rapha\Downloads\dependencies\drupal,fontconfig-config,fonts-freefont,any,5
+C:\Users\rapha\Downloads\dependencies\drupal,fontconfig-config,fonts-liberation,any,5
+C:\Users\rapha\Downloads\dependencies\drupal,fontconfig-config,ttf-bitstream-vera,any,5
+C:\Users\rapha\Downloads\dependencies\drupal,fontconfig-config,ucf ,>= 0.29,5
+C:\Users\rapha\Downloads\dependencies\drupal,libfreetype6,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libfreetype6,libpng16-16 ,>= 1.6.2-1,3
+C:\Users\rapha\Downloads\dependencies\drupal,libfreetype6,zlib1g ,>= 1:1.1.4,3
+C:\Users\rapha\Downloads\dependencies\drupal,libpng16-16,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libpng16-16,zlib1g ,>= 1:1.2.11,2
+C:\Users\rapha\Downloads\dependencies\drupal,libjpeg8,libjpeg-turbo8 ,>= 1.1.90+svn722-1ubuntu6,1
+C:\Users\rapha\Downloads\dependencies\drupal,libjpeg-turbo8,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,multiarch-support,libc6 ,>= 2.3.6-2,1
+C:\Users\rapha\Downloads\dependencies\drupal,libtiff5,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\drupal,libtiff5,libjbig0 ,>= 2.0,5
+C:\Users\rapha\Downloads\dependencies\drupal,libtiff5,libjpeg8 ,>= 8c,5
+C:\Users\rapha\Downloads\dependencies\drupal,libtiff5,liblzma5 ,>= 5.1.1alpha+20120614,5
+C:\Users\rapha\Downloads\dependencies\drupal,libtiff5,zlib1g ,>= 1:1.1.4,5
+C:\Users\rapha\Downloads\dependencies\drupal,libjbig0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\drupal,libwebp6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\drupal,libxpm4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\drupal,libxpm4,libx11-6,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,libx11-6,libc6 ,>= 2.15,3
+C:\Users\rapha\Downloads\dependencies\drupal,libx11-6,libx11-data,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,libx11-6,libxcb1 ,>= 1.11.1,3
+C:\Users\rapha\Downloads\dependencies\drupal,libxcb1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\drupal,libxcb1,libxau6,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,libxcb1,libxdmcp6,any,3
+C:\Users\rapha\Downloads\dependencies\drupal,libxau6,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\drupal,libxdmcp6,libbsd0 ,>= 0.2.0,2
+C:\Users\rapha\Downloads\dependencies\drupal,libxdmcp6,libc6 ,>= 2.4,2
+C:\Users\rapha\Downloads\dependencies\drupal,libbsd0,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\drupal,php-getid3,php-common,any,1
+C:\Users\rapha\Downloads\dependencies\drupal,php-mysql,php-common,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,php-mysql,php7.2-mysql,any,2
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-mysql,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-mysql,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-mysql,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+C:\Users\rapha\Downloads\dependencies\drupal,php7.2-mysql,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,apache2-bin ,= 2.4.29-1ubuntu4.6,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,apache2-data ,= 2.4.29-1ubuntu4.6,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,apache2-utils ,= 2.4.29-1ubuntu4.6,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,lsb-base,any,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,mime-support,any,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,perl,any,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,perl:any,any,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2,procps,any,8
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libapr1 ,>= 1.6.2,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1 ,>= 1.6.0,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1-dbd-freetds,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1-dbd-mysql,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1-dbd-odbc,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1-dbd-pgsql,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libaprutil1-ldap,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libc6 ,>= 2.14,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,liblua5.2-0,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libpcre3,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,libxml2 ,>= 2.7.4,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,perl:any,any,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-bin,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libapr1,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libapr1,libuuid1 ,>= 2.16,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgcc1,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1,libapr1 ,>= 1.6.2,6
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1,libc6 ,>= 2.25,6
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1,libdb5.3,any,6
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1,libexpat1 ,>= 2.0.1,6
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1,libgdbm5 ,>= 1.14,6
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1,libssl1.1 ,>= 1.1.0,6
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libmysqlclient20,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libmysqlclient20,libstdc++6 ,>= 5.2,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libmysqlclient20,mysql-common ,>= 5.5,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libstdc++6,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libodbc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libodbc1,libltdl7 ,>= 2.4.6,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libltdl7,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-pgsql,libpq5,any,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libpq5,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libpq5,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libldap-2.4-2,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.2,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libldap-2.4-2,libsasl2-2,any,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libasn1-8-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libcomerr2,libcom-err2,any,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libroken18-heimdal,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libheimbase1-heimdal,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libwind0-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libsasl2-2,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libsasl2-modules-db,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libsasl2-modules-db,libdb5.3,any,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-ldap,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,liblua5.2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libnghttp2-14,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-utils,libapr1 ,>= 1.4.8-2~,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-utils,libaprutil1 ,>= 1.5.0,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-utils,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,apache2-utils,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\gbrowse01,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,init-system-helpers ,>= 1.29~,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,libc6 ,>= 2.27,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,libncurses5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,libncursesw5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,libprocps6,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,libtinfo5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,procps,lsb-base ,>= 3.0-10,7
+C:\Users\rapha\Downloads\dependencies\gbrowse01,init-system-helpers,perl-base ,>= 5.20.1-3,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libncurses5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libtinfo5,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libncursesw5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libprocps6,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libprocps6,libsystemd0 ,>= 209,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\gbrowse01,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\gbrowse01,liblz4-1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,perl,libperl5.26 ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\gbrowse02,perl,perl-base ,= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\gbrowse02,perl,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,3
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,libbz2-1.0,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,libc6 ,>= 2.23,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,libdb5.3,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,libgdbm-compat4,any,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,libgdbm5 ,>= 1.12,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,perl-modules-5.26 ,>= 5.26.1-6ubuntu0.3,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libperl5.26,zlib1g ,>= 1:1.2.2.3,7
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libgcc1,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libgdbm-compat4,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libgdbm-compat4,libgdbm5 ,>= 1.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,perl-modules-5.26,perl-base ,>= 5.26.1-1,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\gbrowse02,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,php,php7.2,any,1
+C:\Users\rapha\Downloads\dependencies\php,php7.2,libapache2-mod-php7.2,any,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2,php7.2-cgi,any,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2,php7.2-common,any,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2,php7.2-fpm,any,4
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,apache2-api-20120211,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,apache2-bin ,>= 2.4.16,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libargon2-0 ,>= 0~20160406~,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libc6 ,>= 2.27,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libmagic1,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libpcre3 ,>= 2:8.35,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libsodium23 ,>= 1.0.14,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,libxml2 ,>= 2.8.0,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,mime-support,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,php7.2-cli,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,php7.2-json,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,php7.2-opcache,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,tzdata,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,ucf,any,17
+C:\Users\rapha\Downloads\dependencies\php,libapache2-mod-php7.2,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libapr1 ,>= 1.6.2,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1 ,>= 1.6.0,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1-dbd-freetds,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1-dbd-mysql,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1-dbd-odbc,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1-dbd-pgsql,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1-dbd-sqlite3,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libaprutil1-ldap,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libc6 ,>= 2.14,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libldap-2.4-2 ,>= 2.4.7,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,liblua5.2-0,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libnghttp2-14 ,>= 1.15.0,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libpcre3,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,libxml2 ,>= 2.7.4,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,perl:any,any,17
+C:\Users\rapha\Downloads\dependencies\php,apache2-bin,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\php,libapr1,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\php,libapr1,libuuid1 ,>= 2.16,2
+C:\Users\rapha\Downloads\dependencies\php,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\php,libgcc1,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,2
+C:\Users\rapha\Downloads\dependencies\php,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1,libapr1 ,>= 1.6.2,6
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1,libc6 ,>= 2.25,6
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1,libdb5.3,any,6
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1,libexpat1 ,>= 2.0.1,6
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1,libgdbm5 ,>= 1.14,6
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1,libssl1.1 ,>= 1.1.0,6
+C:\Users\rapha\Downloads\dependencies\php,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\php,libexpat1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\php,libgdbm5,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\php,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\php,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\php,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\php,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\php,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\php,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\php,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\php,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-mysql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-mysql,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-mysql,libmysqlclient20 ,>= 5.7.11,3
+C:\Users\rapha\Downloads\dependencies\php,libmysqlclient20,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\php,libmysqlclient20,libgcc1 ,>= 1:3.0,5
+C:\Users\rapha\Downloads\dependencies\php,libmysqlclient20,libstdc++6 ,>= 5.2,5
+C:\Users\rapha\Downloads\dependencies\php,libmysqlclient20,mysql-common ,>= 5.5,5
+C:\Users\rapha\Downloads\dependencies\php,libmysqlclient20,zlib1g ,>= 1:1.1.4,5
+C:\Users\rapha\Downloads\dependencies\php,libstdc++6,gcc-8-base ,= 8.2.0-1ubuntu2~18.04,3
+C:\Users\rapha\Downloads\dependencies\php,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\php,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-odbc,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-odbc,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-odbc,libodbc1 ,>= 2.3.1,3
+C:\Users\rapha\Downloads\dependencies\php,libodbc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libodbc1,libltdl7 ,>= 2.4.6,2
+C:\Users\rapha\Downloads\dependencies\php,libltdl7,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-pgsql,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-pgsql,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-pgsql,libpq5,any,3
+C:\Users\rapha\Downloads\dependencies\php,libpq5,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\php,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+C:\Users\rapha\Downloads\dependencies\php,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+C:\Users\rapha\Downloads\dependencies\php,libpq5,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\php,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\php,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\php,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\php,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\php,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\php,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\php,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\php,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\php,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libldap-2.4-2,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\php,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+C:\Users\rapha\Downloads\dependencies\php,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\php,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.1,5
+C:\Users\rapha\Downloads\dependencies\php,libldap-2.4-2,libsasl2-2,any,5
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\php,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\php,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\php,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\php,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\php,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\php,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\php,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\php,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libasn1-8-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\php,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\php,libcomerr2,libcom-err2,any,1
+C:\Users\rapha\Downloads\dependencies\php,libroken18-heimdal,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\php,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\php,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\php,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\php,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\php,libheimbase1-heimdal,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\php,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\php,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\php,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\php,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+C:\Users\rapha\Downloads\dependencies\php,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+C:\Users\rapha\Downloads\dependencies\php,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\php,libwind0-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\php,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\php,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libsasl2-2,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\php,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+C:\Users\rapha\Downloads\dependencies\php,libsasl2-modules-db,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,libsasl2-modules-db,libdb5.3,any,2
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-sqlite3,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-sqlite3,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-dbd-sqlite3,libsqlite3-0 ,>= 3.5.9,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-ldap,libaprutil1 ,= 1.6.1-2,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-ldap,libc6 ,>= 2.4,3
+C:\Users\rapha\Downloads\dependencies\php,libaprutil1-ldap,libldap-2.4-2 ,>= 2.4.7,3
+C:\Users\rapha\Downloads\dependencies\php,liblua5.2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\php,liblua5.2-0,libstdc++6 ,>= 4.1.1,2
+C:\Users\rapha\Downloads\dependencies\php,libnghttp2-14,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\php,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\php,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\php,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\php,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\php,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\php,libargon2-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\php,libmagic1,libc6 ,>= 2.15,3
+C:\Users\rapha\Downloads\dependencies\php,libmagic1,libmagic-mgc ,= 1:5.32-2ubuntu0.1,3
+C:\Users\rapha\Downloads\dependencies\php,libmagic1,zlib1g ,>= 1:1.1.4,3
+C:\Users\rapha\Downloads\dependencies\php,libsodium23,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libargon2-0 ,>= 0~20160406~,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libc6 ,>= 2.27,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libedit2 ,>= 2.11-20080614-4,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libmagic1,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libpcre3 ,>= 2:8.35,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libsodium23 ,>= 1.0.14,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libssl1.1 ,>= 1.1.0,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,libxml2 ,>= 2.8.0,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,mime-support,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,php7.2-json,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,php7.2-opcache,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,php7.2-readline,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,tzdata,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,ucf,any,16
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cli,zlib1g ,>= 1:1.1.4,16
+C:\Users\rapha\Downloads\dependencies\php,libedit2,libc6 ,>= 2.17,2
+C:\Users\rapha\Downloads\dependencies\php,libedit2,libtinfo5 ,>= 6,2
+C:\Users\rapha\Downloads\dependencies\php,libtinfo5,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\php,php7.2-common,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-common,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-common,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-common,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\php,php-common,psmisc ,>= 22.15-1~,2
+C:\Users\rapha\Downloads\dependencies\php,php-common,sed ,>= 4.1.1-1,2
+C:\Users\rapha\Downloads\dependencies\php,psmisc,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\php,psmisc,libselinux1 ,>= 1.32,3
+C:\Users\rapha\Downloads\dependencies\php,psmisc,libtinfo5 ,>= 6,3
+C:\Users\rapha\Downloads\dependencies\php,ucf,coreutils ,>= 5.91,3
+C:\Users\rapha\Downloads\dependencies\php,ucf,debconf ,>= 1.5.19,3
+C:\Users\rapha\Downloads\dependencies\php,ucf,sensible-utils,any,3
+C:\Users\rapha\Downloads\dependencies\php,php7.2-json,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-json,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-json,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-json,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-opcache,libc6 ,>= 2.27,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-opcache,php-common ,>= 1:35,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-opcache,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-opcache,ucf,any,4
+C:\Users\rapha\Downloads\dependencies\php,php7.2-readline,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\php,php7.2-readline,libedit2 ,>= 3.1-20130611,5
+C:\Users\rapha\Downloads\dependencies\php,php7.2-readline,php-common ,>= 1:35,5
+C:\Users\rapha\Downloads\dependencies\php,php7.2-readline,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,5
+C:\Users\rapha\Downloads\dependencies\php,php7.2-readline,ucf,any,5
+C:\Users\rapha\Downloads\dependencies\php,tzdata,debconf ,>= 0.5,2
+C:\Users\rapha\Downloads\dependencies\php,tzdata,debconf-2.0,any,2
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libargon2-0 ,>= 0~20160406~,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libc6 ,>= 2.27,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libmagic1,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libpcre3 ,>= 2:8.35,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libsodium23 ,>= 1.0.14,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libssl1.1 ,>= 1.1.0,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,libxml2 ,>= 2.8.0,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,mime-support,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,php7.2-cli,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,php7.2-json,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,php7.2-opcache,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,tzdata,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,ucf,any,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-cgi,zlib1g ,>= 1:1.1.4,15
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libapparmor1 ,>= 2.7.0~beta1+bzr1772,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libargon2-0 ,>= 0~20160406~,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libc6 ,>= 2.27,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libmagic1,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libpcre3 ,>= 2:8.35,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libsodium23 ,>= 1.0.14,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libssl1.1 ,>= 1.1.0,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libsystemd0,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,libxml2 ,>= 2.8.0,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,mime-support,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,php7.2-cli,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,php7.2-common ,= 7.2.15-0ubuntu0.18.04.1,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,php7.2-json,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,php7.2-opcache,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,tzdata,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,ucf,any,17
+C:\Users\rapha\Downloads\dependencies\php,php7.2-fpm,zlib1g ,>= 1:1.1.4,17
+C:\Users\rapha\Downloads\dependencies\php,libapparmor1,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\php,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\php,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\php,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\php,liblz4-1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql,postgresql-10,any,1
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libc6 ,>= 2.17,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libgssapi-krb5-2 ,>= 1.14+dfsg,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libicu60 ,>= 60.1-1~,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libldap-2.4-2 ,>= 2.4.7,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libpam0g ,>= 0.99.7.1,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libpq5 ,>= 9.3~,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libselinux1 ,>= 2.1.12,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libssl1.1 ,>= 1.1.0,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libsystemd0,any,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libuuid1 ,>= 2.16,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libxml2 ,>= 2.7.4,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,libxslt1.1 ,>= 1.1.25,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,locales,any,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,postgresql-client-10,any,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,postgresql-common ,>= 182~,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,ssl-cert,any,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,tzdata,any,18
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-10,zlib1g ,>= 1:1.1.4,18
+C:\Users\rapha\Downloads\dependencies\postgresql,libc6,libgcc1,any,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libgcc1,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libgcc1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi-krb5-2,libc6 ,>= 2.27,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi-krb5-2,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi-krb5-2,libk5crypto3 ,>= 1.16,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi-krb5-2,libkrb5-3 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi-krb5-2,libkrb5support0 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libcom-err2,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libk5crypto3,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libk5crypto3,libkrb5support0 ,>= 1.16,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5support0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-3,libc6 ,>= 2.16,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-3,libcom-err2 ,>= 1.34,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-3,libk5crypto3 ,>= 1.15~beta1,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-3,libkeyutils1 ,>= 1.5.9,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-3,libkrb5support0 ,= 1.16-2ubuntu0.1,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libkeyutils1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libicu60,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libicu60,libgcc1 ,>= 1:3.0,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libicu60,libstdc++6 ,>= 5.2,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libstdc++6,gcc-8-base ,= 8.3.0-6ubuntu1~18.04,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libstdc++6,libc6 ,>= 2.18,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libstdc++6,libgcc1 ,>= 1:4.2,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libldap-2.4-2,libc6 ,>= 2.14,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libldap-2.4-2,libgnutls30 ,>= 3.5.6,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libldap-2.4-2,libgssapi3-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libldap-2.4-2,libldap-common ,>= 2.4.45+dfsg-1ubuntu1.2,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libldap-2.4-2,libsasl2-2,any,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libc6 ,>= 2.25,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libgmp10 ,>= 2:6,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libhogweed4,any,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libidn2-0 ,>= 0.6,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libnettle6,any,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libp11-kit0 ,>= 0.23.1,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libtasn1-6 ,>= 4.12,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,libunistring2 ,>= 0.9.7,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgnutls30,zlib1g ,>= 1:1.1.4,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libgmp10,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libhogweed4,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libhogweed4,libgmp10 ,>= 2:6.0.0,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libhogweed4,libnettle6 ,= 3.4-1,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libnettle6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libidn2-0,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libidn2-0,libunistring2 ,>= 0.9.7,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libunistring2,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libp11-kit0,libc6 ,>= 2.26,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libp11-kit0,libffi6 ,>= 3.0.4,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libffi6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libtasn1-6,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,zlib1g,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libcomerr2 ,>= 1.01,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libheimntlm0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libkrb5-26-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libgssapi3-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libasn1-8-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libasn1-8-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libasn1-8-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libcomerr2,libcom-err2,any,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libroken18-heimdal,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libhcrypto4-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libhcrypto4-heimdal,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libhcrypto4-heimdal,libheimbase1-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libhcrypto4-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libheimbase1-heimdal,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libheimntlm0-heimdal,libc6 ,>= 2.4,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libheimntlm0-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libheimntlm0-heimdal,libkrb5-26-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libheimntlm0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libheimntlm0-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libasn1-8-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libc6 ,>= 2.15,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libcomerr2 ,>= 1.41.11,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libhcrypto4-heimdal ,>= 1.7~git20161112,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libhx509-5-heimdal ,>= 1.4.0+git20110226,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libroken18-heimdal ,>= 1.7~git20160418,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libsqlite3-0 ,>= 3.5.9,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libkrb5-26-heimdal,libwind0-heimdal ,>= 1.6~git20120311,9
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libasn1-8-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libc6 ,>= 2.14,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libcomerr2 ,>= 1.34,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libhcrypto4-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libheimbase1-heimdal ,>= 1.6~git20131117,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libroken18-heimdal ,>= 1.7~git20150920,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libhx509-5-heimdal,libwind0-heimdal ,>= 1.4.0+git20110226,7
+C:\Users\rapha\Downloads\dependencies\postgresql,libwind0-heimdal,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libwind0-heimdal,libcomerr2 ,>= 1.01,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libwind0-heimdal,libroken18-heimdal ,>= 1.4.0+git20110226,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libsqlite3-0,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libsasl2-2,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libsasl2-2,libsasl2-modules-db ,>= 2.1.27~101-g0780600+dfsg-3ubuntu2,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libsasl2-modules-db,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libsasl2-modules-db,libdb5.3,any,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libdb5.3,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam0g,debconf ,>= 0.5,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam0g,debconf-2.0,any,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam0g,libaudit1 ,>= 1:2.2.1,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam0g,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\postgresql,dpkg,tar ,>= 1.28-1,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libacl1,libattr1 ,>= 1:2.4.46-8,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libacl1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libattr1,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libselinux1,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libselinux1,libpcre3,any,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libpcre3,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libbz2-1.0,libc6 ,>= 2.4,1
+C:\Users\rapha\Downloads\dependencies\postgresql,liblzma5,libc6 ,>= 2.17,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libzstd1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libaudit1,libaudit-common ,>= 1:2.8.2-1ubuntu1,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libaudit1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libaudit1,libcap-ng0,any,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libcap-ng0,libc6 ,>= 2.8,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libpq5,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpq5,libgssapi-krb5-2 ,>= 1.14+dfsg,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpq5,libldap-2.4-2 ,>= 2.4.7,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpq5,libssl1.1 ,>= 1.1.0,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libssl1.1,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libssl1.1,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libssl1.1,libc6 ,>= 2.14,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libgcrypt20,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libgcrypt20,libgpg-error0 ,>= 1.25,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libgpg-error0,libc6 ,>= 2.15,1
+C:\Users\rapha\Downloads\dependencies\postgresql,liblz4-1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libuuid1,libc6 ,>= 2.25,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libxml2,libc6 ,>= 2.15,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libxml2,libicu60 ,>= 60.1-1~,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libxml2,liblzma5 ,>= 5.1.1alpha+20120614,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libxml2,zlib1g ,>= 1:1.2.3.3,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libxslt1.1,libc6 ,>= 2.17,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libxslt1.1,libgcrypt20 ,>= 1.8.0,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libxslt1.1,libxml2 ,>= 2.9.0,3
+C:\Users\rapha\Downloads\dependencies\postgresql,locales,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\postgresql,locales,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\postgresql,locales,libc-bin ,>> 2.27,3
+C:\Users\rapha\Downloads\dependencies\postgresql,libc-bin,libc6 ,<< 2.28,1
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-client-10,libc6 ,>= 2.15,5
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-client-10,libedit2 ,>= 2.11-20080614,5
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-client-10,libpq5 ,>= 10.7,5
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-client-10,postgresql-client-common ,>= 182~,5
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-client-10,zlib1g ,>= 1:1.1.4,5
+C:\Users\rapha\Downloads\dependencies\postgresql,libedit2,libc6 ,>= 2.17,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libedit2,libtinfo5 ,>= 6,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libtinfo5,libc6 ,>= 2.16,1
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-client-common,netbase,any,1
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,adduser,any,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,debconf ,>= 0.5.00,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,debconf-2.0,any,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,lsb-base ,>= 3.0-3,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,postgresql-client-common ,= 190,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,procps,any,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,ssl-cert ,>= 1.0.11,8
+C:\Users\rapha\Downloads\dependencies\postgresql,postgresql-common,ucf,any,8
+C:\Users\rapha\Downloads\dependencies\postgresql,adduser,debconf ,>= 0.5,3
+C:\Users\rapha\Downloads\dependencies\postgresql,adduser,debconf-2.0,any,3
+C:\Users\rapha\Downloads\dependencies\postgresql,adduser,passwd,any,3
+C:\Users\rapha\Downloads\dependencies\postgresql,passwd,libaudit1 ,>= 1:2.2.1,6
+C:\Users\rapha\Downloads\dependencies\postgresql,passwd,libc6 ,>= 2.14,6
+C:\Users\rapha\Downloads\dependencies\postgresql,passwd,libpam-modules,any,6
+C:\Users\rapha\Downloads\dependencies\postgresql,passwd,libpam0g ,>= 0.99.7.1,6
+C:\Users\rapha\Downloads\dependencies\postgresql,passwd,libselinux1 ,>= 1.32,6
+C:\Users\rapha\Downloads\dependencies\postgresql,passwd,libsemanage1 ,>= 2.0.3,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam-modules-bin,libaudit1 ,>= 1:2.2.1,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam-modules-bin,libc6 ,>= 2.14,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam-modules-bin,libpam0g ,>= 0.99.7.1,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libpam-modules-bin,libselinux1 ,>= 1.32,4
+C:\Users\rapha\Downloads\dependencies\postgresql,libsemanage1,libaudit1 ,>= 1:2.2.1,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libsemanage1,libbz2-1.0,any,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libsemanage1,libc6 ,>= 2.14,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libsemanage1,libselinux1 ,>= 2.7,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libsemanage1,libsemanage-common ,= 2.7-2build2,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libsemanage1,libsepol1 ,>= 2.7,6
+C:\Users\rapha\Downloads\dependencies\postgresql,libsepol1,libc6 ,>= 2.14,1
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,init-system-helpers ,>= 1.29~,7
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,libc6 ,>= 2.27,7
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,libncurses5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,libncursesw5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,libprocps6,any,7
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,libtinfo5 ,>= 6,7
+C:\Users\rapha\Downloads\dependencies\postgresql,procps,lsb-base ,>= 3.0-10,7
+C:\Users\rapha\Downloads\dependencies\postgresql,init-system-helpers,perl-base ,>= 5.20.1-3,1
+C:\Users\rapha\Downloads\dependencies\postgresql,libncurses5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libncurses5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libncursesw5,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libncursesw5,libtinfo5 ,= 6.1-1ubuntu1.18.04,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libprocps6,libc6 ,>= 2.14,2
+C:\Users\rapha\Downloads\dependencies\postgresql,libprocps6,libsystemd0 ,>= 209,2
+C:\Users\rapha\Downloads\dependencies\postgresql,ssl-cert,adduser,any,4
+C:\Users\rapha\Downloads\dependencies\postgresql,ssl-cert,debconf ,>= 0.5,4
+C:\Users\rapha\Downloads\dependencies\postgresql,ssl-cert,debconf-2.0,any,4
+C:\Users\rapha\Downloads\dependencies\postgresql,ssl-cert,openssl ,>= 0.9.8g-9,4
+C:\Users\rapha\Downloads\dependencies\postgresql,openssl,libc6 ,>= 2.15,2
+C:\Users\rapha\Downloads\dependencies\postgresql,openssl,libssl1.1 ,>= 1.1.0,2
+C:\Users\rapha\Downloads\dependencies\postgresql,ucf,coreutils ,>= 5.91,3
+C:\Users\rapha\Downloads\dependencies\postgresql,ucf,debconf ,>= 1.5.19,3
+C:\Users\rapha\Downloads\dependencies\postgresql,ucf,sensible-utils,any,3
+C:\Users\rapha\Downloads\dependencies\postgresql,tzdata,debconf ,>= 0.5,2
+C:\Users\rapha\Downloads\dependencies\postgresql,tzdata,debconf-2.0,any,2
